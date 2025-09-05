@@ -35,14 +35,11 @@ CREATE TABLE dominio (
     nome VARCHAR(50) NOT NULL UNIQUE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
--- INSERT INTO dominio (nome) VALUES
--- ('Estadual'),
--- ('Federal');
 
 CREATE TABLE politicas_publicas (
     resourceID INT AUTO_INCREMENT PRIMARY KEY,  -- DarwinCore: identificador
-    title TEXT NOT NULL,                        -- DarwinCore: title
-    description VARCHAR(200),                   -- DarwinCore: description
+    title VARCHAR(200) NOT NULL,                -- DarwinCore: title
+    description TEXT,                           -- DarwinCore: description
     bibliographicCitation TEXT,                 -- DarwinCore: bibliographicCitation
     references_url TEXT,                        -- DarwinCore: references
     tipoID TINYINT NOT NULL,

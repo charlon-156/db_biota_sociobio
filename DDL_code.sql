@@ -1,0 +1,75 @@
+DROP DATABASE IF EXISTS biota_sociobiodiversidade;
+
+CREATE DATABASE biota_sociobiodiversidade
+  DEFAULT CHARACTER SET utf8mb4
+  COLLATE utf8mb4_unicode_ci;
+
+USE biota_sociobiodiversidade;
+
+-- Tipos (Lei, Decreto, Resolução, Portaria, Programa etc.)
+
+CREATE TABLE tipo_pp (
+	tipoID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    nome TEXT NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- INSERT INTO tipo_pp (nome) VALUES
+-- ('Resolução'),
+-- ('Decreto'),
+-- ('Lei'),
+-- ('Portaria'),
+-- ('Programa');
+
+-- -------------------------------------------------------------------
+-- Instituições (Secretaria, Ministério, Governo, Presidência etc.)
+-- -------------------------------------------------------------------
+
+CREATE TABLE instituicao (
+    instituicaoID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(500) NOT NULL UNIQUE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- INSERT INTO instituicao (nome) VALUES
+-- ('Secretaria de Infraestrutura e Meio Ambiente - SP'),
+-- ('Secretaria do Meio Ambiente - SP'),
+-- ('Secretaria da Agricultura e Abastecimento - SP'),
+-- ('Secretaria do Desenvolvimento Econômico - SP'),
+-- ('Fundação Florestal - SP'),
+-- ('Presidência da República - Casa Civil - BRASIL'),
+-- ('Ministério do Meio Ambiente - BRASIL'),
+-- ('Ministério da Agricultura - BRASIL'),
+-- ('Governo do Estado de São Paulo - SP');
+
+-- -------------------------------------------------------------------
+-- Domínios (Estadual, Federal, Municipal etc.)
+-- -------------------------------------------------------------------
+
+CREATE TABLE dominio (
+    dominioID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50) NOT NULL UNIQUE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- INSERT INTO dominio (nome) VALUES
+-- ('Estadual'),
+-- ('Federal');
+
+CREATE TABLE politicas_publicas (
+    resourceID INT AUTO_INCREMENT PRIMARY KEY,  -- DarwinCore: identificador
+    title TEXT NOT NULL,                        -- DarwinCore: title
+    description VARCHAR(200),                   -- DarwinCore: description
+    bibliographicCitation TEXT,                 -- DarwinCore: bibliographicCitation
+    references_url TEXT,                        -- DarwinCore: references
+    tipoID TINYINT NOT NULL,
+    instituicaoID TINYINT NOT NULL,
+    dominioID TINYINT NOT NULL,
+
+    -- Relacionamentos
+    FOREIGN KEY (tipoID) REFERENCES tipo_pp( tipoID),
+    FOREIGN KEY (instituicaoID) REFERENCES instituicao(instituicaoID),
+    FOREIGN KEY (dominioID) REFERENCES dominio(dominioID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+
+
+

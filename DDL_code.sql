@@ -10,9 +10,9 @@ USE biota_sociobiodiversidade;
 -- Tipos (Lei, Decreto, Resolução, Portaria, Programa etc.)
 -- -------------------------------------------------------------------
 
-CREATE TABLE tipo_pp (
-	tipoID TINYINT AUTO_INCREMENT PRIMARY KEY,
-    nome TEXT NOT NULL
+CREATE TABLE type_pp (
+	typeID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    type VARCHAR(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
@@ -20,9 +20,9 @@ CREATE TABLE tipo_pp (
 -- Instituições (Secretaria, Ministério, Governo, Presidência etc.)
 -- -------------------------------------------------------------------
 
-CREATE TABLE instituicao (
-    instituicaoID TINYINT AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(500) NOT NULL UNIQUE
+CREATE TABLE institutions (
+    institutionID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    institution VARCHAR(200) NOT NULL UNIQUE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
@@ -30,29 +30,49 @@ CREATE TABLE instituicao (
 -- Domínios (Estadual, Federal, Municipal etc.)
 -- -------------------------------------------------------------------
 
-CREATE TABLE dominio (
-    dominioID TINYINT AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(50) NOT NULL UNIQUE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+-- CREATE TABLE dominio (
+--     dominioID TINYINT AUTO_INCREMENT PRIMARY KEY,
+--     name VARCHAR(50) NOT NULL UNIQUE
+-- ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
-CREATE TABLE politicas_publicas (
-    resourceID INT AUTO_INCREMENT PRIMARY KEY,  -- DarwinCore: identificador
-    title VARCHAR(200) NOT NULL,                -- DarwinCore: title
+CREATE TABLE public_policies (
+    resourceID SMALLINT AUTO_INCREMENT PRIMARY KEY,  -- DarwinCore: identificador
+    title VARCHAR(100) NOT NULL,                -- DarwinCore: title
     description TEXT,                           -- DarwinCore: description
     bibliographicCitation TEXT,                 -- DarwinCore: bibliographicCitation
     references_url TEXT,                        -- DarwinCore: references
-    tipoID TINYINT NOT NULL,
-    instituicaoID TINYINT NOT NULL,
-    dominioID TINYINT NOT NULL,
+    typeID TINYINT NOT NULL,
+    institutionID TINYINT NOT NULL,
+    -- dominioID TINYINT NOT NULL,
 
     -- Relacionamentos
-    FOREIGN KEY (tipoID) REFERENCES tipo_pp( tipoID),
-    FOREIGN KEY (instituicaoID) REFERENCES instituicao(instituicaoID),
-    FOREIGN KEY (dominioID) REFERENCES dominio(dominioID)
+    FOREIGN KEY (typeID) REFERENCES type_pp(typeID),
+    FOREIGN KEY (institutionID) REFERENCES institutions(institutionID)
+    -- FOREIGN KEY (dominioID) REFERENCES dominio(dominioID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE RGI (
+	rgiID MEDIUMINT PRIMARY KEY,
+    rgi VARCHAR(80)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE RGINT (
+	rgintID SMALLINT PRIMARY KEY,
+    rgint VARCHAR(80)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-
-
+CREATE TABLE municipalities (
+	municipalityID MEDIUMINT PRIMARY KEY,
+    municipality VARCHAR(100) not null,
+    rgiID MEDIUMINT NOT NULL,
+    rgintID	SMALLINT NOT NULL,
+    areaKM2	FLOAT,
+    population FLOAT,
+    man	FLOAT,
+    woman FLOAT,	
+    reasonSex FLOAT,	
+    middleAge FLOAT,
+    FOREIGN KEY (rgiID) REFERENCES RGI(rgiID),
+    FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

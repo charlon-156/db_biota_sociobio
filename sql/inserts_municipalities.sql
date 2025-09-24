@@ -1,147 +1,213 @@
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3523305, 'Itariri', 350002, 3501, 273.667, 15501, 7684, 7817, 101.7, 36.7);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3502705, 'Apiaí', 350004, 3502, 974.322, 24477, 12239, 12238, 100, NULL, 25.1, 42, 22, NULL, 22, NULL, NULL, NULL, 77, 11359, 22, 11847, 1276);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3526209, 'Juquitiba', 350001, 3501, 522.169, 27189, 13669, 13520, 98.9, 37.1);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3505351, 'Barra do Chapéu', 350004, 3502, 405.681, 5162, 2671, 2491, 93.3, NULL, 12.7, NULL, 3, NULL, 3, 12, NULL, 12, 19, 2107, 3, 2763, 287);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3537206, 'Pedro de Toledo', 350002, 3501, 670.44, 11340, 5798, 5542, 95.6, 38.7);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3505401, 'Barra do Turvo', 350005, 3502, 1007.684, 6784, 3429, 3355, 97.8, NULL, 6.7, 2250, 28, NULL, 28, 1226, 517, 709, 26, 2829, 28, 3479, 514);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3549953, 'São Lourenço da Serra', 350001, 3501, 186.456, 16185, 8110, 8075, 99.6, 37.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3509254, 'Cajati', 350005, 3502, 454.489, 28495, 14319, 14176, 99, NULL, 62.7, 1193, 23, NULL, 23, 101, NULL, 101, 156, 13312, 23, 13735, 1289);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3502507, 'Aparecida', 350052, 3511, 120.89, 32272, 15462, 16810, 108.7, 39.1);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3514809, 'Eldorado', 350005, 3502, 1654.256, 12887, 6453, 6434, 99.7, NULL, 7.8, 2228, 112, 91, 21, 2245, 1389, 856, 50, 4847, 111, 6356, 1705);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3503158, 'Arapeí', 350053, 3511, 156.903, 2306, 1135, 1171, 103.2, 40.5);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3517604, 'Guapiara', 350004, 3502, 408.292, 16927, 8574, 8353, 97.4, NULL, 41.5, NULL, 1, NULL, 1, NULL, NULL, NULL, 193, 8459, 1, 8022, 395);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3503505, 'Areias', 350053, 3511, 305.227, 3556, 1792, 1764, 98.4, 38.4);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3521200, 'Iporanga', 350005, 3502, 1152.059, 4028, 2033, 1995, 98.1, NULL, 3.5, 1082, 13, NULL, 13, 1424, 717, 707, 8, 892, 13, 2475, 658);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3504909, 'Bananal', 350053, 3511, 616.429, 9929, 4810, 5119, 106.4, 39.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3522158, 'Itaoca', 350004, 3502, 183.015, 3437, 1705, 1732, 101.6, NULL, 18.8, NULL, NULL, NULL, NULL, 306, 162, 144, 7, 1046, 0, 2152, 217);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3508504, 'Caçapava', 350049, 3511, 368.99, 96808, 47326, 49482, 104.6, 37.8);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3522653, 'Itapirapuã Paulista', 350004, 3502, 406.478, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3508603, 'Cachoeira Paulista', 350053, 3511, 287.99, 31604, 15234, 16370, 107.5, 38.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3523305, 'Itariri', 350002, 3501, 273.667, 15501, 7684, 7817, 101.7, NULL, 56.6, 1944, 97, 40, 57, NULL, NULL, NULL, 352, 6750, 84, 7216, 1126);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3509700, 'Campos do Jordão', 350050, 3511, 289.981, 46787, 22823, 23964, 105, 36.9);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3524600, 'Jacupiranga', 350005, 3502, 704.136, 15944, 7882, 8062, 102.3, NULL, 22.6, 216, 15, NULL, 15, 133, 125, 8, 61, 8229, 14, 7128, 665);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3509957, 'Canas', 350052, 3511, 53.261, 4964, 2477, 2487, 100.4, 35);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3526100, 'Juquiá', 350005, 3502, 812.799, 16954, 8478, 8476, 100, NULL, 20.9, 13635, 27, NULL, 27, 1, NULL, 1, 266, 7767, 27, 8081, 1012);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3513405, 'Cruzeiro', 350053, 3511, 305.699, 74529, 35744, 38785, 108.5, 39);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3526209, 'Juquitiba', 350001, 3501, 522.169, 27189, 13669, 13520, 98.9, NULL, 52.1, 5589, 34, NULL, 34, NULL, NULL, NULL, 138, 15179, 34, 10386, 1667);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3513603, 'Cunha', 350052, 3511, 1407.25, 22110, 11231, 10879, 96.9, 40);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3529906, 'Miracatu', 350005, 3502, 1001.484, 18330, 9112, 9218, 101.2, NULL, 18.3, 4239, 156, NULL, 156, 39, NULL, NULL, 197, 8678, 144, 8432, 1102);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3518305, 'Guararema', 350001, 3501, 270.816, 31576, 15529, 16047, 103.3, 37.9);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3536208, 'Pariquera-Açu', 350005, 3502, 359.414, 19252, 9524, 9728, 102.1, NULL, 53.6, 15, 150, NULL, 150, 1, NULL, 1, 152, 10062, 148, 7854, 1017);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3518404, 'Guaratinguetá', 350052, 3511, 752.636, 118349, 56651, 61698, 108.9, 39.2);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3537206, 'Pedro de Toledo', 350002, 3501, 670.44, 11340, 5798, 5542, 95.6, NULL, 16.9, 893, 22, NULL, 22, NULL, NULL, NULL, 143, 6017, 22, 4411, 688);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3520202, 'Igaratá', 350049, 3511, 292.953, 10721, 5346, 5375, 100.5, 38);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3542602, 'Registro', 350005, 3502, 722.201, 60211, 29889, 30322, 101.4, NULL, 83.4, NULL, 189, NULL, 189, 65, 64, 1, 2013, 31790, 75, 22977, 3091);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3524402, 'Jacareí', 350049, 3511, 464.272, 241952, 116536, 125416, 107.6, 37.8);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3542800, 'Ribeira', 350004, 3502, 335.759, 3103, 1575, 1528, 97, NULL, 9.2, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 2, 1373, 0, 1619, 138);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3524907, 'Jambeiro', 350049, 3511, 184.413, 6480, 3237, 3243, 100.2, 38.5);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3543006, 'Ribeirão Branco', 350004, 3502, 697.5, 18620, 9459, 9161, 96.8, NULL, 26.7, NULL, 21, NULL, 21, NULL, NULL, NULL, 77, 11307, 18, 6660, 565);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3525508, 'Joanópolis', 350041, 3510, 374.293, 12836, 6497, 6339, 97.6, 39.1);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3543253, 'Ribeirão Grande', 350004, 3502, 333.363, 7422, 3807, 3615, 95, NULL, 22.3, 7, 5, NULL, 5, NULL, NULL, NULL, 29, 5264, 5, 2029, 123);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3526308, 'Lagoinha', 350050, 3511, 255.472, 5092, 2577, 2515, 97.6, 42.4);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3549953, 'São Lourenço da Serra', 350001, 3501, 186.456, 16185, 8110, 8075, 99.6, NULL, 86.8, NULL, 11, NULL, 11, NULL, NULL, NULL, 211, 8762, 11, 6100, 982);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3526605, 'Lavrinhas', 350053, 3511, 167.067, 7206, 3572, 3634, 101.7, 35.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3551801, 'Sete Barras', 350005, 3502, 1062.699, 12661, 6424, 6237, 97.1, NULL, 11.9, 11310, 118, NULL, 118, 17, NULL, 17, 129, 5788, 118, 5984, 708);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3527207, 'Lorena', 350052, 3511, 414.16, 84830, 40579, 44251, 109, 38.4);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3553500, 'Tapiraí', 350003, 3502, 755.101, 8001, 4020, 3981, 99, NULL, 10.6, 691, 151, 142, 9, NULL, NULL, NULL, 160, 4456, 147, 2776, 457);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3531704, 'Monteiro Lobato', 350049, 3511, 332.742, 4143, 2055, 2088, 101.6, 39.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3502507, 'Aparecida', 350052, 3511, 120.89, 32272, 15462, 16810, 108.7, NULL, 267, NULL, 38, NULL, 38, NULL, NULL, NULL, 81, 20874, 38, 9567, 2007);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3532306, 'Natividade da Serra', 350050, 3511, 833.372, 6998, 3638, 3360, 92.4, 41.1);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3503158, 'Arapeí', 350053, 3511, 156.903, 2306, 1135, 1171, 103.2, NULL, 14.7, NULL, 6, NULL, 6, NULL, NULL, NULL, 9, 1166, 6, 865, 284);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3532405, 'Nazaré Paulista', 350041, 3510, 326.254, 18305, 9268, 9037, 97.5, 38.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3503505, 'Areias', 350053, 3511, 305.227, 3556, 1792, 1764, 98.4, NULL, 11.7, 2393, 3, NULL, 3, NULL, NULL, NULL, 4, 1903, 3, 1407, 260);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3535606, 'Paraibuna', 350049, 3511, 809.576, 17666, 8907, 8759, 98.3, 39.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3504909, 'Bananal', 350053, 3511, 616.429, 9929, 4810, 5119, 106.4, NULL, 16.1, 178, 2, NULL, 2, NULL, NULL, NULL, 4, 5149, 2, 3780, 1034);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3538006, 'Pindamonhangaba', 350050, 3511, 731.355, 166656, 80618, 86038, 106.7, 37.2);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3508504, 'Caçapava', 350049, 3511, 368.99, 96808, 47326, 49482, 104.6, NULL, 262.4, 215, 39, NULL, 39, NULL, NULL, NULL, 445, 60842, 39, 29240, 5629);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3538501, 'Piquete', 350052, 3511, 175.996, 12334, 5896, 6438, 109.2, 40.9);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3508603, 'Cachoeira Paulista', 350053, 3511, 287.99, 31604, 15234, 16370, 107.5, NULL, 109.7, 1034, 13, NULL, 13, NULL, NULL, NULL, 62, 19800, 13, 9542, 2145);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3538600, 'Piracaia', 350041, 3510, 385.568, 26070, 12708, 13362, 105.1, 40.2);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3509700, 'Campos do Jordão', 350050, 3511, 289.981, 46787, 22823, 23964, 105, NULL, 161.3, 46774, 35, NULL, 35, NULL, NULL, NULL, 232, 34269, 35, 10876, 1559);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3540754, 'Potim', 350052, 3511, 44.643, 20443, 11510, 8933, 77.6, 34.9);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3509957, 'Canas', 350052, 3511, 53.261, 4964, 2477, 2487, 100.4, NULL, 93.2, NULL, 1, NULL, 1, NULL, NULL, NULL, 10, 2604, 1, 2030, 286);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3541901, 'Queluz', 350053, 3511, 249.399, 8964, 4440, 4524, 101.9, 37.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3513405, 'Cruzeiro', 350053, 3511, 305.699, 74529, 35744, 38785, 108.5, NULL, 243.8, 90, 35, NULL, 35, NULL, NULL, NULL, 128, 50530, 35, 19105, 5159);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3542305, 'Redenção da Serra', 350050, 3511, 309.441, 4536, 2375, 2161, 91, 41.5);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3513603, 'Cunha', 350052, 3511, 1407.25, 22110, 11231, 10879, 96.9, NULL, 15.7, 19, 9, NULL, 9, NULL, NULL, NULL, 61, 14521, 6, 6856, 664);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3544301, 'Roseira', 350052, 3511, 129.847, 10900, 5441, 5459, 100.3, 36.7);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3518305, 'Guararema', 350001, 3501, 270.816, 31576, 15529, 16047, 103.3, NULL, 116.6, 8, 54, NULL, 54, NULL, NULL, NULL, 379, 18378, 54, 10446, 1979);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3545001, 'Salesópolis', 350001, 3501, 424.997, 15146, 7482, 7664, 102.4, 38.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3518404, 'Guaratinguetá', 350052, 3511, 752.636, 118349, 56651, 61698, 108.9, NULL, 157.2, 1341, 56, NULL, 56, 33, NULL, 33, 405, 76371, 56, 34286, 6925);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3546009, 'Santa Branca', 350049, 3511, 272.238, 13956, 6939, 7017, 101.1, 40);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3520202, 'Igaratá', 350049, 3511, 292.953, 10721, 5346, 5375, 100.5, NULL, 36.6, 9911, 21, NULL, 21, NULL, NULL, NULL, 34, 6510, 21, 3396, 644);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3546801, 'Santa Isabel', 350001, 3501, 363.332, 53232, 26259, 26973, 102.7, 37.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3524402, 'Jacareí', 350049, 3511, 464.272, 241952, 116536, 125416, 107.6, NULL, 521.1, 1154, 177, NULL, 177, NULL, NULL, NULL, 2090, 154729, 177, 68403, 14861);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3548203, 'Santo Antônio do Pinhal', 350050, 3511, 133.008, 7177, 3611, 3566, 98.8, 39.2);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3524907, 'Jambeiro', 350049, 3511, 184.413, 6480, 3237, 3243, 100.2, NULL, 35.1, 852, 4, NULL, 4, NULL, NULL, NULL, 34, 4252, 4, 1821, 286);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3548609, 'São Bento do Sapucaí', 350050, 3511, 252.579, 11737, 5805, 5932, 102.2, 40.5);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3525508, 'Joanópolis', 350041, 3510, 374.293, 12836, 6497, 6339, 97.6, NULL, 34.3, 12815, 8, NULL, 8, NULL, NULL, NULL, 47, 8920, 8, 3393, 447);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3549607, 'São José do Barreiro', 350053, 3511, 570.685, 3836, 1920, 1916, 99.8, 39);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3526308, 'Lagoinha', 350050, 3511, 255.472, 5092, 2577, 2515, 97.6, NULL, 19.9, NULL, 3, NULL, 3, NULL, NULL, NULL, 8, 3648, 3, 1244, 180);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3549904, 'São José dos Campos', 350049, 3511, 1099.409, 700311, 336303, 364008, 108.2, 37.7);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3526605, 'Lavrinhas', 350053, 3511, 167.067, 7206, 3572, 3634, 101.7, NULL, 43.1, 124, 1, NULL, 1, NULL, NULL, NULL, 19, 4451, 1, 2303, 397);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3550001, 'São Luiz do Paraitinga', 350050, 3511, 617.315, 10340, 5209, 5131, 98.5, 41.9);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3527207, 'Lorena', 350052, 3511, 414.16, 84830, 40579, 44251, 109, NULL, 204.8, 8, 62, NULL, 62, NULL, NULL, NULL, 338, 53139, 62, 25484, 5831);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3552007, 'Silveiras', 350053, 3511, 414.782, 6213, 3093, 3120, 100.9, 38.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3531704, 'Monteiro Lobato', 350049, 3511, 332.742, 4143, 2055, 2088, 101.6, NULL, 12.5, 3941, 2, NULL, 2, NULL, NULL, NULL, 16, 2694, 2, 1178, 248);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3554102, 'Taubaté', 350050, 3511, 625.003, 312416, 150148, 162268, 108.1, 38.2);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3532306, 'Natividade da Serra', 350050, 3511, 833.372, 6998, 3638, 3360, 92.4, NULL, 8.4, 3697, 4, NULL, 4, NULL, NULL, NULL, 14, 4818, 4, 1910, 253);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3554805, 'Tremembé', 350050, 3511, 191.094, 51803, 27677, 24126, 87.2, 37.3);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3532405, 'Nazaré Paulista', 350041, 3510, 326.254, 18305, 9268, 9037, 97.5, NULL, 56.1, 18217, 13, NULL, 13, NULL, NULL, NULL, 70, 11661, 13, 5591, 882);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3510500, 'Caraguatatuba', 350051, 3511, 484.947, 137297, 66596, 70701, 106.2, 37);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3535606, 'Paraibuna', 350049, 3511, 809.576, 17666, 8907, 8759, 98.3, NULL, 21.8, 3423, 19, NULL, 19, NULL, NULL, NULL, 47, 11857, 19, 5134, 610);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3520400, 'Ilhabela', 350051, 3511, 346.389, 35371, 17448, 17923, 102.7, 35.9);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3538006, 'Pindamonhangaba', 350050, 3511, 731.355, 166656, 80618, 86038, 106.7, NULL, 227.9, 833, 116, NULL, 116, NULL, NULL, NULL, 1106, 99855, 116, 53685, 10656);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3550704, 'São Sebastião', 350051, 3511, 402.395, 81958, 39980, 41978, 105, 35.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3538501, 'Piquete', 350052, 3511, 175.996, 12334, 5896, 6438, 109.2, NULL, 70.1, 185, 11, NULL, 11, NULL, NULL, NULL, 16, 7757, 11, 3764, 942);
 INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES (3555406, 'Ubatuba', 350051, 3511, 708.105, 94009, 46381, 47628, 102.7, 36.6);
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3538600, 'Piracaia', 350041, 3510, 385.568, 26070, 12708, 13362, 105.1, NULL, 67.6, 26000, 32, NULL, 32, NULL, NULL, NULL, 288, 17193, 32, 7259, 1257);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3540754, 'Potim', 350052, 3511, 44.643, 20443, 11510, 8933, 77.6, NULL, 457.9, NULL, 11, NULL, 11, NULL, NULL, NULL, 29, 11186, 11, 7816, 1347);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3541901, 'Queluz', 350053, 3511, 249.399, 8964, 4440, 4524, 101.9, NULL, 35.9, 373, 6, NULL, 6, NULL, NULL, NULL, 11, 5214, 6, 3291, 637);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3542305, 'Redenção da Serra', 350050, 3511, 309.441, 4536, 2375, 2161, 91, NULL, 14.7, 527, 1, NULL, 1, NULL, NULL, NULL, 20, 3009, 1, 1286, 178);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3544301, 'Roseira', 350052, 3511, 129.847, 10900, 5441, 5459, 100.3, NULL, 83.9, NULL, 6, NULL, 6, NULL, NULL, NULL, 34, 6214, 6, 4006, 572);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3545001, 'Salesópolis', 350001, 3501, 424.997, 15146, 7482, 7664, 102.4, NULL, 35.6, NULL, 4, NULL, 4, NULL, NULL, NULL, 107, 11369, 4, 3327, 395);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3546009, 'Santa Branca', 350049, 3511, 272.238, 13956, 6939, 7017, 101.1, NULL, 51.3, 526, 5, NULL, 5, NULL, NULL, NULL, 31, 9104, 5, 4098, 737);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3546801, 'Santa Isabel', 350001, 3501, 363.332, 53232, 26259, 26973, 102.7, NULL, 146.5, 49926, 36, NULL, 36, NULL, NULL, NULL, 496, 32652, 36, 16873, 3117);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3548203, 'Santo Antônio do Pinhal', 350050, 3511, 133.008, 7177, 3611, 3566, 98.8, NULL, 54, 7133, 8, NULL, 8, NULL, NULL, NULL, 85, 5686, 8, 1197, 157);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3548609, 'São Bento do Sapucaí', 350050, 3511, 252.579, 11737, 5805, 5932, 102.2, NULL, 46.5, 11674, 2, NULL, 2, 111, NULL, 111, 19, 9309, 2, 2065, 279);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3549607, 'São José do Barreiro', 350053, 3511, 570.685, 3836, 1920, 1916, 99.8, NULL, 6.7, 58, 1, NULL, 1, NULL, NULL, NULL, 1, 2389, 1, 1264, 198);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3549904, 'São José dos Campos', 350049, 3511, 1099.409, 700311, 336303, 364008, 108.2, NULL, 637, 82665, 629, NULL, 629, NULL, NULL, NULL, 9008, 462603, 629, 181647, 43136);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3550001, 'São Luiz do Paraitinga', 350050, 3511, 617.315, 10340, 5209, 5131, 98.5, NULL, 16.7, 19, 6, NULL, 6, NULL, NULL, NULL, 22, 7697, 6, 2312, 297);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3552007, 'Silveiras', 350053, 3511, 414.782, 6213, 3093, 3120, 100.9, NULL, 15, 6186, 1, NULL, 1, NULL, NULL, NULL, 2, 3905, 1, 1927, 351);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3554102, 'Taubaté', 350050, 3511, 625.003, 312416, 150148, 162268, 108.1, NULL, 499.9, 3911, 242, NULL, 242, NULL, NULL, NULL, 1949, 217190, 242, 75966, 15384);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3554805, 'Tremembé', 350050, 3511, 191.094, 51803, 27677, 24126, 87.2, NULL, 271.1, 5, 57, NULL, 57, NULL, NULL, NULL, 298, 33113, 57, 14868, 2682);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3509908, 'Cananéia', 350005, 3502, 1237.354, 12240, 5966, 6274, 105.2, NULL, 9.9, 1320, 214, NULL, 214, 501, 60, 441, 93, 6571, 183, 4682, 760);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3520301, 'Iguape', 350005, 3502, 1978.795, 29043, 14565, 14478, 99.4, NULL, 14.7, 2820, 327, NULL, 327, 379, 94, 285, 335, 14681, 311, 12359, 1428);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3520426, 'Ilha Comprida', 350005, 3502, 196.567, 13733, 6751, 6982, 103.4, NULL, 69.9, 13419, 26, NULL, 26, NULL, NULL, NULL, 122, 7465, 26, 4939, 867);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3510500, 'Caraguatatuba', 350051, 3511, 484.947, 137297, 66596, 70701, 106.2, NULL, 283.1, 114, 265, NULL, 265, NULL, NULL, NULL, 986, 76327, 265, 47517, 9775);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3520400, 'Ilhabela', 350051, 3511, 346.389, 35371, 17448, 17923, 102.7, NULL, 102.1, 266, 112, NULL, 112, NULL, NULL, NULL, 147, 17871, 112, 14163, 2641);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3550704, 'São Sebastião', 350051, 3511, 402.395, 81958, 39980, 41978, 105, NULL, 203.7, 911, 487, 291, 196, NULL, NULL, NULL, 448, 38747, 457, 34443, 7492);
+INSERT INTO municipalities
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES (3555406, 'Ubatuba', 350051, 3511, 708.105, 94009, 46381, 47628, 102.7, NULL, 132.8, 1620, 643, 193, 450, 1371, 412, 959, 698, 49447, 546, 34925, 7364);

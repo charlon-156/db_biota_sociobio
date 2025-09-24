@@ -20,7 +20,7 @@ map_rgi = {
 
 map_rgint = {
     "São Paulo": 3501,
-    "Soborocaba": 3502,
+    "Sorocaba": 3502,
     "Campinas": 3510,
     "São José dos Campos": 3511,
 }
@@ -46,13 +46,26 @@ for i, row in df.iterrows():
     population = num(row.get("population"))
     man = num(row.get("man"))
     woman = num(row.get("woman"))
-    reasonSex = num(row.get("reasonSex"))
+    genderRatio = num(row.get("genderRatio"))
     middleAge = num(row.get("middleAge"))
+    populationDensity = num(row.get("populationDensity"))
+    populationProtectedArea = num(row.get("populationProtectedArea"))
+    indigenousPopulation = num(row.get("indigenousPopulation"))
+    insideIndigenousLand = num(row.get("insideIndigenousLand"))
+    outsideIndigenousLand = num(row.get("outsideIndigenousLand"))
+    quilombolaPopulation = num(row.get("quilombolaPopulation"))
+    insideQuilombolaLand = num(row.get("insideQuilombolaLand"))
+    outsideQuilombolaLand = num(row.get("outsideQuilombolaLand"))
+    populationByRaceAmarela = num(row.get("populationByRaceAmarela"))
+    populationByRaceBranca = num(row.get("populationByRaceBranca"))
+    populationByRaceIndigena = num(row.get("populationByRaceIndigena"))
+    populationByRaceParda = num(row.get("populationByRaceParda"))
+    populationByRacePreta = num(row.get("populationByRacePreta"))
 
     if municipality and rgi and rgint:
         sql = f"""INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, reasonSex, middleAge)
-        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {area}, {population}, {man}, {woman}, {reasonSex}, {middleAge});"""
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {area}, {population}, {man}, {woman}, {genderRatio}, {middleAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});"""
         inserts.append(sql)
     else:
         erros.append({

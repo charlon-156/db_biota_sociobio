@@ -47,7 +47,7 @@ for i, row in df.iterrows():
     man = num(row.get("man"))
     woman = num(row.get("woman"))
     genderRatio = num(row.get("genderRatio"))
-    middleAge = num(row.get("middleAge"))
+    averageAge = num(row.get("averageAge"))
     populationDensity = num(row.get("populationDensity"))
     populationProtectedArea = num(row.get("populationProtectedArea"))
     indigenousPopulation = num(row.get("indigenousPopulation"))
@@ -64,8 +64,8 @@ for i, row in df.iterrows():
 
     if municipality and rgi and rgint:
         sql = f"""INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
-        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {area}, {population}, {man}, {woman}, {genderRatio}, {middleAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});"""
+        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, averageAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {area}, {population}, {man}, {woman}, {genderRatio}, {averageAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});"""
         inserts.append(sql)
     else:
         erros.append({

@@ -8,6 +8,6 @@ JOIN RGI gi ON m.rgiID = gi.rgiID
 JOIN RGINT g ON m.rgintID = g.rgintID
 ORDER BY m.municipality; 
 
-SELECT * FROM municipalities;
-
-SELECT * FROM institutions;
+SELECT m.municipalityID AS 'Código do município', m.municipality AS 'Município', u.ugrhi AS 'UGRHI' from municipality_ugrhi mu
+JOIN municipalities m ON mu.municipalityID = m.municipalityID
+JOIN ugrhis u ON mu.ugrhiID = u.ugrhiID;

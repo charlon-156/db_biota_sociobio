@@ -62,6 +62,12 @@ CREATE TABLE RGINT (
     rgint VARCHAR(80)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE koppen (
+    koppenID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    dynamicProper VARCHAR(5),
+    description VARCHAR(50)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 CREATE TABLE municipalities (
 	municipalityID MEDIUMINT PRIMARY KEY,
     municipality VARCHAR(100) not null,
@@ -89,6 +95,40 @@ CREATE TABLE municipalities (
     FOREIGN KEY (rgiID) REFERENCES RGI(rgiID),
     FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE climate_mun (
+    municipalityID MEDIUMINT NOT NULL PRIMARY KEY,
+    koppenID TINYINT NOT NULL,
+    elevation FLOAT,
+    measurementOrFact_T_jan FLOAT,
+    measurementOrFact_T_feb FLOAT,
+    measurementOrFact_T_mar FLOAT,
+    measurementOrFact_T_apr FLOAT,
+    measurementOrFact_T_may FLOAT,
+    measurementOrFact_T_jun FLOAT,
+    measurementOrFact_T_jul FLOAT,
+    measurementOrFact_T_aug FLOAT,
+    measurementOrFact_T_sep FLOAT,
+    measurementOrFact_T_oct FLOAT,
+    measurementOrFact_T_nov FLOAT,
+    measurementOrFact_T_dec FLOAT,
+    measurementOrFact_R_jan SMALLINT,
+    measurementOrFact_R_feb SMALLINT,
+    measurementOrFact_R_mar SMALLINT,
+    measurementOrFact_R_apr SMALLINT,
+    measurementOrFact_R_may SMALLINT,
+    measurementOrFact_R_jun SMALLINT,
+    measurementOrFact_R_jul SMALLINT,
+    measurementOrFact_R_aug SMALLINT,
+    measurementOrFact_R_sep SMALLINT,
+    measurementOrFact_R_oct SMALLINT,
+    measurementOrFact_R_nov SMALLINT,
+    measurementOrFact_R_dec SMALLINT,
+    geometry LONGTEXT,
+    FOREIGN KEY (koppenID) REFERENCES koppen(koppenID),
+    FOREIGN KEY (municipalityID) REFERENCES municipalities(municipalityID)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 
 CREATE TABLE ugrhis (
     ugrhiID TINYINT PRIMARY KEY,

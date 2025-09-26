@@ -89,3 +89,17 @@ CREATE TABLE municipalities (
     FOREIGN KEY (rgiID) REFERENCES RGI(rgiID),
     FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE ugrhis (
+    ugrhiID TINYINT PRIMARY KEY,
+    ugrhi VARCHAR(100) NOT NULL,
+    geometry LONGTEXT -- armazenar a string "intacta"
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE municipality_ugrhi (
+    municipalityID MEDIUMINT,
+    ugrhiID TINYINT,
+    PRIMARY KEY (municipalityID, ugrhiID),
+    FOREIGN KEY (municipalityID) REFERENCES municipalities(municipalityID),
+    FOREIGN KEY (ugrhiID) REFERENCES ugrhis(ugrhiID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

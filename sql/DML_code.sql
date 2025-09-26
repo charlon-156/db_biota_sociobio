@@ -52,6 +52,15 @@ INSERT INTO RGINT (rgintID, rgint) VALUES
 (3510,'Campinas'),
 (3511, 'São José dos Campos');
 
+INSERT INTO ugrhis (ugrhiID, ugrhi, geometry) VALUES
+(1, 'Mantiqueira', ''),
+(2, 'Paraíba do Sul', ''),
+(3, 'Litoral Norte', ''),
+(5, 'Piracicaba/Capivari/Jundaí', ''),
+(6, 'Alto Tietê', ''),
+(7, 'Baixada Santista', ''),
+(11, 'Ribeira de Iguape e Litoral Sul', ''),
+(14, 'Alto Paranapanema', '');
 
 -- SELECT pp.resourceID, pp.title, pp.description, t.nome AS tipo, i.nome AS instituicao, d.nome AS dominio, pp.bibliographicCitation, pp.references_url FROM politicas_publicas pp
 -- JOIN tipo_pp t ON pp.tipoID = t.tipoID

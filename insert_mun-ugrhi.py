@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Carregar a planilha
-file_path = "planilhas/Dados abióticos.xlsx"
+file_path = "docs/Dados abióticos.xlsx"
 df = pd.read_excel(file_path)
 
 map_mun = {

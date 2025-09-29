@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Carregar a planilha
-file_path = "planilhas/municipality.xlsx"
+file_path = "docs/municipality.xlsx"
 df = pd.read_excel(file_path)
 
 map_rgi = {

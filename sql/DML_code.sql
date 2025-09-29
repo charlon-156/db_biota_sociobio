@@ -31,7 +31,8 @@ INSERT INTO institutions (institution) VALUES
 ('Companhia Ambiental do Estado de São Paulo'),
 ('Instituto Chico Mendes de Conservação da Biodiversidade'),
 ('Prefeitura Municipal da Estância Balneária de Ubatuba'),
-('Planalto');
+('Planalto')
+('"Ministério do Meio Ambiente Secretaria de Biodiversidade e Florestas Diretoria de Conservação da Biodiversidade Comissão Nacional de Biodiversidade - CONABIO');
 
 INSERT INTO RGI (rgiID, rgi) VALUES
 (350001, 'São Paulo'),

@@ -1,4 +1,25 @@
-# 
+###############################################################
+# Dev.: Charlon F. Monteiro
+# project: Banco de Dados Sociobiodiversidade
+# file: maps.py
+# description: stores the global variables "maps" referring to 
+#              the tables to relate to the foreign keys.
+# Last update: 2025-09-29
+###############################################################
+
+
+'''
+explicação maps.py
+
+Módulo que centraliza dicionários de mapeamento entre valores textuais
+provenientes de planilhas Excel e seus respectivos códigos numéricos no banco.
+
+Exemplos:
+- map_tipo: converte nomes de tipos de políticas públicas em IDs.
+- map_instituicao: relaciona nomes de instituições com seus IDs.
+
+'''
+
 
 map_tipo = {
     "Resolução": 1,

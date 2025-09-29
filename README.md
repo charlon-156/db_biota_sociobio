@@ -14,16 +14,17 @@ sociobiodiversidade-inserts/
 ├── README.md               # documentação principal
 ├── .gitignore              # arquivos ignorados pelo git
 │
-├── inserts/                # scripts SQL de inserção
+├── sql/                    # scripts SQL de inserção
 │   ├── DDl_code.sql
 │   ├── DML_code.sql
 │   ├── SELECT_code.sql
 │   └── ...
 │
-├── docs/                   # documentação e diagramas
-│   └── modelo\_banco.png
+├── utils/                   # documentação e diagramas
+│   ├── base.py
+│   └── maps.py
 │
-└── planilhas/                 # arquivos de dados brutos (local, não versionado)
+└── doc/                 # arquivos de dados brutos (local, não versionado)
     ├── municipios.xlsx
     ├── politicas.xlsx
     └── ...
@@ -41,7 +42,24 @@ sociobiodiversidade-inserts/
 git clone https://github.com/charlon-156/db_biota_sociobio.git
 cd db_biota_sociobio
 ````
+## 🐍 Scripts Python
 
+Além dos arquivos SQL, o repositório contém scripts em Python que automatizam
+a geração dos `INSERT INTO` a partir de planilhas Excel localizadas em `docs/`.
+
+### Estrutura de `utils/`
+
+- **base.py** → Classe `SQLGenerator` para auxiliar na criação de comandos SQL,
+  garantindo consistência de valores nulos, textos e números.
+- **maps.py** → Dicionários de mapeamento para conversão de nomes em códigos (ex.: municípios, tipos de políticas, classificações climáticas).
+
+Esses módulos são usados pelos scripts de geração (ex.: `insert_municipality.py`).
+
+### Exemplo de uso
+
+```bash
+python insert_municipality.py
+```
 
 ---
 

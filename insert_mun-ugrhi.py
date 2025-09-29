@@ -9,7 +9,7 @@ df = pd.read_excel(file_path)
 db = SQLGenerator(df)
 
 for i, row in df.iterrows():
-    ugrhi_id = int(row["ugrhiID"])  # supondo que existe essa coluna
+    ugrhi_id = int(row["ugrhiID"]) 
     municipalities = str(row["municipality"]).split("//") if pd.notna(row["municipality"]) else []
 
     for m in municipalities:
@@ -22,7 +22,6 @@ for i, row in df.iterrows():
         else:
             db.erros.append({"linha": i+2, "municipality": m, "ugrhiID": ugrhi_id})
 
-
-# Verificação
+# Salvar e relatar o arquivo SQL
 db.save_sql("inserts_mun_ugrhi.sql")
 db.report()

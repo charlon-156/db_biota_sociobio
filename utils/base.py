@@ -1,3 +1,25 @@
+###############################################################
+# Dev.: Charlon F. Monteiro
+# project: Banco de Dados Sociobiodiversidade
+# file: base.py
+# description: Important module responsible for centralizing 
+#              functions to support the generation of SQL 
+#              commands for insertion from Excel spreadsheets
+# Last update: 2025-09-29
+###############################################################
+
+'''
+Módulo utilitário responsável por centralizar funções de suporte à geração
+de comandos SQL de inserção a partir de planilhas Excel.
+
+Principais componentes:
+- Classe SQLGenerator: abstrai a lógica de conversão de valores do pandas 
+  para SQL, acumula os inserts gerados e registra erros.
+- Funções auxiliares (ex.: num): garantem que valores nulos, floats e strings
+  sejam corretamente adaptados para SQL.
+'''
+
+
 import pandas as pd
 import os
 

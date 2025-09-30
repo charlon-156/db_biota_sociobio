@@ -58,6 +58,11 @@ map_instituicao = {
     "Ministério do Meio Ambiente Secretaria de Biodiversidade e Florestas Diretoria de Conservação da Biodiversidade Comissão Nacional de Biodiversidade - CONABIO": 23
 }
 
+map_statusLaw = {
+    "Vigente": 1,
+    "Revogada": 2
+}
+
 # RGI
 map_rgi = {
     "São Paulo": 350001,

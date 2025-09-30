@@ -1,6 +1,6 @@
 import pandas as pd
 from utils.base import SQLGenerator
-from utils.maps import map_tipo, map_instituicao
+from utils.maps import map_tipo, map_instituicao, map_statusLaw
 
 # Carregar a planilha
 file_path = "docs/public_policies.xlsx"
@@ -16,11 +16,12 @@ for i, row in df.iterrows():
     
     tipo = map_tipo.get(str(row["type"]).strip(), None)
     instituicao = map_instituicao.get(str(row["institution"]).strip(), None)
+    status = map_statusLaw.get(str(row["LegislativeStatus"]).strip(), 'NULL')
     
     if tipo and instituicao:
         sql = f"""INSERT INTO public_policies 
-        (title, description, bibliographicCitation, references_url, typeID, institutionID)
-        VALUES ('{title}', '{description}', '{fonte}', '{site}', {tipo}, {instituicao});"""
+        (title, description, bibliographicCitation, references_url, typeID, institutionID, LegislativeStatusID)
+        VALUES ('{title}', '{description}', '{fonte}', '{site}', {tipo}, {instituicao}, {status});"""
         db.inserts.append(sql)
     else:
         db.erros.append({

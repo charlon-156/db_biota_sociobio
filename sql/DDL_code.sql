@@ -15,7 +15,6 @@ CREATE TABLE type_pp (
     type VARCHAR(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-
 -- -------------------------------------------------------------------
 -- Instituições (Secretaria, Ministério, Governo, Presidência etc.)
 -- -------------------------------------------------------------------
@@ -25,48 +24,65 @@ CREATE TABLE institutions (
     institution VARCHAR(200) NOT NULL UNIQUE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+-- -------------------------------------------------------------------
+-- Situação Legal (Vigente, Revogada, Vetado)
+-- -------------------------------------------------------------------
+
+CREATE TABLE LegislativeStatus (
+    LegislativeStatusID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    LegislativeStatus VARCHAR(50)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------
--- Domínios (Estadual, Federal, Municipal etc.)
+-- Políticas Públicas (Nº 4.703, DE 21 DE MAIO DE 2003...)
 -- -------------------------------------------------------------------
-
--- CREATE TABLE dominio (
---     dominioID TINYINT AUTO_INCREMENT PRIMARY KEY,
---     name VARCHAR(50) NOT NULL UNIQUE
--- ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
 
 CREATE TABLE public_policies (
-    resourceID SMALLINT AUTO_INCREMENT PRIMARY KEY,  -- DarwinCore: identificador
-    title VARCHAR(100) NOT NULL,                -- DarwinCore: title
-    description TEXT,                           -- DarwinCore: description
-    bibliographicCitation TEXT,                 -- DarwinCore: bibliographicCitation
-    references_url TEXT,                        -- DarwinCore: references
+    resourceID SMALLINT AUTO_INCREMENT PRIMARY KEY, 
+    title VARCHAR(100) NOT NULL,                
+    description TEXT,                           
+    bibliographicCitation TEXT,                 
+    references_url TEXT,                        
     typeID TINYINT NOT NULL,
     institutionID TINYINT NOT NULL,
-    -- dominioID TINYINT NOT NULL,
+    LegislativeStatusID TINYINT,
 
-    -- Relacionamentos
     FOREIGN KEY (typeID) REFERENCES type_pp(typeID),
     FOREIGN KEY (institutionID) REFERENCES institutions(institutionID)
-    -- FOREIGN KEY (dominioID) REFERENCES dominio(dominioID)
+    FOREIGN kEY (LegislativeStatusID) REFERENCES LegislativeStatus(LegislativeStatusID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- -------------------------------------------------------------------
+-- Região Imediata (Itapeva, Registro...)
+-- -------------------------------------------------------------------
 
 CREATE TABLE RGI (
 	rgiID MEDIUMINT PRIMARY KEY,
     rgi VARCHAR(80)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+-- -------------------------------------------------------------------
+-- Região Intermediária (Sorocaba, São José dos Campos)
+-- -------------------------------------------------------------------
+
 CREATE TABLE RGINT (
 	rgintID SMALLINT PRIMARY KEY,
     rgint VARCHAR(80)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- -------------------------------------------------------------------
+-- Koppen (Cfa, Cwa, Cwb...)
+-- -------------------------------------------------------------------
 
 CREATE TABLE koppen (
     koppenID TINYINT PRIMARY KEY AUTO_INCREMENT,
     dynamicProper VARCHAR(5),
     description VARCHAR(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- -------------------------------------------------------------------
+-- Municípios (Barra do Chapéu, Ubatuba...)
+-- -------------------------------------------------------------------
 
 CREATE TABLE municipalities (
 	municipalityID MEDIUMINT PRIMARY KEY,
@@ -95,6 +111,10 @@ CREATE TABLE municipalities (
     FOREIGN KEY (rgiID) REFERENCES RGI(rgiID),
     FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- -------------------------------------------------------------------
+-- Climas dos munícipios ()
+-- -------------------------------------------------------------------
 
 CREATE TABLE climate_mun (
     municipalityID MEDIUMINT NOT NULL PRIMARY KEY,
@@ -129,12 +149,19 @@ CREATE TABLE climate_mun (
     FOREIGN KEY (municipalityID) REFERENCES municipalities(municipalityID)
 )ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+-- -------------------------------------------------------------------
+-- UGRHI (Unidade de Gerenciamento de Recursos Hídricos)
+-- -------------------------------------------------------------------
 
 CREATE TABLE ugrhis (
     ugrhiID TINYINT PRIMARY KEY,
     ugrhi VARCHAR(100) NOT NULL,
     geometry LONGTEXT -- armazenar a string "intacta"
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- -------------------------------------------------------------------
+-- UGRHIs dos municipios (Unidade de Gerenciamento de Recursos Hídricos)
+-- -------------------------------------------------------------------
 
 CREATE TABLE municipality_ugrhi (
     municipalityID MEDIUMINT,

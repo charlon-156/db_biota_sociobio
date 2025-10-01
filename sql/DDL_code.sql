@@ -28,9 +28,9 @@ CREATE TABLE institutions (
 -- Situação Legal (Vigente, Revogada, Vetado)
 -- -------------------------------------------------------------------
 
-CREATE TABLE LegislativeStatus (
-    LegislativeStatusID TINYINT AUTO_INCREMENT PRIMARY KEY,
-    LegislativeStatus VARCHAR(50)
+CREATE TABLE legislativeStatus (
+    legislativeStatusID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    legislativeStatus VARCHAR(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------
@@ -45,11 +45,11 @@ CREATE TABLE public_policies (
     references_url TEXT,                        
     typeID TINYINT NOT NULL,
     institutionID TINYINT NOT NULL,
-    LegislativeStatusID TINYINT,
+    legislativeStatusID TINYINT,
 
     FOREIGN KEY (typeID) REFERENCES type_pp(typeID),
-    FOREIGN KEY (institutionID) REFERENCES institutions(institutionID)
-    FOREIGN kEY (LegislativeStatusID) REFERENCES LegislativeStatus(LegislativeStatusID)
+    FOREIGN KEY (institutionID) REFERENCES institutions(institutionID),
+    FOREIGN kEY (legislativeStatusID) REFERENCES legislativeStatus(legislativeStatusID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------

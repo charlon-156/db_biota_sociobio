@@ -13,14 +13,14 @@ rain_cols = [f"measurementOrFact_R_{m}" for m in ["jan","feb","mar","apr","may",
 for i, row in df.iterrows():
     municipality_id = int(row["municipalityID"])
     elevation = row["elevation"] if pd.notna(row["elevation"]) else "NULL"
-    geometry = str(row["geometry"]).replace("'", "''") if pd.notna(row["geometry"]) else None
+    geometry = str(row["geometry"]).replace("'", "''") if pd.notna(row["geometry"]) else  "NULL"
     
     # Climas (pode haver mais de um separado por //)
     climates = str(row["dynamicProperties"]).split("//") if pd.notna(row["dynamicProperties"]) else []
     
     for clima in climates:
         clima = clima.strip()
-        clima_id = map_koppen.get(clima, None)
+        clima_id = map_koppen.get(clima, "NULL")
         
         if not clima_id:
             db.erros.append({"linha": i+2, "municipalityID": municipality_id, "clima": clima})

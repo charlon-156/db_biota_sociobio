@@ -11,9 +11,9 @@ db = SQLGenerator(df)
 for i, row in df.iterrows():
 
     municipalityID = db.num(row.get("municipalityID"))
-    municipality = str(row["municipality"]).replace("'", "''") if pd.notna(row["municipality"]) else None
-    rgi = map_rgi.get(str(row["rgi"]).strip(), None)
-    rgint = map_rgint.get(str(row["rgint"]).strip(), None)  
+    municipality = str(row["municipality"]).replace("'", "''") if pd.notna(row["municipality"]) else  "NULL"
+    rgi = map_rgi.get(str(row["rgi"]).strip(),  "NULL")
+    rgint = map_rgint.get(str(row["rgint"]).strip(),  "NULL")  
 
     area = db.num(row.get("areaKM2"))
     population = db.num(row.get("population"))

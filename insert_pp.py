@@ -9,13 +9,13 @@ df = pd.read_excel(file_path)
 db = SQLGenerator(df)
 
 for i, row in df.iterrows():
-    title = str(row["title"]).replace("'", "''") if pd.notna(row["title"]) else None
-    description = str(row["description"]).replace("'", "''") if pd.notna(row["description"]) else None
-    fonte = str(row[" bibliographicCitation"]).replace("'", "''") if pd.notna(row[" bibliographicCitation"]) else None
-    site = str(row["referencesURL"]).replace("'", "''") if pd.notna(row["referencesURL"]) else None
+    title = str(row["title"]).replace("'", "''") if pd.notna(row["title"]) else  "NULL"
+    description = str(row["description"]).replace("'", "''") if pd.notna(row["description"]) else  "NULL"
+    fonte = str(row[" bibliographicCitation"]).replace("'", "''") if pd.notna(row[" bibliographicCitation"]) else  "NULL"
+    site = str(row["referencesURL"]).replace("'", "''") if pd.notna(row["referencesURL"]) else  "NULL"
     
-    tipo = map_tipo.get(str(row["type"]).strip(), None)
-    instituicao = map_instituicao.get(str(row["institution"]).strip(), None)
+    tipo = map_tipo.get(str(row["type"]).strip(),  "NULL")
+    instituicao = map_instituicao.get(str(row["institution"]).strip(),  "NULL")
     status = map_statusLaw.get(str(row["LegislativeStatus"]).strip(), 'NULL')
     
     if tipo and instituicao:

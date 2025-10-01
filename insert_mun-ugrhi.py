@@ -14,7 +14,7 @@ for i, row in df.iterrows():
 
     for m in municipalities:
         m = m.strip()
-        municipality_id = map_mun.get(m, None)
+        municipality_id = map_mun.get(m, "NULL")
 
         if municipality_id:
             sql = f"INSERT INTO municipality_ugrhi (municipalityID, ugrhiID) VALUES ({municipality_id}, {ugrhi_id});"

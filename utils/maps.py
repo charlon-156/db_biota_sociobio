@@ -4,7 +4,7 @@
 # file: maps.py
 # description: stores the global variables "maps" referring to 
 #              the tables to relate to the foreign keys.
-# Last update: 2025-09-29
+# Last update: 2025-10-03
 ###############################################################
 
 
@@ -84,6 +84,14 @@ map_rgint = {
     "Sorocaba": 3502,
     "Campinas": 3510,
     "São José dos Campos": 3511,
+}
+
+# regiões
+map_region = {
+"Vale do Ribeira": 1,
+"Vale do Paraíba": 2,
+"Ribeira de Iguape": 3,
+"Litoral Norte": 4
 }
 
 # municipalities

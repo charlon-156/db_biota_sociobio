@@ -81,6 +81,15 @@ CREATE TABLE koppen (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------
+-- regiões (Vale do Ribeira, Litoral Norte)
+-- -------------------------------------------------------------------
+
+CREATE TABLE regions (
+	regionID TINYINT PRIMARY KEY AUTO_INCREMENT,
+	region VARCHAR(50) NOT NULL
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- -------------------------------------------------------------------
 -- Municípios (Barra do Chapéu, Ubatuba...)
 -- -------------------------------------------------------------------
 
@@ -89,6 +98,7 @@ CREATE TABLE municipalities (
     municipality VARCHAR(100) not null,
     rgiID MEDIUMINT NOT NULL,
     rgintID	SMALLINT NOT NULL,
+    regionID TINYINT NOT NULL,
     areaKM2	FLOAT,
     population MEDIUMINT,
     man	MEDIUMINT,
@@ -109,7 +119,8 @@ CREATE TABLE municipalities (
     populationByRaceParda MEDIUMINT,
     populationByRacePreta MEDIUMINT,
     FOREIGN KEY (rgiID) REFERENCES RGI(rgiID),
-    FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID)
+    FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID),
+    FOREIGN KEY (regionID) REFERENCES regions(regionID) 
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------

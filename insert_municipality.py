@@ -1,6 +1,6 @@
 import pandas as pd
 from utils.base import SQLGenerator
-from utils.maps import map_rgi, map_rgint
+from utils.maps import map_rgi, map_rgint, map_region
 
 # Carregar a planilha
 file_path = "docs/municipality.xlsx"
@@ -12,9 +12,10 @@ for i, row in df.iterrows():
 
     municipalityID = db.num(row.get("municipalityID"))
     municipality = str(row["municipality"]).replace("'", "''") if pd.notna(row["municipality"]) else  "NULL"
-    rgi = map_rgi.get(str(row["rgi"]).strip(),  "NULL")
-    rgint = map_rgint.get(str(row["rgint"]).strip(),  "NULL")  
-
+    rgi = map_rgi.get(str(row["rgi"]).strip())
+    rgint = map_rgint.get(str(row["rgint"]).strip())  
+    region = map_region.get(str(row["locality"]).strip())
+    
     area = db.num(row.get("areaKM2"))
     population = db.num(row.get("population"))
     man = db.num(row.get("man"))
@@ -37,8 +38,8 @@ for i, row in df.iterrows():
 
     if municipality and rgi and rgint:
         sql = f"""INSERT INTO municipalities
-        (municipalityID, municipality, rgiID, rgintID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
-        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {area}, {population}, {man}, {woman}, {genderRatio}, {averageAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});"""
+        (municipalityID, municipality, rgiID, rgintID, regionID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
+        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {region}, {area}, {population}, {man}, {woman}, {genderRatio}, {averageAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});"""
         db.inserts.append(sql)
 
     else:

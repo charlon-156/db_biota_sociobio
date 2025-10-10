@@ -5,7 +5,7 @@
 -- description: Important module responsible for centralizing 
 --              functions to support the generation of SQL 
 --              commands for insertion from Excel spreadsheets
--- Last update: 2025-09-29
+-- Last update: 2025-10-10
 -- --------------------------------------------------------------
 
 

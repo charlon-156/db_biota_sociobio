@@ -181,3 +181,36 @@ CREATE TABLE municipality_ugrhi (
     FOREIGN KEY (municipalityID) REFERENCES municipalities(municipalityID),
     FOREIGN KEY (ugrhiID) REFERENCES ugrhis(ugrhiID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE lifeForms (
+    lifeFormID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    lifeForm VARCHAR(40)
+);
+
+CREATE TABLE substrate (
+    substrateID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    substrate VARCHAR(30)
+);
+
+CREATE TABLE localityStates (
+    localityStatesID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    localityStates VARCHAR(50)
+);
+
+CREATE TABLE biomes (
+    biomeID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    biome VARCHAR(80)
+);
+
+CREATE TABLE species (
+    speciesID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    species VARCHAR(50),
+    family VARCHAR(30),
+    scientificName (50),
+    authorship VARCHAR(50),
+    threatenedStatusIUCN VARCHAR(4),
+    threatenedStatusCNCFLORA VARCHAR(4),
+    origin ENUM('Nativa', 'Naturalizada', 'Cultivada'),
+    endemism ENUM('Sim', 'Não'),
+
+);

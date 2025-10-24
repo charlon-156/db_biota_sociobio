@@ -185,32 +185,46 @@ CREATE TABLE municipality_ugrhi (
 CREATE TABLE lifeForms (
     lifeFormID TINYINT PRIMARY KEY AUTO_INCREMENT,
     lifeForm VARCHAR(40)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-CREATE TABLE substrate (
+CREATE TABLE substrates (
     substrateID TINYINT PRIMARY KEY AUTO_INCREMENT,
     substrate VARCHAR(30)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE localityStates (
     localityStatesID TINYINT PRIMARY KEY AUTO_INCREMENT,
     localityStates VARCHAR(50)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE biomes (
     biomeID TINYINT PRIMARY KEY AUTO_INCREMENT,
     biome VARCHAR(80)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE vegetationTypes (
+    vegetationTypeID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    vegetationType VARCHAR(50)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE species (
     speciesID TINYINT PRIMARY KEY AUTO_INCREMENT,
     species VARCHAR(50),
     family VARCHAR(30),
-    scientificName (50),
+    scientificName VARCHAR(50),
     authorship VARCHAR(50),
     threatenedStatusIUCN VARCHAR(4),
     threatenedStatusCNCFLORA VARCHAR(4),
     origin ENUM('Nativa', 'Naturalizada', 'Cultivada'),
-    endemism ENUM('Sim', 'Não'),
+    endemism ENUM('Sim', 'Não')
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-);
+CREATE TABLE species_lifeForms (
+    speciesID TINYINT,
+    lifeFormID TINYINT,
+    PRIMARY KEY (speciesID, lifeFormID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID),
+    FOREIGN KEY (lifeFormID) REFERENCES lifeForms(lifeForms),
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE 

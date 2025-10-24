@@ -140,3 +140,21 @@ map_lifeForm = {
     "Herbácea": 6,
     "Subarbustiva": 7
 }
+
+map_substrate = {
+    "Terrícola": 1,
+    "Hemiepífita": 2,
+    "Epífita": 3,
+    "Rupícola": 4,
+    "Aquática": 5
+}
+
+map_biomes = {
+    "Caatinga": 1,
+    "Cerrado": 2,
+    "Mata Atlântica": 3,
+    "Floresta Amazônica": 4,
+    "Pampa": 5,
+    "Pantanal": 6
+}
+

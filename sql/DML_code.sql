@@ -74,7 +74,7 @@ INSERT INTO regions (region) VALUES
 ('Ribeira de Iguape'),
 ('Litoral Norte');
 
-INSERT INTO lifeForm (lifeForm) VALUES
+INSERT INTO lifeForms (lifeForm) VALUES
 ('Arbustiva'), 
 ('Arbórea'),
 ('Liana'),
@@ -83,12 +83,35 @@ INSERT INTO lifeForm (lifeForm) VALUES
 ('Herbácea'),
 ('Subarbustiva');
 
-INSERT INTO substrate (substrate) VALUES
+INSERT INTO substrates (substrate) VALUES
 ('Terrícola'),
 ('Hemiepífita'),
 ('Epífita'),
 ('Rupícola'),
 ('Aquática');
+
+INSERT INTO biomes (biome) VALUES
+('Caatinga'), 
+('Cerrado'), 
+('Mata Atlântica'),
+('Floresta Amazônica'),
+('Pampa'),
+('Pantanal');
+
+INSERT INTO vegetationTypes (vegetationType) VALUES
+('Área Antrópica'),
+('Grassland'),
+('Cerrado (lato sensu)'),
+('Floresta Ombrófila (Floresta Pluvial)'),
+('Mata/Vegetação Ciliar ou Galeria'),
+('Floresta Estacional Semidecidual'),
+('Campo de Altitude'),
+('Campo Rupestre'),
+('Campo Limpo'),
+('Caatinga (stricto sensu)'),
+('Campinarana amazônica'),
+('Floresta de Terra Firme');
+
 
 INSERT INTO ugrhis (ugrhiID, ugrhi, geometry) VALUES
 (1, 'Mantiqueira', 'list(list(c(-45.5814205123749, -45.5812759132478, -45.5811362476484, -45.5809641859131, -45.5808670169567, -45.5807716956031, -45.5807418651757, -45.5807999657515, -45.5810656222471, -45.5812239205722, -45.5813199434563, -45.5813769422323, -45.5814163985381, -45.5815192343906, -45.5815846246587, -45.5819741218649, -45.5821092285233, -45.5822185773493, -45.5824764219773, -45.5826468883593, -45.5828478522138, -45.5832709582555, -45.582935273229, -45.5826886572533, -45.5824830474363, -45.5821215947307, 

@@ -56,7 +56,7 @@ CREATE TABLE public_policies (
 -- Região Imediata (Itapeva, Registro...)
 -- -------------------------------------------------------------------
 
-CREATE TABLE RGI (
+CREATE TABLE rgi (
 	rgiID MEDIUMINT PRIMARY KEY,
     rgi VARCHAR(80)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
@@ -65,7 +65,7 @@ CREATE TABLE RGI (
 -- Região Intermediária (Sorocaba, São José dos Campos)
 -- -------------------------------------------------------------------
 
-CREATE TABLE RGINT (
+CREATE TABLE rgint (
 	rgintID SMALLINT PRIMARY KEY,
     rgint VARCHAR(80)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
@@ -118,8 +118,8 @@ CREATE TABLE municipalities (
     populationByRaceIndigena MEDIUMINT,
     populationByRaceParda MEDIUMINT,
     populationByRacePreta MEDIUMINT,
-    FOREIGN KEY (rgiID) REFERENCES RGI(rgiID),
-    FOREIGN KEY (rgintID) REFERENCES RGINT(rgintID),
+    FOREIGN KEY (rgiID) REFERENCES rgi(rgiID),
+    FOREIGN KEY (rgintID) REFERENCES rgint(rgintID),
     FOREIGN KEY (regionID) REFERENCES regions(regionID) 
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
@@ -209,10 +209,11 @@ CREATE TABLE vegetationTypes (
 
 CREATE TABLE species (
     speciesID TINYINT PRIMARY KEY AUTO_INCREMENT,
-    species VARCHAR(50),
+    vernacularName VARCHAR(50),
     family VARCHAR(30),
     scientificName VARCHAR(50),
     authorship VARCHAR(50),
+    scientificNameAuthorship VARCHAR(80) AS (CONCAT_WS(' ', family, scientificName, authorship)) STORED,
     threatenedStatusIUCN VARCHAR(4),
     threatenedStatusCNCFLORA VARCHAR(4),
     origin ENUM('Nativa', 'Naturalizada', 'Cultivada'),
@@ -224,7 +225,13 @@ CREATE TABLE species_lifeForms (
     lifeFormID TINYINT,
     PRIMARY KEY (speciesID, lifeFormID),
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),
-    FOREIGN KEY (lifeFormID) REFERENCES lifeForms(lifeForms),
+    FOREIGN KEY (lifeFormID) REFERENCES lifeForms(lifeFormID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-CREATE 
+CREATE TABLE species_substrates (
+    speciesID TINYINT,
+    substrateID TINYINT,
+    PRIMARY KEY (speciesID, substrateID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID),
+    FOREIGN KEY (substrateID) REFERENCES substrates(substrateID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

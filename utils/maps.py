@@ -138,7 +138,10 @@ map_lifeForm = {
     "Volúvel": 4,
     "Trepadeira": 5,
     "Herbácea": 6,
-    "Subarbustiva": 7
+    "Subarbustiva": 7,
+    "Palmeira": 8,
+    "Hemiepífitas": 9,
+    "Turfo": 10
 }
 
 map_substrate = {

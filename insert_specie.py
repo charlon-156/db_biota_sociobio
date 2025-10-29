@@ -19,7 +19,8 @@ for i, row in df.iterrows():
     endemism = str(row["endemism"]).replace("'", "''") if pd.notna(row["endemism"]) else "NULL"
 
     if species != "NULL":
-        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}');"""
+        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
+        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}');"""
         db.inserts.append(sql)
     else:
         db.erros.append({

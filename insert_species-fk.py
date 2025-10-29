@@ -34,8 +34,7 @@ for i, row in df.iterrows():
             db_life.erros.append({
                 "linha": i+2,
                 "speciesID": species_id,
-                "lifeForm": lf,
-                "lifeFormID": lf_id
+                "lifeForm": lf
             })
 
 

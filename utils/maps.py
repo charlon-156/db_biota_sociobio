@@ -149,7 +149,9 @@ map_substrate = {
     "Hemiepífita": 2,
     "Epífita": 3,
     "Rupícola": 4,
-    "Aquática": 5
+    "Aquática": 5,
+    "Hemiparasita": 6,
+    "Saprófita": 7
 }
 
 map_biomes = {

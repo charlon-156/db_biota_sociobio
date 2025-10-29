@@ -88,7 +88,9 @@ INSERT INTO substrates (substrate) VALUES
 ('Hemiepífita'),
 ('Epífita'),
 ('Rupícola'),
-('Aquática');
+('Aquática'),
+("Hemiparasita"),
+("Saprófita");
 
 INSERT INTO biomes (biome) VALUES
 ('Caatinga'), 

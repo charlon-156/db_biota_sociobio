@@ -4,7 +4,7 @@
 # file: maps.py
 # description: stores the global variables "maps" referring to 
 #              the tables to relate to the foreign keys.
-# Last update: 2025-10-24
+# Last update: 2025-10-31
 ###############################################################
 
 
@@ -60,7 +60,8 @@ map_instituicao = {
 
 map_statusLaw = {
     "Vigente": 1,
-    "Revogada": 2
+    "Revogada": 2,
+    "Não consta revogação expressa": 3
 }
 
 # RGI
@@ -141,7 +142,10 @@ map_lifeForm = {
     "Subarbustiva": 7,
     "Palmeira": 8,
     "Hemiepífitas": 9,
-    "Turfo": 10
+    "Turfo": 10,
+    "Saprófita": 11,
+    "Liana": 12,
+    "Volúvel": 13
 }
 
 map_substrate = {
@@ -163,3 +167,6 @@ map_biomes = {
     "Pantanal": 6
 }
 
+map_states = {
+    
+}

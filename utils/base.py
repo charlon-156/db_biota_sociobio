@@ -5,7 +5,7 @@
 # description: Important module responsible for centralizing 
 #              functions to support the generation of SQL 
 #              commands for insertion from Excel spreadsheets
-# Last update: 2025-09-29
+# Last update: 2025-09-31
 ###############################################################
 
 '''
@@ -54,7 +54,7 @@ class SQLGenerator:
         if self.erros:
             erros_df = pd.DataFrame(self.erros)
             print("\nAlgo deu errado, parceiro ❌🙅‍♂️")
-            print("⚠️ Registros não convertidos:", len(self.erros))
+            print("⚠️  Registros não convertidos:", len(self.erros))
             print(erros_df)
 
         else:

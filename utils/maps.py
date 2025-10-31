@@ -146,7 +146,6 @@ map_lifeForm = {
     "Turfo": 10,
     "Saprófita": 11,
     "Liana": 12,
-    "Volúvel": 13
 }
 
 map_substrate = {

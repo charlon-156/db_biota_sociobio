@@ -43,8 +43,8 @@ CREATE TABLE public_policies (
     description TEXT,                           
     bibliographicCitation TEXT,                 
     references_url TEXT,                        
-    typeID TINYINT NOT NULL,
-    institutionID TINYINT NOT NULL,
+    typeID TINYINT,
+    institutionID TINYINT,
     legislativeStatusID TINYINT,
 
     FOREIGN KEY (typeID) REFERENCES type_pp(typeID),
@@ -241,5 +241,5 @@ CREATE TABLE species_biomes (
     biomeID TINYINT,
     PRIMARY KEY (speciesID, biomeID),
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),
-    FOREIGN KEY (biomeID) REFERENCES biomes(substrateID)
+    FOREIGN KEY (biomeID) REFERENCES biomes(biomeID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

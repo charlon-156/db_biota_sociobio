@@ -83,7 +83,13 @@ INSERT INTO lifeForms (lifeForm) VALUES
 ('Volúvel'),
 ('Trepadeira'),
 ('Herbácea'),
-('Subarbustiva');
+('Subarbustiva'),
+('Palmeira'),
+('Hemiepífitas'),
+('Turfo'),
+('Saprófita'),
+('Liana')
+;
 
 INSERT INTO substrates (substrate) VALUES
 ('Terrícola'),

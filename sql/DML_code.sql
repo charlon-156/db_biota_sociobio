@@ -7,7 +7,8 @@ INSERT INTO type_pp (type) VALUES
 ('Portaria'),
 ('Programa'),
 ('Relatório'),
-('Constituição');
+('Constituição'),
+('Normativa');
 
 INSERT INTO institutions (institution) VALUES
 ('Secretaria de Infraestrutura e Meio Ambiente'),
@@ -36,7 +37,8 @@ INSERT INTO institutions (institution) VALUES
 
 INSERT INTO LegislativeStatus (LegislativeStatus) VALUES
 ('Vigente'),
-('Revogada');
+('Revogada'),
+('Não consta revogação expressa');
 
 INSERT INTO RGI (rgiID, rgi) VALUES
 (350001, 'São Paulo'),

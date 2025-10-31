@@ -18,7 +18,7 @@ for i, row in df.iterrows():
     instituicao = map_instituicao.get(str(row["institution"]).strip(),  'NULL')
     status = map_statusLaw.get(str(row["LegislativeStatus"]).strip(), 'NULL')
     
-    if tipo and instituicao != 'NULL':
+    if tipo != 'NULL' and instituicao != 'NULL' and status != 'NULL':
         sql = f"""INSERT INTO public_policies 
         (title, description, bibliographicCitation, references_url, typeID, institutionID, LegislativeStatusID)
         VALUES ('{title}', '{description}', '{fonte}', '{site}', {tipo}, {instituicao}, {status});"""

@@ -29,6 +29,7 @@ map_tipo = {
     "Programa": 5,
     "Relatório": 6,
     "Constituição": 7,
+    "Normativa": 8
 }
 
 # institutions

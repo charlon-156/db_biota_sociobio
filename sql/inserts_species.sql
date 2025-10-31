@@ -59,12 +59,12 @@ INSERT INTO species (vernacularName, family, scientificName, authorship, threate
 INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
         VALUES ('Cataia', 'Winteracea', 'Drimys brasiliensis ', 'Miers', 'NULL', 'LC', 'Nativa', 'Não');
 INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
-        VALUES ('Bromélias', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
+        VALUES ('Bromélias', 'Bromeliacea', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
 INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
-        VALUES ('Orquídeas', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
+        VALUES ('Orquídeas', 'Orchideceae', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
 INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
-        VALUES ('Helicôneas', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
+        VALUES ('Helicôneas', 'Heliconeacea', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
 INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
-        VALUES ('Clusias', 'NULL', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
+        VALUES ('Clusias', 'Clusiaceae', 'NULL', 'NULL', 'NULL', 'NULL', 'Nativa', 'Não');
 INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
-        VALUES ('Syrrhopodon elongatus Sull.', 'Calymperaceae', 'Syrrhopodon elongatus ', 'Sull.', 'NULL', 'NE', 'Nativa', 'Não');
+        VALUES ('Fofão', 'Calymperaceae', 'Syrrhopodon elongatus ', 'Sull.', 'NULL', 'NE', 'Nativa', 'Não');

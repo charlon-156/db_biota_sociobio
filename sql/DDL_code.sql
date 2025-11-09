@@ -243,3 +243,11 @@ CREATE TABLE species_biomes (
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),
     FOREIGN KEY (biomeID) REFERENCES biomes(biomeID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE species_localityStates (
+    speciesID TINYINT,
+    localityStatesID TINYINT,
+    PRIMARY KEY (speciesID, localityStatesID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID),
+    FOREIGN KEY (localityStatesID) REFERENCES localityStates(localityStatesID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

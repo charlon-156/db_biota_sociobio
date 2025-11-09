@@ -1,6 +1,6 @@
 import pandas as pd
 from utils.base import SQLGenerator
-from utils.maps import map_lifeForm, map_substrate, map_biomes
+from utils.maps import map_lifeForm, map_substrate, map_biomes, map_states
 
 
 file_path = "docs/dados_biologicos.xlsx"
@@ -60,6 +60,23 @@ for i, row in df.iterrows():
                 "linha Excel": i+3,
                 "speciesID": species_id,
                 "biome": b
+            })
+
+    # ===== LocalityStates ====== 
+
+    localityStates = str(row["locality"]).split("//") if pd.notna(row["locality"]) else []
+    for l in localityStates:
+        l = l.strip()
+        localityStatesID = map_states.get(l, None)
+
+        if localityStatesID:
+            sql_l = f"INSERT INTO species_localityStates VALUES ({species_id}, {localityStatesID});"
+            db.inserts.append(sql_l)
+        else:
+            db.erros.append({
+                "linha Excel": i+3,
+                "speciesID": species_id,
+                "locality": l
             })
 
 # === Salvar tudo em um único arquivo SQL ===

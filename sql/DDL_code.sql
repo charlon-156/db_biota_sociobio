@@ -193,7 +193,7 @@ CREATE TABLE substrates (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE localityStates (
-    localityStatesID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    localityStatesID TINYINT PRIMARY KEY,
     localityStates VARCHAR(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 

@@ -217,7 +217,12 @@ CREATE TABLE species (
     threatenedStatusIUCN VARCHAR(4),
     threatenedStatusCNCFLORA VARCHAR(4),
     origin ENUM('Nativa', 'Naturalizada', 'Cultivada'),
-    endemism ENUM('Sim', 'Não')
+    endemism ENUM('Sim', 'Não'),
+    height VARCHAR(10),
+    successionalStage ENUM('Pioneira', 'Não Pioneira'),
+    functionalGroup VARCHAR(10),
+    lifeCycle VARCHAR(20),
+    foliage VARCHAR(40)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE species_lifeForms (

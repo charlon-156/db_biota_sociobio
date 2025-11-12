@@ -14,7 +14,7 @@ for i, row in df.iterrows():
 
     species_id = int(row["speciesID"]) 
 
-    # ===== LIFE FORMS =====
+    # ===== Life Forms =====
     lifeforms = str(row["lifeForm"]).split("//") if pd.notna(row["lifeForm"]) else []
     for lf in lifeforms:
         lf = lf.strip()
@@ -30,7 +30,7 @@ for i, row in df.iterrows():
                 "lifeForm": lf
             })
 
-    # ===== SUBSTRATES =====
+    # ===== Substract =====
     substrates = str(row["substrate"]).split("//") if pd.notna(row["substrate"]) else []
     for s in substrates:
         s = s.strip()
@@ -46,7 +46,8 @@ for i, row in df.iterrows():
                 "substrate": s
             })
 
-    # ===== BIOMES =====
+    # ===== Biomes =====
+    
     biomes = str(row["biome"]).split("//") if pd.notna(row["biome"]) else []
     for b in biomes:
         b = b.strip()

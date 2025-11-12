@@ -17,10 +17,15 @@ for i, row in df.iterrows():
     threatenedCNCFLORA = str(row["threatenedStatusCNCFLORA"]).replace("'", "''") if pd.notna(row["threatenedStatusCNCFLORA"]) else "NULL"
     origin = str(row["origin"]).replace("'", "''") if pd.notna(row["origin"]) else "NULL"
     endemism = str(row["endemism"]).replace("'", "''") if pd.notna(row["endemism"]) else "NULL"
+    height = str(row["height"]).replace("'", "''") if pd.notna(row["height"]) else "NULL"
+    successionalStage = str(row["successionalStage"]).replace("'", "''") if pd.notna(row["successionalStage"]) else "NULL"
+    functionalGroup = str(row["functionalGroup"]).replace("'", "''") if pd.notna(row["functionalGroup"]) else "NULL"
+    lifeCycle = str(row["lifeCycle"]).replace("'", "''") if pd.notna(row["lifeCycle"]) else "NULL"
+    foliage = str(row["foliage"]).replace("'", "''") if pd.notna(row["foliage"]) else "NULL"
 
     if species != "NULL":
-        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism) 
-        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}');"""
+        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism, height, successionalStage, functionalGroup, lifeCycle, foliage) 
+        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}', '{height}', '{successionalStage}', '{functionalGroup}', '{lifeCycle}', '{foliage}');"""
         db.inserts.append(sql)
     else:
         db.erros.append({

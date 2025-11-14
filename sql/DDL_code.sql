@@ -218,10 +218,11 @@ CREATE TABLE species (
     threatenedStatusCNCFLORA VARCHAR(4),
     origin ENUM('Nativa', 'Naturalizada', 'Cultivada'),
     endemism ENUM('Sim', 'Não'),
-    height VARCHAR(10),
+    height VARCHAR(20),
     successionalStage ENUM('Pioneira', 'Não Pioneira'),
-    functionalGroup VARCHAR(10),
-    lifeCycle VARCHAR(20),
+    functionalGroup VARCHAR(40),
+    dispersalSyndrome VARCHAR(40),
+    lifeCycle VARCHAR(40),
     foliage VARCHAR(40)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 

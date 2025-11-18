@@ -174,3 +174,7 @@ map_states = {
     "RJ": 33, "RN": 24, "RS": 43, "RO": 11, "RR": 14, "SC": 42,
     "SP": 35, "SE": 28, "TO": 17
 }
+
+map_typesOfUses = {
+    "Medicinal": 1, "Madeireiro": 2, "Artesanal": 3, "Alimentício - humano": 4, "Alimentício - animais": 5, "Arborização Urbana": 6, "Ornamental": 7, "Paisagismo": 8, "Higiene": 9, "Combustível": 10, "Ornamental": 11, "Recomposição de áreas degradadas": 12, "Reflorestamento": 13, "Madereiro": 14
+}

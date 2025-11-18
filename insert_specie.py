@@ -1,3 +1,4 @@
+from contextlib import nullcontext
 import pandas as pd
 from utils.base import SQLGenerator
 
@@ -23,10 +24,11 @@ for i, row in df.iterrows():
     dispersalSyndrome = str(row["dispersalSyndrome"]).replace("'", "''") if pd.notna(row["dispersalSyndrome"]) else "NULL"
     lifeCycle = str(row["lifeCycle"]).replace("'", "''") if pd.notna(row["lifeCycle"]) else "NULL"
     foliage = str(row["foliage"]).replace("'", "''") if pd.notna(row["foliage"]) else "NULL"
+    pollinationSyndrome = str(row["pollinationSyndrome"]).replace("'", "''") if pd.notna(row["pollinationSyndrome"]) else "NULL"
 
     if species != "NULL":
-        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism, height, successionalStage, functionalGroup, dispersalSyndrome, lifeCycle, foliage) 
-        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}', '{height}', '{successionalStage}', '{functionalGroup}', '{dispersalSyndrome}', '{lifeCycle}', '{foliage}');"""
+        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism, height, successionalStage, functionalGroup, dispersalSyndrome, lifeCycle, foliage, pollinationSyndrome) 
+        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}', '{height}', '{successionalStage}', '{functionalGroup}', '{dispersalSyndrome}', '{lifeCycle}', '{foliage}', '{pollinationSyndrome}');"""
         db.inserts.append(sql)
     else:
         db.erros.append({

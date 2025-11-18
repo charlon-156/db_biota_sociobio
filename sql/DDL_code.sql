@@ -207,6 +207,11 @@ CREATE TABLE vegetationTypes (
     vegetationType VARCHAR(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE typesOfUses (
+    typesOfUsesID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    typesOfUses VARCHAR(80)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 CREATE TABLE species (
     speciesID TINYINT PRIMARY KEY AUTO_INCREMENT,
     vernacularName VARCHAR(50),
@@ -223,7 +228,8 @@ CREATE TABLE species (
     functionalGroup VARCHAR(40),
     dispersalSyndrome VARCHAR(40),
     lifeCycle VARCHAR(40),
-    foliage VARCHAR(40)
+    foliage VARCHAR(40),
+    pollinationSyndrome VARCHAR(40)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE species_lifeForms (
@@ -256,4 +262,12 @@ CREATE TABLE species_localityStates (
     PRIMARY KEY (speciesID, localityStatesID),
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),
     FOREIGN KEY (localityStatesID) REFERENCES localityStates(localityStatesID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE species_typesOfUses (
+    speciesID TINYINT,
+    typesOfUsesID TINYINT,
+    PRIMARY KEY (speciesID, typesOfUsesID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID),
+    FOREIGN KEY (typesOfUsesID) REFERENCES typesOfUses(typesOfUsesID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

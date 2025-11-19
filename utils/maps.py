@@ -4,7 +4,7 @@
 # file: maps.py
 # description: stores the global variables "maps" referring to 
 #              the tables to relate to the foreign keys.
-# Last update: 2025-10-31
+# Last update: 2025-11-19
 ###############################################################
 
 
@@ -67,33 +67,24 @@ map_statusLaw = {
 
 # RGI
 map_rgi = {
-    "São Paulo": 350001,
-    "Santos": 350002,
-    "Sorocaba": 350003,
-    "Itapeva": 350004,
-    "Registro": 350005,
-    "Bragança Paulista": 350041,
-    "São José dos Campos": 350049,
-    "Taubaté - Pindamonhangaba": 350050,
-    "Caraguatatuba - Ubatuba - São Sebastião": 350051,
-    "Guaratinguetá": 350052,
+    "São Paulo": 350001, "Santos": 350002,
+    "Sorocaba": 350003, "Itapeva": 350004,
+    "Registro": 350005, "Bragança Paulista": 350041,
+    "São José dos Campos": 350049, "Taubaté - Pindamonhangaba": 350050,
+    "Caraguatatuba - Ubatuba - São Sebastião": 350051, "Guaratinguetá": 350052,
     "Cruzeiro": 350053,
 }
 
 # RGINT
 map_rgint = {
-    "São Paulo": 3501,
-    "Sorocaba": 3502,
-    "Campinas": 3510,
-    "São José dos Campos": 3511,
+    "São Paulo": 3501, "Sorocaba": 3502,
+    "Campinas": 3510, "São José dos Campos": 3511,
 }
 
 # regiões
 map_region = {
-"Vale do Ribeira": 1,
-"Vale do Paraíba": 2,
-"Ribeira de Iguape": 3,
-"Litoral Norte": 4
+    "Vale do Ribeira": 1, "Vale do Paraíba": 2,
+    "Ribeira de Iguape": 3, "Litoral Norte": 4
 }
 
 # municipalities
@@ -122,49 +113,27 @@ map_mun = {
 } 
 
 map_koppen = {
-    "Cfb": 1,
-    "Cfa": 2, 
-    "Cwb": 3, 
-    "Cwa": 4, 
-    "Af": 5, 
-    "Am": 6, 
-    "As": 7, 
-    "BSw": 8,
-    "BSh": 9
+    "Cfb": 1, "Cfa": 2, "Cwb": 3, 
+    "Cwa": 4, "Af": 5, "Am": 6, 
+    "As": 7, "BSw": 8, "BSh": 9
 }
 
 map_lifeForm = {
-    "Arbustiva": 1,
-    "Arbórea": 2,
-    "Liana": 3,
-    "Volúvel": 4,
-    "Trepadeira": 5,
-    "Herbácea": 6,
-    "Subarbustiva": 7,
-    "Palmeira": 8,
-    "Hemiepífitas": 9,
-    "Turfo": 10,
-    "Saprófita": 11,
-    "Liana": 12,
+    "Arbustiva": 1, "Arbórea": 2, "Liana": 3,
+    "Volúvel": 4, "Trepadeira": 5, "Herbácea": 6,
+    "Subarbustiva": 7, "Palmeira": 8, "Hemiepífitas": 9,
+    "Turfo": 10, "Saprófita": 11, "Liana": 12
 }
 
 map_substrate = {
-    "Terrícola": 1,
-    "Hemiepífita": 2,
-    "Epífita": 3,
-    "Rupícola": 4,
-    "Aquática": 5,
-    "Hemiparasita": 6,
+    "Terrícola": 1, "Hemiepífita": 2, "Epífita": 3,
+    "Rupícola": 4, "Aquática": 5, "Hemiparasita": 6,
     "Saprófita": 7
 }
 
 map_biomes = {
-    "Caatinga": 1,
-    "Cerrado": 2,
-    "Mata Atlântica": 3,
-    "Floresta Amazônica": 4,
-    "Pampa": 5,
-    "Pantanal": 6
+    "Caatinga": 1, "Cerrado": 2, "Mata Atlântica": 3,
+    "Floresta Amazônica": 4, "Pampa": 5, "Pantanal": 6
 }
 
 map_states = {
@@ -176,5 +145,15 @@ map_states = {
 }
 
 map_typesOfUses = {
-    "Medicinal": 1, "Madeireiro": 2, "Artesanal": 3, "Alimentício - humano": 4, "Alimentício - animais": 5, "Arborização Urbana": 6, "Ornamental": 7, "Paisagismo": 8, "Higiene": 9, "Combustível": 10, "Ornamental": 11, "Recomposição de áreas degradadas": 12, "Reflorestamento": 13, "Madereiro": 14
+    "Medicinal": 1, "Madeireiro": 2, "Artesanal": 3, 
+    "Alimentício - humano": 4, "Alimentício - animais": 5, 
+    "Arborização Urbana": 6, "Ornamental": 7, "Paisagismo": 8, 
+    "Higiene": 9, "Combustível": 10, "Ornamental": 11, 
+    "Recomposição de áreas degradadas": 12, "Reflorestamento": 13, 
+    "Madereiro": 14
+}
+
+map_luminosity = {
+    "Heliófita": 1, "Pleno sol ou meia-sombra": 2, "Seletiva Higrófita": 3, 
+    "Ciófita": 4, "Esciófita": 5, "Seletiva Xerófita": 6
 }

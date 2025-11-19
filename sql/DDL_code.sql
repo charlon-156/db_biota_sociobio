@@ -212,6 +212,11 @@ CREATE TABLE typesOfUses (
     typesOfUses VARCHAR(80)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE luminositys (
+    luminosityID TINYINT PRIMARY KEY AUTO_INCREMENT,
+    luminosity VARCHAR(40)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 CREATE TABLE species (
     speciesID TINYINT PRIMARY KEY AUTO_INCREMENT,
     vernacularName VARCHAR(50),
@@ -270,4 +275,12 @@ CREATE TABLE species_typesOfUses (
     PRIMARY KEY (speciesID, typesOfUsesID),
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),
     FOREIGN KEY (typesOfUsesID) REFERENCES typesOfUses(typesOfUsesID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE species_luminosity (
+    speciesID TINYINT,
+    luminosityID TINYINT,
+    PRIMARY KEY (speciesID, luminosityID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID),
+    FOREIGN KEY (luminosityID) REFERENCES luminositys(luminosityID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

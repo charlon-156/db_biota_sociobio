@@ -284,3 +284,5 @@ CREATE TABLE species_luminosity (
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),
     FOREIGN KEY (luminosityID) REFERENCES luminositys(luminosityID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- CREATE TABLE public_policies_species ()

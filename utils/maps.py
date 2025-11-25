@@ -150,7 +150,7 @@ map_typesOfUses = {
     "Arborização Urbana": 6, "Ornamental": 7, "Paisagismo": 8, 
     "Higiene": 9, "Combustível": 10, "Ornamental": 11, 
     "Recomposição de áreas degradadas": 12, "Reflorestamento": 13, 
-    "Madereiro": 14
+    "Madereiro": 14, "Aromático": 15
 }
 
 map_luminosity = {

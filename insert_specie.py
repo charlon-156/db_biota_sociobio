@@ -4,7 +4,7 @@ from utils.base import SQLGenerator
 
 # Carregar planilha e aba específica
 file_path = "docs/dados_biologicos.xlsx"
-df = pd.read_excel(file_path, sheet_name="espécies")
+df = pd.read_excel(file_path, sheet_name="Informações sobre as espécies ")
 
 # Instanciar gerador SQL
 db = SQLGenerator(df)

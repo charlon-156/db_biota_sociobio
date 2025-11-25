@@ -4,7 +4,7 @@ from utils.maps import map_lifeForm, map_substrate, map_biomes, map_states, map_
 
 
 file_path = "docs/dados_biologicos.xlsx"
-df = pd.read_excel(file_path, "espécies")
+df = pd.read_excel(file_path, "Informações sobre as espécies ")
 
 
 db = SQLGenerator(df)
@@ -95,14 +95,14 @@ for i, row in df.iterrows():
             db.erros.append({
                 "linha Excel": i+3,
                 "speciesID": species_id,
-                "locality": t
+                "tipo": t
             })
             
     # ===== luminosity =====
     
     luminosity = str(row["luminosity"]).split("//") if pd.notna(row["luminosity"]) else []
     for lu in luminosity:
-        lu = t.strip()
+        lu = l.strip()
         luminosityID = map_luminosity.get(t, None)
         
         if luminosityID:
@@ -112,7 +112,7 @@ for i, row in df.iterrows():
             db.erros.append({
                 "linha Excel": i+3,
                 "speciesID": species_id,
-                "locality": lu
+                "lum": lu
             })
 
 # === Salvar tudo em um único arquivo SQL ===

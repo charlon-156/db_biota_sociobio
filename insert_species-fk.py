@@ -26,7 +26,7 @@ for i, row in df.iterrows():
             db.inserts.append(sql_lf)
         else:
             db.erros.append({
-                "linha Excel": i+3,
+                "linha Excel": i+2,
                 "speciesID": species_id,
                 "lifeForm": lf
             })
@@ -43,7 +43,7 @@ for i, row in df.iterrows():
             db.inserts.append(sql_sub)
         else:
             db.erros.append({
-                "linha Excel": i+3,
+                "linha Excel": i+2,
                 "speciesID": species_id,
                 "substrate": s
             })
@@ -60,7 +60,7 @@ for i, row in df.iterrows():
             db.inserts.append(sql_b)
         else:
             db.erros.append({
-                "linha Excel": i+3,
+                "linha Excel": i+2,
                 "speciesID": species_id,
                 "biome": b
             })
@@ -77,7 +77,7 @@ for i, row in df.iterrows():
             db.inserts.append(sql_l)
         else:
             db.erros.append({
-                "linha Excel": i+3,
+                "linha Excel": i+2,
                 "speciesID": species_id,
                 "locality": l
             })
@@ -93,7 +93,7 @@ for i, row in df.iterrows():
             db.inserts.append(sql_t)
         else:
             db.erros.append({
-                "linha Excel": i+3,
+                "linha Excel": i+2,
                 "speciesID": species_id,
                 "tipo": t
             })
@@ -102,15 +102,15 @@ for i, row in df.iterrows():
     
     luminosity = str(row["luminosity"]).split("//") if pd.notna(row["luminosity"]) else []
     for lu in luminosity:
-        lu = l.strip()
-        luminosityID = map_luminosity.get(t, None)
+        lu = lu.strip()
+        luminosityID = map_luminosity.get(lu, None)
         
         if luminosityID:
             sql_lu = f"INSERT INTO species_luminosity VALUES ({species_id}, {luminosityID});"
             db.inserts.append(sql_lu)
         else:
             db.erros.append({
-                "linha Excel": i+3,
+                "linha Excel": i+2,
                 "speciesID": species_id,
                 "lum": lu
             })

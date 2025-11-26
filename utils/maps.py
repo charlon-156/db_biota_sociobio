@@ -14,7 +14,7 @@ explicação maps.py
 Módulo que centraliza dicionários de mapeamento entre valores textuais
 provenientes de planilhas Excel e seus respectivos códigos numéricos no banco.
 
-Exemplos:
+Exemplos: 
 - map_tipo: converte nomes de tipos de políticas públicas em IDs.
 - map_instituicao: relaciona nomes de instituições com seus IDs.
 
@@ -148,9 +148,8 @@ map_typesOfUses = {
     "Medicinal": 1, "Madeireiro": 2, "Artesanal": 3, 
     "Alimentício - humano": 4, "Alimentício - animais": 5, 
     "Arborização Urbana": 6, "Ornamental": 7, "Paisagismo": 8, 
-    "Higiene": 9, "Combustível": 10, "Ornamental": 11, 
-    "Recomposição de áreas degradadas": 12, "Reflorestamento": 13, 
-    "Madereiro": 14, "Aromático": 15
+    "Higiene": 9, "Combustível": 10, "Recomposição de áreas degradadas": 11, 
+    "Reflorestamento": 12, "Aromático": 13
 }
 
 map_luminosity = {

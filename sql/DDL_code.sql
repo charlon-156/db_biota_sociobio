@@ -253,6 +253,14 @@ CREATE TABLE species_substrates (
     FOREIGN KEY (substrateID) REFERENCES substrates(substrateID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE species_vegetation (
+    speciesID TINYINT,
+    vegetationTypeID TINYINT,
+    PRIMARY KEY (speciesID,  vegetationTypeID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID),
+    FOREIGN KEY ( vegetationTypeID) REFERENCES  vegetationTypes( vegetationTypeID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 CREATE TABLE species_biomes (
 	speciesID TINYINT,
     biomeID TINYINT,
@@ -285,6 +293,10 @@ CREATE TABLE species_luminosity (
     FOREIGN KEY (luminosityID) REFERENCES luminositys(luminosityID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
--- CREATE TABLE public_policies_species (
---     resourceID TINY
--- ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+CREATE TABLE public_policies_species (
+    resourceID SMALLINT,
+    speciesID TINYINT,
+    PRIMARY KEY (speciesID, resourceID),
+    FOREIGN KEY (resourceID) REFERENCES public_policies(resourceID),
+    FOREIGN KEY (speciesID) REFERENCES species(speciesID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

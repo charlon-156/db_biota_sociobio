@@ -136,6 +136,23 @@ map_biomes = {
     "Floresta Amazônica": 4, "Pampa": 5, "Pantanal": 6
 }
 
+map_vegetation = {
+    "Área Antrópica": 1, "Campo limpo": 2,
+    "Cerrado (lato sensu)": 3, "Floresta Ciliar ou Galeria": 4,
+    "Floresta Estacional Semidecidual": 5, "Floresta Ombrófila (Floresta Pluvial)": 6,
+    "Floresta Ombófila Mista": 7, "Manguezal": 8, "Vegetação de praias (Restinga)": 9,
+    "Mata/Vegetação Ciliar ou Galeria": 10, "Floresta Estacional Perenifólia": 11,
+    "Campo de Altitude": 12, "Campo de Várzea": 13, "Campo Rupestre": 14,
+    "Floresta Estacional Decidual": 15, "Vegetação Sobre Afloramentos Rochosos": 16,
+    "Caatinga (stricto sensu)": 17, "Restinga": 18, "Vegetação sobre afloramentos rochosos": 19,
+    "Campo Limpo": 20, "Campinarana amazônica": 21, "Floresta de Terra Firme": 22,
+    "Área antrópica": 23, "Vegetação aquática": 24, "Compo Rupestre": 25,
+    "Vegetação de Carrasco": 26, "Mata/vegetação ciliar ou Galeira": 27,
+    "Floresta de Igapó": 28, "Floresta de Várzea": 29,
+    "Palmeiral": 30, "Savana amazônica": 31, "Campo de várzea (Várzea)": 32, 
+    "Floresta Ombrófila (Tropical Pluvial)": 33, "Floresta Ombrófila Mista": 34
+}
+
 map_states = {
     "AC": 12, "AL": 27, "AP": 16, "AM": 13, "BA": 29, "CE": 23, 
     "DF": 53, "ES": 32, "GO": 52, "MA": 21, "MT": 51, "MS": 50,

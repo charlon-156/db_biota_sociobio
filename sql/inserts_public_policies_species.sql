@@ -1,0 +1,16 @@
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 1);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 2);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 3);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 5);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 7);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 9);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 10);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 11);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 12);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 13);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 31);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 33);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (60, 34);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (7, 7);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (28, 5);
+INSERT INTO public_policies_species (resourceID, speciesID) VALUES (28, 5);

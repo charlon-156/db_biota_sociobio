@@ -42,19 +42,37 @@ for i, row in df_conn.iterrows():
     species_col = row["speciesInformationColumn"]
     link_value = row["biologicalLink"]
 
+    # Verifica título da política pública
     if title not in map_pp:
         erros.append({"linha Excel": i+2, "erro": "Título não encontrado", "title": row["title"]})
         continue
 
     resourceID = map_pp[title]
 
+    # ===============================
+    # NOVO: Caso "all" — aplica a TODAS as species
+    # ===============================
+    if str(species_col).strip().lower() == "all":
+
+        all_species = df_sp["speciesID"].dropna().astype(int).tolist()
+
+        for sid in all_species:
+            inserts.append(
+                f"INSERT INTO public_policies_species (resourceID, speciesID) VALUES ({resourceID}, {sid});"
+            )
+
+        # passa para a próxima linha da aba de conexões
+        continue
+    # ===============================
+
+    # Validação normal
     if species_col not in df_sp.columns:
         erros.append({"linha Excel": i+2, "erro": "Coluna inexistente", "column": species_col})
         continue
 
     target_norm = normalize(link_value)
 
-    # Filtra todas as espécies que atendem a condição
+    # Filtra espécies compatíveis
     matches = []
     for _, sp_row in df_sp.iterrows():
         cell = sp_row[species_col]
@@ -66,7 +84,7 @@ for i, row in df_conn.iterrows():
         if target_norm in options:
             matches.append(int(sp_row["speciesID"]))
 
-    # Se nada deu match → reporta erro
+    # Nenhuma espécie bateu
     if not matches:
         erros.append({
             "linha Excel": i+2,
@@ -76,20 +94,21 @@ for i, row in df_conn.iterrows():
         })
         continue
 
-    # Gerar inserts
+    # Gerar inserts normais
     for sid in matches:
         inserts.append(
             f"INSERT INTO public_policies_species (resourceID, speciesID) VALUES ({resourceID}, {sid});"
         )
 
-# Salvar resultados
+# Salvar SQL
 with open(out_file, "w", encoding="utf-8") as f:
     f.write("\n".join(inserts))
 
+# Salvar erros
 pd.DataFrame(erros).to_csv("sql/erros_pp_species.csv", index=False, encoding="utf-8")
 
 print("\n===== FINALIZADO =====")
 print("💾 SQL gerado em:", out_file)
 print("📌 Inserts:", len(inserts))
 print("⚠️ Erros:", len(erros))
-print("Arquivo de erros: sql/erros_pp_species.csv")
+print("📄 Arquivo de erros:", "sql/erros_pp_species.csv")

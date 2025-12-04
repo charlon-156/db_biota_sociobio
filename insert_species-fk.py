@@ -34,15 +34,9 @@ n_map_types = normalize_map(map_typesOfUses)
 n_map_veg = normalize_map(map_vegetation)
 n_map_lum = normalize_map(map_luminosity)
 
-# leitura robusta (se o cabeçalho tem linhas em branco)
-def read_clean_excel(path, sheet):
-    raw = pd.read_excel(path, sheet_name=sheet, header=None)
-    header_row = raw.first_valid_index()
-    df = pd.read_excel(path, sheet_name=sheet, skiprows=header_row)
-    return df
 
 file_path = "docs/dados_biologicos.xlsx"
-df = read_clean_excel(file_path, "Informações sobre as espécies ")
+df = pd.read_excel(file_path, "Informações sobre as espécies ")
 
 db = SQLGenerator(df)
 

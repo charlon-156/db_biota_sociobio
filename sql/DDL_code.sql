@@ -234,7 +234,10 @@ CREATE TABLE species (
     dispersalSyndrome VARCHAR(40),
     lifeCycle VARCHAR(40),
     foliage VARCHAR(40),
-    pollinationSyndrome VARCHAR(40)
+    pollinationSyndrome VARCHAR(40),
+    flowerFenology VARCHAR(20),
+    fruitFenology VARCHAR(20),
+    quantitySeed VARCHAR(20)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE species_lifeForms (

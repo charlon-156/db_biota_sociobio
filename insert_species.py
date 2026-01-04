@@ -10,25 +10,28 @@ df = pd.read_excel(file_path, sheet_name="Informações sobre as espécies ")
 db = SQLGenerator(df)
 
 for i, row in df.iterrows():
-    species = str(row["vernacularName"]).replace("'", "''") if pd.notna(row["vernacularName"]) else "NULL"
-    family = str(row["family"]).replace("'", "''") if pd.notna(row["family"]) else "NULL"
-    scientificName = str(row["scientificName"]).replace("'", "''") if pd.notna(row["scientificName"]) else "NULL"
-    authorship = str(row["authorship"]).replace("'", "''") if pd.notna(row["authorship"]) else "NULL"
-    threatenedIUCN = str(row["threatenedStatusIUCN"]).replace("'", "''") if pd.notna(row["threatenedStatusIUCN"]) else "NULL"
-    threatenedCNCFLORA = str(row["threatenedStatusCNCFLORA"]).replace("'", "''") if pd.notna(row["threatenedStatusCNCFLORA"]) else "NULL"
-    origin = str(row["origin"]).replace("'", "''") if pd.notna(row["origin"]) else "NULL"
-    endemism = str(row["endemism"]).replace("'", "''") if pd.notna(row["endemism"]) else "NULL"
-    height = str(row["height"]).replace("'", "''") if pd.notna(row["height"]) else "NULL"
-    successionalStage = str(row["successionalStage"]).replace("'", "''") if pd.notna(row["successionalStage"]) else "NULL"
-    functionalGroup = str(row["functionalGroup"]).replace("'", "''") if pd.notna(row["functionalGroup"]) else "NULL"
-    dispersalSyndrome = str(row["dispersalSyndrome"]).replace("'", "''") if pd.notna(row["dispersalSyndrome"]) else "NULL"
-    lifeCycle = str(row["lifeCycle"]).replace("'", "''") if pd.notna(row["lifeCycle"]) else "NULL"
-    foliage = str(row["foliage"]).replace("'", "''") if pd.notna(row["foliage"]) else "NULL"
-    pollinationSyndrome = str(row["pollinationSyndrome"]).replace("'", "''") if pd.notna(row["pollinationSyndrome"]) else "NULL"
+    species = str(row["vernacularName"]).replace("'", "''") 
+    family = str(row["family"]).replace("'", "''") 
+    scientificName = str(row["scientificName"]).replace("'", "''")
+    authorship = str(row["authorship"]).replace("'", "''") 
+    threatenedIUCN = str(row["threatenedStatusIUCN"]).replace("'", "''")
+    threatenedCNCFLORA = str(row["threatenedStatusCNCFLORA"]).replace("'", "''")
+    origin = str(row["origin"]).replace("'", "''") 
+    endemism = str(row["endemism"]).replace("'", "''")
+    height = str(row["height"]).replace("'", "''") 
+    successionalStage = str(row["successionalStage"]).replace("'", "''") 
+    functionalGroup = str(row["functionalGroup"]).replace("'", "''") 
+    dispersalSyndrome = str(row["dispersalSyndrome"]).replace("'", "''")
+    lifeCycle = str(row["lifeCycle"]).replace("'", "''") 
+    foliage = str(row["foliage"]).replace("'", "''")
+    pollinationSyndrome = str(row["pollinationSyndrome"]).replace("'", "''") 
+    flowerFenology = str(row["flowerFenology"]).replace("'", "''")
+    fruitFenology = str(row["fruitFenology"]).replace("'", "''")
+    quantitySeed = str(row["quantitySeed (kg)"]).replace("'", "''")
 
     if species != "NULL":
-        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism, height, successionalStage, functionalGroup, dispersalSyndrome, lifeCycle, foliage, pollinationSyndrome) 
-        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}', '{height}', '{successionalStage}', '{functionalGroup}', '{dispersalSyndrome}', '{lifeCycle}', '{foliage}', '{pollinationSyndrome}');"""
+        sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism, height, successionalStage, functionalGroup, dispersalSyndrome, lifeCycle, foliage, pollinationSyndrome, flowerFenology, fruitFenology, quantitySeed) 
+        VALUES ('{species}', '{family}', '{scientificName}', '{authorship}', '{threatenedIUCN}', '{threatenedCNCFLORA}', '{origin}', '{endemism}', '{height}', '{successionalStage}', '{functionalGroup}', '{dispersalSyndrome}', '{lifeCycle}', '{foliage}', '{pollinationSyndrome}', '{flowerFenology}', '{fruitFenology}', '{quantitySeed}');"""
         db.inserts.append(sql)
     else:
         db.erros.append({

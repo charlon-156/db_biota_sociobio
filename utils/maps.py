@@ -36,10 +36,10 @@ map_tipo = {
 map_instituicao = {
     "Secretaria de Infraestrutura e Meio Ambiente": 1,
     "Secretaria do Meio Ambiente": 2,
-    "Secretaria do Meio Ambiente, Infraestrutura e Logistica": 3,
+    "Secretária do Meio Ambiente, Infraestrutura e Logística": 3,
     "Secretaria de Agricultura e Abastecimento": 4,
     "Governo do Estado de São Paulo": 5,
-    "Assembleia legislativa do Estado de São Paulo": 6,
+    "Assembleia Legislativa do Estado de São Paulo": 6,
     "Ministério do Meio Ambiente": 7,
     "Ministério do Meio Ambiente e Mudança do Clima": 8,
     "Ministério da Agricultura": 9,
@@ -47,9 +47,9 @@ map_instituicao = {
     "Presidência da República - Subchefia para Assuntos Jurídicos": 11,
     "Presidência da República - Casa Civil": 12,
     "Presidência da República - Secretaria-Geral": 13,
-    "Câmara dos deputados": 14,
+    "Câmara dos Deputados": 14,
     "Governo Federal do Brasil": 15,
-    "Secretaria de estado do Meio Ambiente" : 16,
+    "Secretaria de Estado do Meio Ambiente" : 16,
     "Os Secretários de Estado do Meio Ambiente, de Agricultura e Abastecimento e da Justiça e da Defesa da Cidadania": 17,
     "Agência ambiental do vale do paraiba" : 18,
     "Companhia Ambiental do Estado de São Paulo" : 19,
@@ -63,6 +63,13 @@ map_statusLaw = {
     "Vigente": 1,
     "Revogada": 2,
     "Não consta revogação expressa": 3
+}
+
+map_typology = {
+    "Políticas de informação": 1,
+    "Políticas regulatórias": 2,
+    "Políticas econômicas e de comercialização": 3,
+    "Políticas de suporte e extensão rural": 4
 }
 
 # RGI

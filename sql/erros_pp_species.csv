@@ -4,17 +4,7 @@ linha Excel,erro,column,value
 19,Nenhuma espécie correspondeu ao valor,dispersalSyndrome,Síndrome de dispersão
 20,Nenhuma espécie correspondeu ao valor,threatenedStatusIUCN,Categoria de ameaça/Grau de risco de extinção
 21,Nenhuma espécie correspondeu ao valor,threatenedStatusIUCN,Categoria de ameaça/Grau de risco de extinção
-22,Coluna inexistente,biomes,
-23,Nenhuma espécie correspondeu ao valor,quantitySeed (kg),Sementes 
-24,Nenhuma espécie correspondeu ao valor,quantitySeed (kg),Sementes 
-25,Nenhuma espécie correspondeu ao valor,vegetationType,Vegetação de praias
-28,Nenhuma espécie correspondeu ao valor,lifeForm,Arbóreas
-29,Nenhuma espécie correspondeu ao valor,lifeForm,Herbáceas
-30,Nenhuma espécie correspondeu ao valor,lifeForm,Arbustivas
-31,Nenhuma espécie correspondeu ao valor,lifeForm,Forrageiras
-32,Nenhuma espécie correspondeu ao valor,typesOfUses,Reflorestamento/Restauração florestal
-33,Nenhuma espécie correspondeu ao valor,typesOfUses,Reflorestamento/Restauração florestal
-34,Nenhuma espécie correspondeu ao valor,typesOfUses,Reflorestamento/Restauração florestal
-35,Nenhuma espécie correspondeu ao valor,typesOfUses,Reflorestamento/Restauração florestal
-36,Nenhuma espécie correspondeu ao valor,typesOfUses,Reflorestamento/Restauração florestal
-37,Coluna inexistente,,
+27,Nenhuma espécie correspondeu ao valor,quantitySeed (kg),Sementes 
+28,Nenhuma espécie correspondeu ao valor,quantitySeed (kg),Sementes 
+35,Nenhuma espécie correspondeu ao valor,lifeForm,Forrageira
+41,Nenhuma espécie correspondeu ao valor,typesOfUses,Restauração de paisagens

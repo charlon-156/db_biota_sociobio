@@ -33,6 +33,11 @@ CREATE TABLE legislativeStatus (
     legislativeStatus VARCHAR(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+CREATE TABLE typologies (
+    typologyID TINYINT AUTO_INCREMENT PRIMARY KEY,
+    typology VARCHAR(40)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
 -- -------------------------------------------------------------------
 -- Políticas Públicas (Nº 4.703, DE 21 DE MAIO DE 2003...)
 -- -------------------------------------------------------------------
@@ -42,7 +47,8 @@ CREATE TABLE public_policies (
     title VARCHAR(100) NOT NULL,                
     description TEXT,                           
     bibliographicCitation TEXT,                 
-    references_url TEXT,                        
+    references_url TEXT,
+    justification TEXT,                     
     typeID TINYINT,
     institutionID TINYINT,
     legislativeStatusID TINYINT,
@@ -50,6 +56,14 @@ CREATE TABLE public_policies (
     FOREIGN KEY (typeID) REFERENCES type_pp(typeID),
     FOREIGN KEY (institutionID) REFERENCES institutions(institutionID),
     FOREIGN kEY (legislativeStatusID) REFERENCES legislativeStatus(legislativeStatusID)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE pp_typology (
+    resourceID SMALLINT,
+    typologyID TINYINT,
+    PRIMARY KEY (resourceID, typologyID),
+    FOREIGN KEY (resourceID) REFERENCES public_policies(resourceID),
+    FOREIGN KEY (typologyID) REFERENCES typologies(typologyID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------

@@ -13,6 +13,8 @@ for i, row in df.iterrows():
     description = str(row["description"]).replace("'", "''") if pd.notna(row["description"]) else  'NULL'
     fonte = str(row[" bibliographicCitation"]).replace("'", "''") if pd.notna(row[" bibliographicCitation"]) else  'NULL'
     site = str(row["referencesURL"]).replace("'", "''") if pd.notna(row["referencesURL"]) else  'NULL'
+
+    just = str(row["Justification"]).replace("'", "''") if pd.notna(row["Justification"]) else 'NULL'
     
     tipo = map_tipo.get(str(row["type"]).strip(),  'NULL')
     instituicao = map_instituicao.get(str(row["institution"]).strip(),  'NULL')
@@ -20,8 +22,8 @@ for i, row in df.iterrows():
     
     if tipo != 'NULL' and instituicao != 'NULL' and status != 'NULL':
         sql = f"""INSERT INTO public_policies 
-        (title, description, bibliographicCitation, references_url, typeID, institutionID, LegislativeStatusID)
-        VALUES ('{title}', '{description}', '{fonte}', '{site}', {tipo}, {instituicao}, {status});"""
+        (title, description, bibliographicCitation, references_url, justification, typeID, institutionID, LegislativeStatusID)
+        VALUES ('{title}', '{description}', '{fonte}', '{site}', '{just}', {tipo}, {instituicao}, {status});"""
         db.inserts.append(sql)
     else:
         db.erros.append({

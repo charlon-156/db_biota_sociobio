@@ -24,9 +24,9 @@ INSERT INTO institutions (institution) VALUES
 ('Presidência da República - Subchefia para Assuntos Jurídicos'),
 ('Presidência da República - Casa Civil'),
 ('Presidência da República - Secretaria-Geral'),
-('Câmara dos deputados'),
+('Câmara dos Deputados'),
 ('Governo Federal do Brasil'),
-('Secretaria de estado do Meio Ambiente'),
+('Secretaria de Estado do Meio Ambiente'),
 ('Os Secretários de Estado do Meio Ambiente, de Agricultura e Abastecimento e da Justiça e da Defesa da Cidadania'),
 ('Agência ambiental do vale do paraiba'),
 ('Companhia Ambiental do Estado de São Paulo'),
@@ -39,6 +39,12 @@ INSERT INTO LegislativeStatus (LegislativeStatus) VALUES
 ('Vigente'),
 ('Revogada'),
 ('Não consta revogação expressa');
+
+INSERT INTO typologies (typology) VALUES
+('Políticas de informação'),
+('Políticas regulatórias'),
+('Políticas econômicas e de comercialização'),
+('Políticas de suporte e extensão rural');
 
 INSERT INTO RGI (rgiID, rgi) VALUES
 (350001, 'São Paulo'),

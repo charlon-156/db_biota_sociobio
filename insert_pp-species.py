@@ -1,114 +1,181 @@
+###############################################################
+# Dev.: Charlon F. Monteiro
+# project: Banco de Dados Sociobiodiversidade
+# file: insert_species-fk.py
+# description: Generates SQL INSERT statements for all
+#              species associative (N:N) tables.
+# Last update: 2026-02-09
+###############################################################
+
+"""
+Descrição detalhada:
+
+1. Origem dos dados:
+   - Planilha: docs/dados_biologicos.xlsx
+   - Aba: Informações sobre as espécies
+
+2. Transformações realizadas:
+   - Normalização Unicode
+   - Separação de múltiplos valores ("//")
+   - Conversão via mapas normalizados
+
+3. Estrutura SQL gerada:
+   INSERT INTO species_<relation> (...)
+
+4. Tratamento de erros:
+   - speciesID inválido
+   - Valor não encontrado no mapa correspondente
+"""
+
 import pandas as pd
 import unicodedata
-import os
+from utils.base import SQLGenerator
+from utils.maps import (
+    map_lifeForm,
+    map_substrate,
+    map_biomes,
+    map_states,
+    map_typesOfUses,
+    map_vegetation,
+    map_luminosity
+)
 
-# CONFIG
-file_bio = "docs/dados_biologicos.xlsx"
-file_pp = "docs/public_policies.xlsx"
-sheet_conn = "Conexão com Políticas Públicas"
-sheet_species = "Informações sobre as espécies "
-out_file = "sql/inserts_public_policies_species.sql"
-os.makedirs("sql", exist_ok=True)
+# ============================================================
+# 1. CARREGAMENTO DOS DADOS
+# ============================================================
 
-def normalize(s):
-    if pd.isna(s) or s is None:
+file_path = "docs/dados_biologicos.xlsx"
+df = pd.read_excel(file_path, sheet_name="Informações sobre as espécies ")
+
+db = SQLGenerator(df)
+
+# ============================================================
+# 2. FUNÇÕES AUXILIARES
+# ============================================================
+
+def normalize_key(value):
+    # Remove acentos, espaços extras e converte para minúsculo
+    if pd.isna(value) or value is None:
         return None
-    s = str(s).strip()
-    s = unicodedata.normalize("NFKD", s)
-    s = "".join(ch for ch in s if not unicodedata.combining(ch))
-    return s.lower()
+    value = str(value).strip()
+    if value == "":
+        return None
+    value = unicodedata.normalize("NFKD", value)
+    value = "".join(c for c in value if not unicodedata.combining(c))
+    value = " ".join(value.split()).lower()
+    return value
 
-print("🔄 Carregando planilhas...")
-df_conn = pd.read_excel(file_bio, sheet_name=sheet_conn)
-df_pp = pd.read_excel(file_pp)
-df_sp = pd.read_excel(file_bio, sheet_name=sheet_species)
 
-# Mapa de políticas públicas: title → resourceID
-map_pp = {
-    normalize(r["title"]): int(r["resourceID"])
-    for _, r in df_pp.iterrows()
-    if pd.notna(r["title"]) and pd.notna(r["resourceID"])
-}
+def normalize_map(original_map):
+    # Cria versão normalizada do dicionário
+    normalized = {}
+    for k, v in original_map.items():
+        nk = normalize_key(k)
+        if nk:
+            normalized[nk] = v
+    return normalized
 
-# Prepara saída
-inserts = []
-erros = []
 
-print("🚀 Iniciando processamento...")
+def process_multi(value):
+    # Processa múltiplos valores separados por "//"
+    if pd.isna(value):
+        return []
+    return [v.strip() for v in str(value).split("//") if v.strip() != ""]
 
-for i, row in df_conn.iterrows():
 
-    title = normalize(row["title"])
-    species_col = row["speciesInformationColumn"]
-    link_value = row["biologicalLink"]
+# ============================================================
+# 3. PREPARAÇÃO DOS MAPAS NORMALIZADOS
+# ============================================================
 
-    # Verifica título da política pública
-    if title not in map_pp:
-        erros.append({"linha Excel": i+2, "erro": "Título não encontrado", "title": row["title"]})
-        continue
+n_map_life = normalize_map(map_lifeForm)
+n_map_sub = normalize_map(map_substrate)
+n_map_biomes = normalize_map(map_biomes)
+n_map_states = normalize_map(map_states)
+n_map_types = normalize_map(map_typesOfUses)
+n_map_veg = normalize_map(map_vegetation)
+n_map_lum = normalize_map(map_luminosity)
 
-    resourceID = map_pp[title]
+# Evita duplicidade de inserts
+seen_inserts = set()
 
-    # ===============================
-    # NOVO: Caso "all" — aplica a TODAS as species
-    # ===============================
-    if str(species_col).strip().lower() == "all":
+# ============================================================
+# 4. LOOP PRINCIPAL
+# ============================================================
 
-        all_species = df_sp["speciesID"].dropna().astype(int).tolist()
+for i, row in df.iterrows():
 
-        for sid in all_species:
-            inserts.append(
-                f"INSERT INTO public_policies_species (resourceID, speciesID) VALUES ({resourceID}, {sid});"
-            )
-
-        # passa para a próxima linha da aba de conexões
-        continue
-    # ===============================
-
-    # Validação normal
-    if species_col not in df_sp.columns:
-        erros.append({"linha Excel": i+2, "erro": "Coluna inexistente", "column": species_col})
-        continue
-
-    target_norm = normalize(link_value)
-
-    # Filtra espécies compatíveis
-    matches = []
-    for _, sp_row in df_sp.iterrows():
-        cell = sp_row[species_col]
-        if pd.isna(cell):
-            continue
-
-        options = [normalize(x) for x in str(cell).split("//")]
-
-        if target_norm in options:
-            matches.append(int(sp_row["speciesID"]))
-
-    # Nenhuma espécie bateu
-    if not matches:
-        erros.append({
-            "linha Excel": i+2,
-            "erro": "Nenhuma espécie correspondeu ao valor",
-            "column": species_col,
-            "value": link_value
+    # ---------- Validação de speciesID ----------
+    try:
+        species_id = int(row["speciesID"])
+    except Exception:
+        db.erros.append({
+            "linha Excel": i + 2,
+            "field": "speciesID",
+            "value": row.get("speciesID")
         })
         continue
 
-    # Gerar inserts normais
-    for sid in matches:
-        inserts.append(
-            f"INSERT INTO public_policies_species (resourceID, speciesID) VALUES ({resourceID}, {sid});"
-        )
+    # ========================================================
+    # ARQUITETURA GENÉRICA DE RELACIONAMENTOS N:N
+    # ========================================================
+    # Cada item define:
+    # (nome_coluna_excel, mapa_normalizado, tabela_destino, nome_coluna_fk)
 
-# Salvar SQL
-with open(out_file, "w", encoding="utf-8") as f:
-    f.write("\n".join(inserts))
+    tasks = [
+        ("lifeForm", n_map_life, "species_lifeForms", "lifeFormID"),
+        ("substrate", n_map_sub, "species_substrates", "substrateID"),
+        ("biome", n_map_biomes, "species_biomes", "biomeID"),
+        ("vegetationType", n_map_veg, "species_vegetation", "vegetationTypeID"),
+        ("locality", n_map_states, "species_localityStates", "localityStatesID"),
+        ("typesOfUses", n_map_types, "species_typesOfUses", "typeOfUseID"),
+        ("luminosity", n_map_lum, "species_luminosity", "luminosityID"),
+    ]
 
-# Salvar erros
-pd.DataFrame(erros).to_csv("sql/erros_pp_species.csv", index=False, encoding="utf-8")
+    for column_name, normalized_map, table_name, target_column in tasks:
 
-print("\n===== FINALIZADO =====")
-print("💾 SQL gerado em:", out_file)
-print("📌 Inserts:", len(inserts))
-print("⚠️ Erros:", len(erros))
-print("📄 Arquivo de erros:", "sql/erros_pp_species.csv")
+        values = process_multi(row.get(column_name))
+
+        for raw_value in values:
+
+            normalized_key = normalize_key(raw_value)
+
+            if normalized_key and normalized_key in normalized_map:
+
+                target_id = normalized_map[normalized_key]
+
+                sql = f"""INSERT INTO {table_name}
+        ({column_name == "locality" and "speciesID, " + target_column or "speciesID, " + target_column})
+        VALUES ({species_id}, {target_id});"""
+
+                # Evita duplicidade
+                if sql not in seen_inserts:
+                    db.inserts.append(sql)
+                    seen_inserts.add(sql)
+
+            else:
+                db.erros.append({
+                    "linha Excel": i + 2,
+                    "speciesID": species_id,
+                    "field": column_name,
+                    "value": raw_value
+                })
+
+
+# ============================================================
+# 5. SAÍDA E RELATÓRIO
+# ============================================================
+
+db.save_sql("inserts_species_fk.sql")
+
+if db.erros:
+    pd.DataFrame(db.erros).to_csv(
+        "sql/erros_species_fk.csv",
+        index=False,
+        encoding="utf-8"
+    )
+
+print("\n===== RELATÓRIO FINAL =====")
+db.report()
+
+if db.erros:
+    print("Arquivo de erros salvo em: sql/erros_species_fk.csv")

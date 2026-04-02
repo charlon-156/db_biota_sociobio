@@ -15,6 +15,45 @@ JOIN institutions i ON pp.institutionID = i.institutionID
 LEFT JOIN legislativestatus l ON pp.legislativeStatusID = l.legislativeStatusID  
 ORDER BY pp.resourceID;
 
+SELECT
+    pp.resourceID,
+    pp.title,
+    tp.type AS tipo,
+    i.institution AS instituicao,
+    ls.legislativeStatus AS situacao_legal,
+	t.typology AS tipologia
+FROM public_policies pp
+LEFT JOIN type_pp tp ON pp.typeID = tp.typeID
+LEFT JOIN institutions i ON pp.institutionID = i.institutionID
+LEFT JOIN legislativeStatus ls ON pp.legislativeStatusID = ls.legislativeStatusID
+JOIN pp_typology ppt ON pp.resourceID = ppt.resourceID
+JOIN typologies t ON ppt.typologyID = t.typologyID;
+
+SELECT
+	s.speciesID,
+    s.scientificNameAuthorship,
+    s.vernacularName,
+    s.scientificNameAuthorship,
+    s.origin,
+    s.endemism,
+    s.threatenedStatusIUCN,
+    s.threatenedStatusCNCFLORA,
+    b.biome,
+    v.vegetationType,
+    lf.lifeForm,
+    sub.substrate
+FROM species s
+LEFT JOIN species_biomes sb ON s.speciesID = sb.speciesID
+LEFT JOIN biomes b ON sb.biomeID = b.biomeID
+LEFT JOIN species_vegetation sv ON s.speciesID = sv.speciesID
+LEFT JOIN vegetationTypes v ON sv.vegetationTypeID = v.vegetationTypeID
+LEFT JOIN species_lifeForms slf ON s.speciesID = slf.speciesID
+LEFT JOIN lifeForms lf ON slf.lifeFormID = lf.lifeFormID
+LEFT JOIN species_substrates ss ON s.speciesID = ss.speciesID
+LEFT JOIN substrates sub ON ss.substrateID = sub.substrateID
+;
+;
+
 -- dados de políticas públicas (cru)
 SELECT pp.resourceID, pp.title, pp.description, l.legislativeStatus, t.type, i.institution, pp.bibliographicCitation, pp.references_url FROM public_policies pp
 JOIN type_pp t ON pp.typeID = t.typeID
@@ -49,3 +88,7 @@ ORDER BY m.municipality;
 SELECT m.municipalityID AS 'Código do município', m.municipality AS 'Município', u.ugrhi AS 'UGRHI' from municipality_ugrhi mu
 JOIN municipalities m ON mu.municipalityID = m.municipalityID
 JOIN ugrhis u ON mu.ugrhiID = u.ugrhiID;
+
+SELECT * FROM species;
+select * from typesofuses;
+select * from typesOfUses;

@@ -52,7 +52,6 @@ CREATE TABLE public_policies (
     typeID TINYINT,
     institutionID TINYINT,
     legislativeStatusID TINYINT,
-
     FOREIGN KEY (typeID) REFERENCES type_pp(typeID),
     FOREIGN KEY (institutionID) REFERENCES institutions(institutionID),
     FOREIGN kEY (legislativeStatusID) REFERENCES legislativeStatus(legislativeStatusID)
@@ -295,7 +294,7 @@ CREATE TABLE species_localityStates (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 CREATE TABLE species_typesOfUses (
-    speciesID TINYINT,
+    speciesID TINYINT, 
     typesOfUsesID TINYINT,
     PRIMARY KEY (speciesID, typesOfUsesID),
     FOREIGN KEY (speciesID) REFERENCES species(speciesID),

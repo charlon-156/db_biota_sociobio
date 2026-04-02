@@ -67,7 +67,7 @@ for i, row in df.iterrows():
         ("biome", process_multi(row.get("biome")), n_map_biomes, "species_biomes", "biomeID"),
         ("vegetationType", process_multi(row.get("vegetationType")), n_map_veg, "species_vegetation", "vegetationTypeID"),
         ("locality", process_multi(row.get("locality")), n_map_states, "species_localityStates", "localityStatesID"),
-        ("typesOfUses", process_multi(row.get("typesOfUses")), n_map_types, "species_typesOfUses", "typeOfUseID"),
+        ("typesOfUses", process_multi(row.get("typesOfUses")), n_map_types, "species_typesOfUses", "typesOfUsesID"),
         ("luminosity", process_multi(row.get("luminosity")), n_map_lum, "species_luminosity", "luminosityID"),
     ]
 
@@ -95,8 +95,11 @@ for i, row in df.iterrows():
 db.save_sql("inserts_species_fk.sql")
 
 # salvar erros detalhados em CSV para análise
-if db.erros:
-    pd.DataFrame(db.erros).to_csv("sql/erros_species_fk.csv", index=False, encoding="utf-8")
+pd.DataFrame(db.erros).to_csv(
+    "sql/error/erros_pp_species.csv",
+    index=False,
+    encoding="utf-8"
+)
 
 # relatório
 print("\n===== RELATÓRIO FINAL =====")

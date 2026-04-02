@@ -116,17 +116,39 @@ INSERT INTO biomes (biome) VALUES
 
 INSERT INTO vegetationTypes (vegetationType) VALUES
 ('Área Antrópica'),
-('Grassland'),
+('Campo limpo'),
 ('Cerrado (lato sensu)'),
-('Floresta Ombrófila (Floresta Pluvial)'),
-('Mata/Vegetação Ciliar ou Galeria'),
+('Floresta Ciliar ou Galeria'),
 ('Floresta Estacional Semidecidual'),
+('Floresta Ombrófila (Floresta Pluvial)'),
+('Floresta Ombófila Mista'),
+('Manguezal'),
+('Vegetação de praias (Restinga)'),
+('Mata/Vegetação Ciliar ou Galeria'),
+('Floresta Estacional Perenifólia'),
 ('Campo de Altitude'),
+('Campo de Várzea'),
 ('Campo Rupestre'),
-('Campo Limpo'),
+('Floresta Estacional Decidual'),
+('Vegetação Sobre Afloramentos Rochosos'),
 ('Caatinga (stricto sensu)'),
+('Restinga'),
+('Vegetação sobre afloramentos rochosos'),
+('Campo Limpo'),
 ('Campinarana amazônica'),
-('Floresta de Terra Firme');
+('Floresta de Terra Firme'),
+('Área antrópica'),
+('Vegetação aquática'),
+('Compo Rupestre'),
+('Vegetação de Carrasco'),
+('Mata/vegetação ciliar ou Galeira'),
+('Floresta de Igapó'),
+('Floresta de Várzea'),
+('Palmeiral'),
+('Savana amazônica'),
+('Campo de várzea (Várzea)'),
+('Floresta Ombrófila (Tropical Pluvial)'),
+('Floresta Ombrófila Mista');
 
 INSERT INTO localityStates (localityStatesID, localityStates) VALUES
 (12, 'AC'), (27, 'AL'), (16, 'AP'), (13, 'AM'), (29, 'BA'),
@@ -138,7 +160,7 @@ INSERT INTO localityStates (localityStatesID, localityStates) VALUES
 
 INSERT INTO typesOfUses (typesOfUses) VALUES
 ('Medicinal'), ('Madereiro'), ('Artesanal'), ('Alimentício - humano'),
-('"Alimentício - animais'), ('Arborização Urbana'), ('Ornamental'), 
+('Alimentício - animais'), ('Arborização Urbana'), ('Ornamental'), 
 ('Paisagismo'), ('Higiene'), ('Combustível'), ('Recomposição de áreas degradadas'),
 ('Reflorestamento'), ('Aromático');
 

@@ -1,37 +1,54 @@
 import pandas as pd
 from utils.base import SQLGenerator
 from utils.maps import map_tipo, map_instituicao, map_statusLaw
+from utils.helpers import normalize_map, safe_map
 
-# Carregar a planilha
+# CONFIG
 file_path = "docs/public_policies.xlsx"
-df = pd.read_excel(file_path)
+output_sql = "inserts_public_policies.sql"
 
+df = pd.read_excel(file_path)
 db = SQLGenerator(df)
 
-for i, row in df.iterrows():
-    title = str(row["title"]).replace("'", "''") if pd.notna(row["title"]) else  'NULL'
-    description = str(row["description"]).replace("'", "''") if pd.notna(row["description"]) else  'NULL'
-    fonte = str(row[" bibliographicCitation"]).replace("'", "''") if pd.notna(row[" bibliographicCitation"]) else  'NULL'
-    site = str(row["referencesURL"]).replace("'", "''") if pd.notna(row["referencesURL"]) else  'NULL'
+# normaliza maps
+n_map_tipo = normalize_map(map_tipo)
+n_map_instituicao = normalize_map(map_instituicao)
+n_map_status = normalize_map(map_statusLaw)
 
-    just = str(row["Justification"]).replace("'", "''") if pd.notna(row["Justification"]) else 'NULL'
-    
-    tipo = map_tipo.get(str(row["type"]).strip(),  'NULL')
-    instituicao = map_instituicao.get(str(row["institution"]).strip(),  'NULL')
-    status = map_statusLaw.get(str(row["LegislativeStatus"]).strip(), 'NULL')
-    
-    if tipo != 'NULL' and instituicao != 'NULL' and status != 'NULL':
-        sql = f"""INSERT INTO public_policies 
+# LOOP
+for i, row in df.iterrows():
+
+   
+
+    title = db.text(row.get("title"))
+    description = db.text(row.get("description"))
+    fonte = db.text(row.get("bibliographicCitation"))
+    site = db.text(row.get("referencesURL"))
+    justification = db.text(row.get("Justification"))
+
+    tipo = safe_map(row.get("type"), n_map_tipo)
+    instituicao = safe_map(row.get("institution"), n_map_instituicao)
+    status = safe_map(row.get("LegislativeStatus"), n_map_status)
+
+    if tipo and instituicao and status:
+
+        sql = f"""
+        INSERT INTO public_policies 
         (title, description, bibliographicCitation, references_url, justification, typeID, institutionID, LegislativeStatusID)
-        VALUES ('{title}', '{description}', '{fonte}', '{site}', '{just}', {tipo}, {instituicao}, {status});"""
-        db.inserts.append(sql)
+        VALUES ({title}, {description}, {fonte}, {site}, {justification}, {tipo}, {instituicao}, {status});
+        """
+
+        db.add_insert(sql.strip())
+
     else:
-        db.erros.append({
-            "linha": i+2,  # +2 porque Excel tem cabeçalho
-            "tipo": row["type"],
-            "instituicao": row["institution"]
+        db.add_error({
+            "linha_excel": i + 2,
+            "title": row.get("title"),
+            "type": row.get("type"),
+            "institution": row.get("institution"),
+            "status": row.get("LegislativeStatus")
         })
 
-# Salvar e relatar o arquivo SQL
-db.save_sql("inserts_public_policies.sql")
+# OUTPUT
+db.save_sql(output_sql)
 db.report()

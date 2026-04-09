@@ -1,21 +1,31 @@
 import pandas as pd
 from utils.base import SQLGenerator
 from utils.maps import map_rgi, map_rgint, map_region
+from utils.helpers import normalize_map, safe_map
 
-# Carregar a planilha
+# CONFIG
 file_path = "docs/municipality.xlsx"
-df = pd.read_excel(file_path)
+output_sql = "inserts_municipalities.sql"
 
+df = pd.read_excel(file_path)
 db = SQLGenerator(df)
 
+# normaliza maps
+n_map_rgi = normalize_map(map_rgi)
+n_map_rgint = normalize_map(map_rgint)
+n_map_region = normalize_map(map_region)
+
+# LOOP
 for i, row in df.iterrows():
 
-    municipalityID = db.num(row.get("municipalityID"))
-    municipality = str(row["municipality"]).replace("'", "''") if pd.notna(row["municipality"]) else  "NULL"
-    rgi = map_rgi.get(str(row["rgi"]).strip())
-    rgint = map_rgint.get(str(row["rgint"]).strip())  
-    region = map_region.get(str(row["locality"]).strip())
-    
+    municipality_id = db.num(row.get("municipalityID"))
+    municipality = db.text(row.get("municipality"))
+
+    rgi = safe_map(row.get("rgi"), n_map_rgi)
+    rgint = safe_map(row.get("rgint"), n_map_rgint)
+    region = safe_map(row.get("locality"), n_map_region)
+
+    # NUMÉRICOS
     area = db.num(row.get("areaKM2"))
     population = db.num(row.get("population"))
     man = db.num(row.get("man"))
@@ -36,21 +46,27 @@ for i, row in df.iterrows():
     populationByRaceParda = db.num(row.get("populationByRaceParda"))
     populationByRacePreta = db.num(row.get("populationByRacePreta"))
 
-    if municipality and rgi and rgint:
-        sql = f"""INSERT INTO municipalities
+    # VALIDAÇÃO
+
+    if rgi and rgint:
+
+        sql = f"""
+        INSERT INTO municipalities
         (municipalityID, municipality, rgiID, rgintID, regionID, areaKM2, population, man, woman, genderRatio, middleAge, populationDensity, populationProtectedArea, indigenousPopulation, insideIndigenousLand, outsideIndigenousLand, quilombolaPopulation, insideQuilombolaLand, outsideQuilombolaLand, populationByRaceAmarela, populationByRaceBranca, populationByRaceIndigena, populationByRaceParda, populationByRacePreta)
-        VALUES ({municipalityID}, '{municipality}', {rgi}, {rgint}, {region}, {area}, {population}, {man}, {woman}, {genderRatio}, {averageAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});"""
-        db.inserts.append(sql)
+        VALUES ({municipality_id}, {municipality}, {rgi}, {rgint}, {region}, {area}, {population}, {man}, {woman}, {genderRatio}, {averageAge}, {populationDensity}, {populationProtectedArea}, {indigenousPopulation}, {insideIndigenousLand}, {outsideIndigenousLand}, {quilombolaPopulation}, {insideQuilombolaLand}, {outsideQuilombolaLand}, {populationByRaceAmarela}, {populationByRaceBranca}, {populationByRaceIndigena}, {populationByRaceParda}, {populationByRacePreta});
+        """
+
+        db.add_insert(sql.strip())
 
     else:
-        db.erros.append({
-            "linha_excel": i+2,  # +2 por conta do cabeçalho
-            "municipalityID": municipalityID,
-            "municipality": row["municipality"],
-            "rgi": row["rgi"],
-            "rgint": row["rgint"]
+        db.add_error({
+            "linha_excel": i + 2,
+            "municipalityID": row.get("municipalityID"),
+            "municipality": row.get("municipality"),
+            "rgi": row.get("rgi"),
+            "rgint": row.get("rgint")
         })
 
-# Salvar e relatar o arquivo SQL
-db.save_sql("inserts_municipalities.sql")
+# Output
+db.save_sql(output_sql)
 db.report()

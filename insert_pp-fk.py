@@ -1,61 +1,25 @@
 import pandas as pd
-import unicodedata
 from utils.base import SQLGenerator
 from utils.maps import map_typology
+from utils.helpers import normalize_map, process_multi, safe_map
 
-def normalize_key(s):
-    if s is None:
-        return None
-    s = str(s).strip()
-    if s == "":
-        return None
-    s = unicodedata.normalize("NFKD", s)
-    s = "".join([c for c in s if not unicodedata.combining(c)])
-    s = " ".join(s.split()).lower()
-    return s
+file_path = "docs/public_policies.xlsx"
+output_sql = "inserts_public_policies_fk.sql"
 
-
-def normalize_map(map_orig):
-    new = {}
-    for k, v in map_orig.items():
-        nk = normalize_key(k)
-        if nk:
-            new[nk] = v
-    return new
-
-
-
+df = pd.read_excel(file_path)
+db = SQLGenerator(df)
 
 n_map_typology = normalize_map(map_typology)
 
-file_path = "docs/public_policies.xlsx"
-
-
-df = pd.read_excel(file_path)
-
-db = SQLGenerator(df)
-seen_inserts = set()
-
-
-def process_multi(value):
-    if pd.isna(value):
-        return []
-    parts = [p.strip() for p in str(value).split("//") if p.strip() != ""]
-    return parts
-
-
-# =========================
-# LOOP PRINCIPAL
-# =========================
+seen = set()
 
 for i, row in df.iterrows():
 
-    # ID da política pública
     try:
-        politica_id = int(row["resourceID"])
+        resource_id = int(row["resourceID"])
     except Exception:
-        db.erros.append({
-            "linha Excel": i + 2,
+        db.add_error({
+            "linha_excel": i + 2,
             "field": "resourceID",
             "value": row.get("resourceID")
         })
@@ -64,43 +28,23 @@ for i, row in df.iterrows():
     parts = process_multi(row.get("Typology"))
 
     for part in parts:
-        raw_value = part
-        key = normalize_key(part)
 
-        if key and key in n_map_typology:
-            category_id = n_map_typology[key]
+        typology_id = safe_map(part, n_map_typology)
 
-            sql = (
-                "INSERT INTO pp_typology "
-                "(resourceID, typologyID) "
-                f"VALUES ({politica_id}, {category_id});"
-            )
+        if typology_id:
+            sql = f"INSERT INTO pp_typology (resourceID, typologyID) VALUES ({resource_id}, {typology_id});"
 
-            if sql not in seen_inserts:
-                db.inserts.append(sql)
-                seen_inserts.add(sql)
+            if sql not in seen:
+                db.add_insert(sql)
+                seen.add(sql)
 
         else:
-            db.erros.append({
-                "linha Excel": i + 2,
-                "resourceID": politica_id,
-                "field": "policyCategory",
-                "value": raw_value
+            db.add_error({
+                "linha_excel": i + 2,
+                "resourceID": resource_id,
+                "field": "Typology",
+                "value": part
             })
 
-
-
-db.save_sql("inserts_public_policies_fk.sql")
-
-if db.erros:
-    pd.DataFrame(db.erros).to_csv(
-        "sql/erros_politicas_publicas_policyCategory.csv",
-        index=False,
-        encoding="utf-8"
-    )
-
-print("\n===== RELATÓRIO FINAL =====")
+db.save_sql(output_sql)
 db.report()
-
-if db.erros:
-    print("Arquivo de erros salvo em: sql/erros_politicas_publicas_policyCategory.csv")

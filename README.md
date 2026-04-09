@@ -15,6 +15,9 @@ sociobiodiversidade-inserts/
 ├── .gitignore              # arquivos ignorados pelo git
 │
 ├── sql/                    # scripts SQL de inserção
+│   ├── error/
+│   │    ├── errors-inserts_... 
+│   │    └── [...]
 │   ├── DDl_code.sql
 │   ├── DML_code.sql
 │   ├── SELECT_code.sql
@@ -27,7 +30,7 @@ sociobiodiversidade-inserts/
 └── doc/                 # arquivos de dados brutos (local, não versionado)
     ├── municipios.xlsx
     ├── politicas.xlsx
-    └── ...
+    └── [...]
 
 ````
 

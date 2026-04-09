@@ -2,7 +2,7 @@ import pandas as pd
 from utils.base import SQLGenerator
 from utils.maps import map_mun
 
-# Carregar a planilha
+# CONFIG
 file_path = "docs/Dados abióticos.xlsx"
 df = pd.read_excel(file_path)
 
@@ -22,6 +22,6 @@ for i, row in df.iterrows():
         else:
             db.erros.append({"linha": i+2, "municipality": m, "ugrhiID": ugrhi_id})
 
-# Salvar e relatar o arquivo SQL
+# Output
 db.save_sql("inserts_mun_ugrhi.sql")
 db.report()

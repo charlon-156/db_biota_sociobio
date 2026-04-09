@@ -1,5 +1,8 @@
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3510500,
             2,
@@ -73,12 +76,15 @@ INSERT INTO climate_mun
 -45.3192631, -45.3188208, -45.3185365, -45.3185093, -45.3196194, -45.3199744, -45.3200318, -45.319879, -45.3189421, -45.3185366, -45.3176797, -45.3174884, -45.3172125, -45.3166772, -45.3161106, -45.3155495, -45.3145629, -45.314034, -45.3113167, -45.3098495, -45.3092303, -45.3088276, -45.3086108, -45.30858, -45.3088347, -45.3101178, -45.3104301,'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3520400,
             2,
             420.899994,
-            23.2, 23.4, 22.7, 20.7, 18.2, 16.7, 16.2, 17.2, 18.6, 20.0, 21.1, 22.2,
+            23.2, 23.4, 22.7, 20.7, 18.2, 16.7, 16.2, 17.2, 18.6, 20, 21.1, 22.2,
             247, 241, 235, 157, 109, 75, 57, 61, 97, 149, 135, 186,
             'list(list(c(-45.3002338, -45.3003078, -45.3005054, -45.3007769, -45.3008856, -45.3009201, -45.3006634, -45.3005399, -45.3003424, -45.300293, -45.3002338, -23.9225019, -23.9226106, -23.9227587, -23.9227686, -23.922734, -23.9226452, -23.9223884, -23.9223242, -23.9222797, -23.9223291, -23.9225019)), list(c(-45.2967404, -45.296565, -45.2965307, -45.2966251, -45.2968364, -45.2970322, -45.297091, -45.2972994, -45.2973237, -45.2975422, -45.2977955, -45.2981763, -45.2982498, -45.298089, -45.2977401, -45.2972028, 
 -45.2969349, -45.2967404, -23.9193973, -23.9194565, -23.9196295, -23.9197684, -23.9197762, -23.9199519, -23.9201963, -23.9204624, -23.9204846, -23.920662, -23.9207489, -23.9207446, -23.9206338, -23.9203523, -23.9201225, -23.9197293, -23.9195065, -23.9193973)), list(c(-45.297034, -45.2969105, -45.2967525, -45.2965303, -45.2964068, -45.2962439, -45.2961204, -45.2960365, -45.2960365, -45.2960859, -45.2961994, -45.2963229, -45.2963575, -45.2963723, -45.2964957, -45.2966537, -45.2967525, -45.2969253, 
@@ -147,12 +153,15 @@ INSERT INTO climate_mun
 -45.3975875, -45.3975497, -45.397512, -45.3974481, -45.3973975, -45.3973431, -45.3973217, -45.3973187, -45.3973075, -45.3972757, -45.3972097, -45.3971539, -45.3971267, -45.3970319, -45.396921, -45.3968219, -45.3967677, -45.3967377, -45.3967467, -45.3966474, -45.3965999, -45.3965605, -45.3965351, -45.3964598, -45.3963594, -45.3962589, -45.3961832, -45.3961079, -45.3960453, -45.3959702, '
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3550704,
             2,
             303.634094,
-            24.0, 24.1, 23.5, 21.5, 19.0, 17.5, 17.0, 18.0, 19.3, 20.7, 21.9, 23.0,
+            24, 24.1, 23.5, 21.5, 19, 17.5, 17, 18, 19.3, 20.7, 21.9, 23,
             276, 267, 250, 162, 118, 95, 82, 99, 124, 190, 188, 245,
             'list(list(c(-45.6883968, -45.6884489, -45.6886577, -45.6887079, -45.6887808, -45.6888834, -45.6888551, -45.6888731, -45.6889589, -45.6891305, -45.6891097, -45.6889532, -45.6886901, -45.6884493, -45.6881912, -45.6880629, -45.6880861, -45.6882331, -45.6882335, -45.6881949, -45.688148, -45.6880158, -45.6880676, -45.6881812, -45.688341, -45.6885248, -45.6886781, -45.6886737, -45.6886572, -45.688641, -45.6885303, -45.6883972, -45.6883466, -45.6882421, -45.68811, -45.688062, -45.6879263, -45.6877229, -45.6875032, 
 -45.6872309, -45.6868234, -45.6864554, -45.6859939, -45.6856375, -45.6852786, -45.6848834, -45.6845986, -45.6843664, -45.6841627, -45.6839426, -45.6837204, -45.6835054, -45.6833857, -45.683291, -45.6831977, -45.6831335, -45.683034, -45.6829087, -45.682683, -45.6825256, -45.6823245, -45.6818902, -45.6815502, -45.6812395, -45.6810236, -45.6808168, -45.680463, -45.6802126, -45.6801003, -45.6799823, -45.6798489, -45.6797024, -45.6796541, -45.6796809, -45.6798089, -45.6798492, -45.6799297, -45.6800822, 
@@ -221,12 +230,15 @@ INSERT INTO climate_mun
     -23.7936894, -23.7937119, -23.7936814, -23.7935449, -23.7933888, -23.7932662, -23.7930965, -23.7929381, -23.792863, -23.7927796, -23.7926823, -23.7926185, -23.792499, -23.7924406, -23.7923991, -23.7923298, -23.7922835, -23.7922029, -23.7921252, -23.7919978, -23.7918788, -23.791815, -23.7917538, -23.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3555406,
             2,
             328.830719,
-            23.8, 24.0, 23.4, 21.5, 19.1, 17.6, 17.0, 18.0, 19.3, 20.7, 21.8, 22.9,
+            23.8, 24, 23.4, 21.5, 19.1, 17.6, 17, 18, 19.3, 20.7, 21.8, 22.9,
             293, 286, 266, 160, 117, 87, 90, 91, 127, 199, 227, 300,
             'list(list(c(-45.1546035, -45.1544234, -45.1542926, -45.1540552, -45.153785, -45.1535455, -45.1532652, -45.1528964, -45.1527457, -45.1527141, -45.1527705, -45.1527167, -45.1527276, -45.1528076, -45.1528595, -45.152799, -45.1526215, -45.1524003, -45.1521477, -45.1518886, -45.1516415, -45.1514293, -45.1513883, -45.1513358, -45.151303, -45.1513061, -45.1514697, -45.1516886, -45.1518778, -45.1519644, -45.1520595, -45.1520367, -45.1517618, -45.1514842, -45.1512362, -45.1510087, -45.1507532, -45.150534, 
 -45.1504387, -45.1502255, -45.1501132, -45.15006, -45.1500386, -45.1500535, -45.1500532, -45.1499974, -45.1497286, -45.1494717, -45.1492872, -45.1490757, -45.1490426, -45.1489364, -45.1486943, -45.1485311, -45.1483201, -45.148211, -45.148064, -45.1478844, -45.1476794, -45.1474644, -45.1471879, -45.1470182, -45.1467586, -45.1465569, -45.1463859, -45.1462687, -45.1463092, -45.1462748, -45.146314, -45.1464121, -45.1463415, -45.1462394, -45.1461514, -45.1460461, -45.1460452, -45.1459914, -45.1457799, 
@@ -295,12 +307,15 @@ INSERT INTO climate_mun
 -23.5361529, -23.535954, -23.5358966, -23.5357301, -23.5355626, -23.5354369, -23.5353096, -23.5352756, -23.5353483, -23.5352384, -23.5351104, -23.5349857, -23.5348402, -23.5346031, -23.5344084, -23.5341927, -23.5340012, -23.5337043, -23.533531, -23.533357, -23.5332052, -23.5329874, -23.5326444, -23.5323745, -23.5320472, -23.5318047, -23.5315358, -23.5312833, -23.5309808'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3502507,
             4,
             773.4776,
-            21.5, 21.7, 21.0, 19.1, 16.7, 15.2, 14.8, 16.0, 17.5, 18.9, 19.8, 20.7,
+            21.5, 21.7, 21, 19.1, 16.7, 15.2, 14.8, 16, 17.5, 18.9, 19.8, 20.7,
             250, 231, 189, 76, 46, 26, 18, 37, 57, 142, 148, 217,
             'list(list(c(-45.2116729, -45.2107638, -45.2107127, -45.2106617, -45.2099057, -45.2082137, -45.2070234, -45.2002188, -45.2004102, -45.2004134, -45.2002104, -45.2003237, -45.2001018, -45.200143, -45.1999517, -45.200207, -45.2002233, -45.1998932, -45.1999392, -45.2005031, -45.2005638, -45.200385, -45.2002063, -45.2000658, -45.1996629, -45.1997056, -45.2001494, -45.2005931, -45.2016534, -45.2018307, -45.2024025, -45.2025125, -45.2027512, -45.2030753, -45.20358, -45.2038119, -45.2039711, -45.2040205, 
 -45.2041914, -45.205173, -45.2053193, -45.2053726, -45.2055958, -45.2061265, -45.2063669, -45.2064618, -45.206331, -45.2063515, -45.2064657, -45.2066339, -45.2068159, -45.2074, -45.2076619, -45.207788, -45.2078599, -45.2082387, -45.2083235, -45.2079912, -45.2080839, -45.207802, -45.2072844, -45.2069304, -45.2065484, -45.2068619, -45.2075499, -45.2080131, -45.2080617, -45.2079112, -45.2079101, -45.2079089, -45.2083024, -45.2082949, -45.2084165, -45.208443, -45.2085737, -45.2088922, -45.2097717, -45.2100335, 
@@ -336,7 +351,10 @@ INSERT INTO climate_mun
 -22.8195666, -22.8218576, -22.8220156, -22.8230306, -22.8231495, -22.823785, -22.8249374, -22.8264054, -22.8285792, -22.8287951, -22.8288218, -22.8288906, -22.8290338, -22.8291604, -22.8292635, -22.8292911, -22.8294453, -22.8295036, -22.8299097, -22.8301064, -22.8302506, -22.8304392, -22.8310505, -22.8312972)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3503158,
             4,
@@ -410,7 +428,10 @@ INSERT INTO climate_mun
 -22.590042, -22.590164, -22.5902861, -22.5903696, -22.5904403, -22.5903824, -22.5904338, -22.5905109, -22.5906137, -22.5907358, -22.5908514, -22.5909606, -22.5910495, -22.5911019, -22.5911019, -22.5911359, -22.5912111, -22.5913266, -22.5914231, -22.5915259, -22.5916415, -22.5917618, -22.591892, -22.5919884, -22.5920141, -22.591982, -22.5918471, -22.5917058, -22.5916801, -22.5917168, -22.5918342, -22.5920398, -22.5922113, -22.5'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3503505,
             4,
@@ -484,7 +505,10 @@ INSERT INTO climate_mun
 -22.8298014, -22.8293229, -22.8291386, -22.8288875, -22.8284884, -22.8280408, -22.8275173, -22.8269716, -22.8264224, -22.8261369, -22.8255454, -22.8252383, -22.8249933, -22.8246144, -22.823517, -22.8214439, -22.820958, -22.8203215, -22.8200829, -22.819747, -22.8193047, -22.8190566, -22.8186711, -22.8184017, -22.8170376, -22.8167722, -22.8166462, -22.8164482, -22.8159906, -22.8153451, -22.8142523, -22.8138254, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3504909,
             1,
@@ -558,12 +582,15 @@ INSERT INTO climate_mun
 -22.8838233, -22.883442, -22.8830206, -22.8816697, -22.8809967, -22.8805031, -22.8797628, -22.879232, -22.8792071, -22.8791835, -22.8791262, -22.8789552, -22.8781925, -22.8770483, -22.8765997, -22.876151, -22.8758594, -22.8750069, -22.8745806, -22.874286, -22.873616, -22.8725435, -22.8711034, -22.8700691, -22.8693311, -22.8687796, -22.8683889, -22.8678008, -22.8671999, -22.8668859, -22.8667961, -22.8667732, -22.8668101, -22.8668269, -'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3508504,
             2,
             634.381531,
-            22.3, 22.4, 21.8, 19.9, 17.4, 16.0, 15.6, 16.8, 18.2, 19.6, 20.6, 21.5,
+            22.3, 22.4, 21.8, 19.9, 17.4, 16, 15.6, 16.8, 18.2, 19.6, 20.6, 21.5,
             247, 227, 182, 74, 49, 40, 29, 38, 66, 137, 147, 199,
             'list(list(c(-45.7321875, -45.732346, -45.732352, -45.73264, -45.733191, -45.733245, -45.733352, -45.733413, -45.733638, -45.734027, -45.734149, -45.734219, -45.734244, -45.734437, -45.73467, -45.735329, -45.735794, -45.736064, -45.737116, -45.73755, -45.737665, -45.737718, -45.737764, -45.737797, -45.737965, -45.73808, -45.73815, -45.738178, -45.738162, -45.73793, -45.737684, -45.737628, -45.737647, -45.737735, -45.737963, -45.738172, -45.73883, -45.738985, -45.739024, -45.739044, -45.73916, -45.739454, 
 -45.739592, -45.739591, -45.739418, -45.73886, -45.738735, -45.738622, -45.738635, -45.738875, -45.73937, -45.739719, -45.739974, -45.7403108, -45.740737, -45.741047, -45.741279, -45.741333, -45.74134, -45.741144, -45.740964, -45.740886, -45.740892, -45.740954, -45.74104, -45.741398, -45.741522, -45.741536, -45.741393, -45.741439, -45.741639, -45.741948, -45.742402, -45.742995, -45.743369, -45.74412, -45.744368, -45.745226, -45.745725, -45.746474, -45.746723, -45.746973, -45.747566, -45.748419, -45.748699, 
@@ -623,7 +650,10 @@ INSERT INTO climate_mun
 -23.237949, -23.237708, -23.237237, -23.237194, -23.236839, -23.236462, -23.236115, -23.234869, -23.234571, -23.234268, -23.23314, -23.232914, -23.232719, -23.232341, -23.23214, -23.23188, -23.231417, -23.231301, -23.231034, -23.23088, -23.230705, -23.23051, -23.230456, -23.23039, -23.230151, -23.229944, -23.229529, -23.229166, -23.228964, -23.228357, -23.228132, -23.227662, -23.227299, -23.227057, -23.226819, -23.226248, -23.225995, -23.225154, -23.224693, -23.224346, -23.223668, -23.2233462)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3508603,
             4,
@@ -697,12 +727,15 @@ INSERT INTO climate_mun
 -22.8249648, -22.8250995, -22.8254953, -22.8258396, -22.8265629, -22.8274658, -22.8277026, -22.8279243, -22.8283601, -22.8285632, -22.8293355, -22.8296527, -22.8299071, -22.8300247, -22.8307264, -22.831029, -22.8314831, -22.8321089, -22.8327788, -22.8338045, -22.8347014, -22.8350468, -22.836887, -22.8380894, -22.8389301, -22.8394332, -22.8396908, -22.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3509700,
             1,
             1601.420532,
-            17.0, 17.1, 16.4, 14.4, 11.9, 10.3, 10.3, 11.9, 13.6, 15.0, 15.8, 16.3,
+            17, 17.1, 16.4, 14.4, 11.9, 10.3, 10.3, 11.9, 13.6, 15, 15.8, 16.3,
             322, 284, 212, 89, 62, 52, 34, 48, 75, 177, 209, 297,
             'list(list(c(-45.5125864, -45.5128423, -45.5134257, -45.5136166, -45.5139125, -45.5140191, -45.5143546, -45.5149219, -45.5156111, -45.5163617, -45.5167864, -45.5172392, -45.5177118, -45.5179467, -45.5182518, -45.5187154, -45.5190297, -45.5193121, -45.5195327, -45.5196592, -45.520004, -45.5207873, -45.5215423, -45.5220742, -45.5224423, -45.5226163, -45.522799, -45.5230824, -45.5234833, -45.5238908, -45.52428, -45.5247679, -45.525382, -45.5257852, -45.5261572, -45.5264244, -45.5268425, -45.5272235, 
 -45.5275868, -45.5277664, -45.5279696, -45.5281023, -45.5282156, -45.5285309, -45.5288144, -45.5296445, -45.5298247, -45.5299469, -45.5299698, -45.529941, -45.5298034, -45.5297605, -45.5297516, -45.5297634, -45.5298281, -45.5299948, -45.5302617, -45.5305927, -45.5307766, -45.5310284, -45.5313044, -45.5316405, -45.5319402, -45.532125, -45.5322749, -45.5325135, -45.5326891, -45.532775, -45.5329544, -45.5332563, -45.5334457, -45.5337099, -45.533931, -45.5341598, -45.5346297, -45.5347941, -45.5349895, 
@@ -759,12 +792,15 @@ INSERT INTO climate_mun
 -22.7441683, -22.7443564, -22.7444124, -22.7444996, -22.7446147, -22.7452349, -22.7455479, -22.7456063, -22.7459427, -22.7462929, -22.7468189, -22.7477504, -22.7479815, -22.7485057, -22.7487242, -22.7487672, -22.748839, -22.7486339, -22.7485433, -22.748718)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3509957,
             4,
             588.781799,
-            22.6, 22.7, 22.1, 20.3, 17.9, 16.4, 16.0, 17.1, 18.5, 19.9, 20.9, 21.7,
+            22.6, 22.7, 22.1, 20.3, 17.9, 16.4, 16, 17.1, 18.5, 19.9, 20.9, 21.7,
             253, 237, 196, 76, 45, 32, 21, 32, 56, 139, 160, 205,
             'list(list(c(-45.0743306, -45.0744209, -45.0748227, -45.074907, -45.075243, -45.0752426, -45.0752162, -45.0735529, -45.0712154, -45.0692091, -45.0650945, -45.0640207, -45.0632643, -45.0614998, -45.0602146, -45.0596123, -45.059379, -45.0585355, -45.0573468, -45.0562694, -45.0531605, -45.0519281, -45.0496846, -45.046098, -45.0456162, -45.0452838, -45.044897, -45.0448903, -45.044884, -45.0448791, -45.0447475, -45.0442305, -45.0441266, -45.0438245, -45.0436279, -45.0428687, -45.0423868, -45.042264, -45.0422434, 
 -45.0421479, -45.0418159, -45.041637, -45.0415434, -45.0413929, -45.0411694, -45.0406007, -45.0406863, -45.0406051, -45.040303, -45.0394257, -45.0391022, -45.0388808, -45.0384687, -45.0383921, -45.0382181, -45.0384211, -45.0387547, -45.0391897, -45.0394089, -45.0394335, -45.0398874, -45.0400507, -45.0399697, -45.0395585, -45.0394833, -45.0395135, -45.0396909, -45.040195, -45.0403089, -45.0402863, -45.0400099, -45.0401027, -45.0400485, -45.0395999, -45.039562, -45.0392393, -45.0391192, -45.0392351, 
@@ -794,12 +830,15 @@ INSERT INTO climate_mun
 -22.7411035, -22.7386002, -22.7383695, -22.7381965, -22.7379747, -22.7375406, -22.7360182, -22.7349411, -22.7346384, -22.7344819, -22.7342281, -22.7340311, -22.7333938, -22.7330634, -22.731679, -22.7300184, -22.7289021, -22.7287708)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3513405,
             4,
             766.268677,
-            21.6, 21.8, 21.2, 19.3, 16.9, 15.4, 15.1, 16.2, 17.8, 19.1, 20.0, 20.8,
+            21.6, 21.8, 21.2, 19.3, 16.9, 15.4, 15.1, 16.2, 17.8, 19.1, 20, 20.8,
             279, 250, 204, 79, 49, 27, 23, 36, 62, 149, 172, 238,
             'list(list(c(-44.988335, -44.9883658, -44.9885875, -44.9886099, -44.989361, -44.9898215, -44.9899575, -44.9902224, -44.990669, -44.9906757, -44.9908247, -44.9910049, -44.9911126, -44.9915804, -44.9915958, -44.991669, -44.9917667, -44.9919841, -44.9925372, -44.9930125, -44.9934418, -44.9945947, -44.9955401, -44.9964891, -44.9974046, -44.9977235, -44.9982142, -44.9981562, -44.9978419, -44.9977477, -44.9977647, -44.9991615, -45.0005645, -45.0008778, -45.0008158, -45.0008148, -45.002904, -45.0029587, 
 -45.0033911, -45.0035539, -45.003798, -45.0040614, -45.0045447, -45.0048422, -45.0050704, -45.0052084, -45.0051225, -45.0048225, -45.0042629, -45.0032069, -45.0026502, -45.0021941, -45.0020396, -45.0020423, -45.0026295, -45.0029207, -45.0029659, -45.0030838, -45.0036576, -45.0040787, -45.0046396, -45.0047181, -45.004686, -45.0045412, -45.004018, -45.0049515, -45.0052266, -45.0053856, -45.0055266, -45.005907, -45.0067012, -45.0076103, -45.0085858, -45.0089865, -45.0091703, -45.0093794, -45.0094831, 
@@ -845,12 +884,15 @@ INSERT INTO climate_mun
 -22.6431801, -22.6428649, -22.6427883, -22.6428911, -22.6432958, -22.6432592, -22.6433353, -22.6436071, -22.6436141, -22.6434043, -22.6428552, -22.642638, -22.642691, -22.6424475, -22.6418768, -22.6409643, -22.6406707, -22.6406002, -22.6406454, -22.6400139, -22.639837, -22.6398002, -22.6396779)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3513603,
             1,
             1083.8125,
-            19.7, 19.8, 19.2, 17.2, 14.7, 13.1, 12.8, 14.1, 15.7, 17.1, 18.0, 18.8,
+            19.7, 19.8, 19.2, 17.2, 14.7, 13.1, 12.8, 14.1, 15.7, 17.1, 18, 18.8,
             270, 261, 225, 112, 64, 50, 43, 54, 87, 166, 186, 261,
             'list(list(c(-44.795963, -44.7958984, -44.7958987, -44.7958984, -44.7958656, -44.7963901, -44.796554, -44.7967015, -44.7969473, -44.7974718, -44.7978815, -44.7984388, -44.799078, -44.799668, -44.8007661, -44.8015528, -44.8019625, -44.8020608, -44.801815, -44.8014217, -44.8008152, -44.8005858, -44.8007825, -44.8012414, -44.8018478, -44.8019789, -44.8021756, -44.8026181, -44.8030442, -44.8030278, -44.8024706, -44.8021264, -44.8014872, -44.8012742, -44.8012578, -44.8013233, -44.8013561, -44.8017515, 
 -44.8022084, -44.8027492, -44.8029951, -44.8034048, -44.8039293, -44.8046176, -44.8055846, -44.8060763, -44.8065024, -44.8081414, -44.809092, -44.809682, -44.8100917, -44.810145, -44.8109276, -44.8118946, -44.8115796, -44.8112784, -44.8110095, -44.8104687, -44.8104178, -44.8101015, -44.8099934, -44.8097148, -44.8095017, -44.8095181, -44.8094689, -44.8092558, -44.8086167, -44.8079075, -44.8076878, -44.8076169, -44.8075105, -44.8073684, -44.8073219, -44.8071744, -44.8069941, -44.8072727, -44.8078463, 
@@ -919,7 +961,10 @@ INSERT INTO climate_mun
 -44.7838454, -44.7818771, -44.7812421, -44.7806563, -44.7795021, -44.7787507, -44.778225, -44.7767798, -44.7745263, -44.7737262, -44.7723177, -44.771312, -44.7708124, -44.7704261, -44.770427, -44.7711793, -44.7729259, -44.7737034, -44.7764596, -44.777956, -44.7788212, -44.7796444, -44.7800718, -44.7801734, -44.7804896, -44.7805384, -44.7801736, -44.7800247, -44.7800675, -44.7796469, -44.7796184, -44.7792687, -44.778623, -44.7776'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3518404,
             4,
@@ -993,12 +1038,15 @@ INSERT INTO climate_mun
 -22.6315535, -22.6315672, -22.6319216, -22.6326733, -22.6329942, -22.6331547, -22.6332494, -22.634173, -22.6350682, -22.6353886, -22.6357655, -22.6358537, -22.6360266, -22.6365569, -22.6370131, -22.6370085, -22.6373519, -22.6388085, -22.6389723, -22.6390951, -22.6391669, -22.639126, -22.6385562, -22.6385971, -22.6393625, -22.639476, -22.6395185, -22.6396102, -22.6398869, -22.640873, -22.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3520202,
             1,
             746.362244,
-            21.8, 21.9, 21.2, 19.3, 16.8, 15.3, 15.0, 16.3, 17.8, 19.2, 20.1, 20.9,
+            21.8, 21.9, 21.2, 19.3, 16.8, 15.3, 15, 16.3, 17.8, 19.2, 20.1, 20.9,
             242, 220, 172, 71, 53, 44, 29, 38, 69, 145, 141, 217,
             'list(list(c(-46.15788, -46.15954, -46.159965, -46.160406, -46.160882, -46.161593, -46.161757, -46.16214, -46.162304, -46.162529, -46.162937, -46.163138, -46.163331, -46.163739, -46.164155, -46.164405, -46.164613, -46.164823, -46.165017, -46.165232, -46.165386, -46.165657, -46.165849, -46.166048, -46.166478, -46.166708, -46.166851, -46.167099, -46.167531, -46.168137, -46.168655, -46.169069, -46.169329, -46.169831, -46.170229, -46.170654, -46.171269, -46.171925, -46.172157, -46.17241, -46.172623, -46.172772, 
 -46.172938, -46.173164, -46.173562, -46.173899, -46.174151, -46.174416, -46.174741, -46.175236, -46.176403, -46.177242, -46.1775371, -46.177986, -46.17845, -46.178691, -46.178915, -46.179175, -46.179495, -46.179817, -46.18018, -46.181308, -46.181504, -46.181797, -46.182101, -46.182316, -46.182463, -46.182584, -46.182713, -46.182799, -46.182984, -46.18337, -46.183612, -46.183962, -46.184081, -46.184402, -46.184811, -46.184967, -46.185124, -46.185608, -46.186364, -46.186669, -46.18702, -46.187584, 
@@ -1067,7 +1115,10 @@ INSERT INTO climate_mun
 -23.187763, -23.187617, -23.187496, -23.187289, -23.187143, -23.187057, -23.186957, -23.186856, -23.186769, -23.186718, -23.186645, -23.186472, -23.186386, -23.186263, -23.186069, -23.185874, -23.185775, -23.18575, -23.185699, -23.185697, -23.185745, -23.185827, -23'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3524402,
             2,
@@ -1141,12 +1192,15 @@ INSERT INTO climate_mun
 -45.991354, -45.991064, -45.990168, -45.989706, -45.989259, -45.98842, -45.987412, -45.986731, -45.985831, -45.984951, -45.984482, -45.984076, -45.983096, -45.982878, -45.982644, -45.98183, -45.98166, -45.981476, -45.981224, -45.9812092, -45.981214, -45.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3524907,
             1,
             749.871948,
-            21.6, 21.7, 21.1, 19.1, 16.6, 15.1, 14.8, 16.0, 17.5, 18.9, 19.9, 20.8,
+            21.6, 21.7, 21.1, 19.1, 16.6, 15.1, 14.8, 16, 17.5, 18.9, 19.9, 20.8,
             235, 220, 176, 77, 48, 36, 24, 33, 67, 123, 117, 181,
             'list(list(c(-45.7261095, -45.725864, -45.7253925, -45.7242013, -45.723261, -45.722608, -45.722222, -45.721767, -45.7214843, -45.7213654, -45.72128, -45.7195176, -45.7191004, -45.7185257, -45.7176586, -45.7159749, -45.7129458, -45.7119312, -45.7110588, -45.7096894, -45.7076283, -45.705525, -45.7044745, -45.7001857, -45.6974254, -45.6961424, -45.6947782, -45.6907898, -45.6895715, -45.6881005, -45.686553, -45.6831398, -45.6815466, -45.6804055, -45.6793274, -45.6779523, -45.675957, -45.6743227, -45.6735628, 
 -45.6726971, -45.6715683, -45.6696553, -45.6682866, -45.6670393, -45.6661113, -45.6657496, -45.6650157, -45.6644746, -45.6636088, -45.6624568, -45.6612986, -45.6590002, -45.6575076, -45.6566426, -45.6552212, -45.6537861, -45.65281, -45.6514899, -45.6511691, -45.6505853, -45.6500474, -45.6493376, -45.6477206, -45.646666, -45.6457408, -45.6444564, -45.6437221, -45.6428816, -45.6425534, -45.6423232, -45.6422062, -45.6418901, -45.6414793, -45.6407502, -45.6400792, -45.6394447, -45.6391049, -45.6383303, 
@@ -1201,7 +1255,10 @@ INSERT INTO climate_mun
 -23.244854, -23.244468, -23.244132, -23.243627, -23.243094, -23.242277, -23.241426, -23.240339, -23.239725, -23.239022, -23.23865, -23.238543, -23.238677, -23.2388557)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3526308,
             3,
@@ -1262,12 +1319,15 @@ INSERT INTO climate_mun
 -23.1469734, -23.1463908, -23.1455541, -23.145176, -23.1445787, -23.1441166, -23.1429596, -23.1417326, -23.1409754, -23.1405983, -23.1401689, -23.13953, -23.1385308, -23.1378793, -23.1376791, -23.1368915, -23.1362068, -23.1350634, -23.1350137, -23.1346501, -23.1340099, -23.1312071, -23.1304393, -23.128364, -23.1274306, -23.1260231)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3526605,
             4,
             832.43573,
-            21.3, 21.4, 20.8, 18.9, 16.5, 15.0, 14.7, 15.9, 17.4, 18.8, 19.7, 20.4,
+            21.3, 21.4, 20.8, 18.9, 16.5, 15, 14.7, 15.9, 17.4, 18.8, 19.7, 20.4,
             282, 251, 205, 81, 48, 28, 24, 36, 64, 147, 185, 248,
             'list(list(c(-44.9316913, -44.9317084, -44.9317775, -44.9316455, -44.9316121, -44.9316572, -44.9320101, -44.9319994, -44.9316902, -44.931582, -44.9314621, -44.931181, -44.9309133, -44.9303301, -44.9298803, -44.9295733, -44.9294857, -44.9295734, -44.929661, -44.9298932, -44.9300482, -44.9303639, -44.9305751, -44.93063, -44.930685, -44.930542, -44.930368, -44.9300269, -44.9299193, -44.9298117, -44.929467, -44.9292804, -44.9290168, -44.9289408, -44.9289153, -44.9283084, -44.9279124, -44.9276317, -44.9274938, 
 -44.9263753, -44.9260359, -44.92585, -44.925455, -44.9254319, -44.9256868, -44.9250322, -44.9247911, -44.9247595, -44.9250242, -44.9249785, -44.9233088, -44.9219111, -44.921668, -44.9216018, -44.9217469, -44.9215707, -44.9211113, -44.9210995, -44.9212091, -44.9217921, -44.9222536, -44.923429, -44.9235829, -44.9236712, -44.924299, -44.9243262, -44.9243472, -44.9244423, -44.9251765, -44.9257143, -44.9269898, -44.9273203, -44.9273636, -44.9273538, -44.9265088, -44.9248784, -44.9247885, -44.9248627, 
@@ -1308,12 +1368,15 @@ INSERT INTO climate_mun
 -22.5764695, -22.5762241, -22.5751373, -22.5743218, -22.573596, -22.5727543, -22.572305, -22.5708443, -22.5708068, -22.5704708, -22.5702083, -22.5700013, -22.5690154, -22.5689558, -22.5686997, -22.5685986, -22.5686691, -22.5691301, -22.5691084, -22.5689674, -22.5688249, -22.5688022)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3527207,
             4,
             756.669617,
-            21.6, 21.8, 21.2, 19.3, 16.8, 15.3, 15.0, 16.1, 17.6, 19.0, 19.9, 20.7,
+            21.6, 21.8, 21.2, 19.3, 16.8, 15.3, 15, 16.1, 17.6, 19, 19.9, 20.7,
             256, 241, 198, 80, 44, 31, 21, 31, 59, 143, 160, 215,
             'list(list(c(-45.1358318, -45.1361393, -45.1368779, -45.1382003, -45.1388827, -45.141401, -45.1416586, -45.1428763, -45.1449109, -45.1465385, -45.1482041, -45.1482823, -45.1485267, -45.1503164, -45.1524186, -45.154646, -45.1549362, -45.1556273, -45.1561339, -45.1565158, -45.1574238, -45.157874, -45.1579517, -45.157753, -45.1569125, -45.1566697, -45.1565854, -45.1569217, -45.1572722, -45.1579389, -45.1569109, -45.1566519, -45.1565844, -45.155957, -45.1548385, -45.1543571, -45.1538757, -45.1509477, 
 -45.1499694, -45.1498437, -45.1480899, -45.147386, -45.1465636, -45.1464555, -45.1461663, -45.1457663, -45.1450427, -45.1450458, -45.1450474, -45.1450489, -45.1452248, -45.1453127, -45.1454006, -45.1460544, -45.146576, -45.1468864, -45.1480921, -45.15017, -45.1517148, -45.1534083, -45.1540883, -45.1545684, -45.1556396, -45.1560164, -45.1561737, -45.156228, -45.1561571, -45.1559026, -45.1554482, -45.1558859, -45.1560798, -45.1567014, -45.1571931, -45.1591495, -45.1600365, -45.1614098, -45.1618451, 
@@ -1382,12 +1445,15 @@ INSERT INTO climate_mun
 -22.8874499, -22.8881194, -22.8885858, -22.8886617, -22.8888437, -22.8891934, -22.8893444, -22.8896376, -22.890232, -22.8903949, -22.8903725, -22.8900912, -22.8902413, -22.8902395, -22.890477, -22.8908263, -22.8912381, -22.8913393, -22.8912598, -22.8909552, -22.8909279, -22.8910626, -22.8913397, -22.8911918, -22.8907574, -22.8907067, -22.8909351, -22.8911992, -22.8918275, -22.89186'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3531704,
             1,
             894.598877,
-            20.9, 21.0, 20.4, 18.5, 16.0, 14.5, 14.2, 15.6, 17.1, 18.5, 19.4, 20.1,
+            20.9, 21, 20.4, 18.5, 16, 14.5, 14.2, 15.6, 17.1, 18.5, 19.4, 20.1,
             280, 250, 198, 83, 58, 58, 39, 53, 72, 162, 192, 266,
             'list(list(c(-45.7321844, -45.7330692, -45.7345106, -45.7363392, -45.7370341, -45.7378795, -45.7394097, -45.7399589, -45.7409291, -45.7420832, -45.7434804, -45.7436863, -45.7438917, -45.7437467, -45.7437181, -45.7443513, -45.7448355, -45.7461478, -45.7470392, -45.7480306, -45.7485858, -45.7493295, -45.7511718, -45.7525367, -45.7536311, -45.7554988, -45.7575867, -45.7590613, -45.7599096, -45.760698, -45.7616213, -45.7621833, -45.7628183, -45.7636011, -45.7644282, -45.7648954, -45.7653939, -45.7656567, 
 -45.7670994, -45.7687583, -45.769981, -45.7722136, -45.773595, -45.7743266, -45.7749301, -45.7755642, -45.7760308, -45.7768128, -45.7772148, -45.7785079, -45.779849, -45.7805017, -45.7817142, -45.7829417, -45.7836024, -45.7848259, -45.7852889, -45.78779, -45.7881708, -45.7886588, -45.7894282, -45.7900564, -45.7913818, -45.7917458, -45.7928508, -45.7947664, -45.796235, -45.7982703, -45.7993916, -45.80048, -45.8013265, -45.8026562, -45.8030956, -45.8035622, -45.8040951, -45.805696, -45.8067017, -45.8076305, 
@@ -1456,12 +1522,15 @@ INSERT INTO climate_mun
 -22.9637071, -22.9640404, -22.9642253, -22.9649297, -22.9655193, -22.9663344, -22.9673692, -22.9679556, -22.9686337, -22.9688154, -22.9694458, -22.9696793, -22.9695977, -22.9696542, -22.9702957, -22.971807, -22.9722973, -22.9725109, -22.9725746, -22.9729287)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3532306,
             1,
             839.754639,
-            21.0, 21.2, 20.5, 18.5, 16.0, 14.4, 14.1, 15.3, 16.8, 18.2, 19.2, 20.1,
+            21, 21.2, 20.5, 18.5, 16, 14.4, 14.1, 15.3, 16.8, 18.2, 19.2, 20.1,
             267, 254, 218, 114, 78, 59, 45, 57, 97, 165, 172, 238,
             'list(list(c(-45.4529778, -45.4533878, -45.4544092, -45.4548595, -45.4555863, -45.4560921, -45.4563919, -45.4569173, -45.4569129, -45.4570956, -45.4570276, -45.4567503, -45.456759, -45.4568574, -45.4573062, -45.4576487, -45.4580308, -45.4583619, -45.4586608, -45.4588087, -45.4590364, -45.459257, -45.459657, -45.4603847, -45.4607039, -45.4619726, -45.4630698, -45.4640706, -45.465965, -45.4669981, -45.4702801, -45.4745939, -45.4769039, -45.4790432, -45.4802405, -45.4817467, -45.4829916, -45.4834262, 
 -45.4837885, -45.4846194, -45.4848263, -45.4849198, -45.4847052, -45.4836366, -45.4830551, -45.4828913, -45.4829417, -45.4833033, -45.4845707, -45.4851622, -45.4859333, -45.4864856, -45.4869231, -45.4881043, -45.4888963, -45.4898888, -45.4907062, -45.4922081, -45.4940511, -45.4947269, -45.4961011, -45.4973557, -45.4984133, -45.4992362, -45.4998411, -45.5010435, -45.5015815, -45.5033952, -45.5042033, -45.5044278, -45.5043252, -45.5039734, -45.5035219, -45.5022037, -45.5014284, -45.5007831, -45.4991922, 
@@ -1530,12 +1599,15 @@ INSERT INTO climate_mun
 -23.3608918, -23.3600519, -23.3589832, -23.3584706, -23.3573052, -23.3568071, -23.3560434, -23.3552255, -23.3538334, -23.3536058, -23.3517591, -23.3513684, -23.3510396, -23.3493365, -23.3487218, -23.3481686, -23.3476718, -23.3471235, -23.3464779, -23.3453659, -23.3449903, -23.3444661, -23.3433662, -23.3428164, -23.3425339, -23.342348, -23.3421139, -23.3420034, -23.3422186, -23.342538, -23.3432686, -23.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3535606,
             1,
             815.52356,
-            21.2, 21.3, 20.6, 18.6, 16.1, 14.6, 14.3, 15.5, 17.0, 18.4, 19.4, 20.3,
+            21.2, 21.3, 20.6, 18.6, 16.1, 14.6, 14.3, 15.5, 17, 18.4, 19.4, 20.3,
             252, 236, 199, 102, 73, 56, 41, 52, 92, 153, 139, 215,
             'list(list(c(-45.7000371, -45.7003601, -45.7009367, -45.7016561, -45.701806, -45.70178, -45.7023924, -45.7035437, -45.7035966, -45.7035097, -45.7031398, -45.7022209, -45.7019582, -45.7017785, -45.7018428, -45.7022967, -45.7029054, -45.7030544, -45.7030226, -45.7034694, -45.7051175, -45.7057963, -45.7059471, -45.7063903, -45.7080137, -45.7096357, -45.7121152, -45.7129603, -45.7131388, -45.7132353, -45.7128075, -45.7128536, -45.7139573, -45.7141538, -45.7144495, -45.7148716, -45.7153279, -45.7161044, 
 -45.7169928, -45.7210108, -45.721454, -45.7221622, -45.7222634, -45.7222463, -45.7221177, -45.7216027, -45.7213654, -45.7213079, -45.7214957, -45.7216773, -45.722342, -45.7239168, -45.7243841, -45.7256126, -45.7263261, -45.7270417, -45.7278652, -45.7334344, -45.7356733, -45.737446, -45.7389859, -45.7396554, -45.7403546, -45.7413571, -45.7418639, -45.7437527, -45.7437596, -45.7434838, -45.7433325, -45.7427237, -45.74207, -45.7410449, -45.740578, -45.740004, -45.739485, -45.7394142, -45.7392861, -45.7386953, 
@@ -1604,12 +1676,15 @@ INSERT INTO climate_mun
 -23.2926584, -23.2939519, -23.2950245, -23.2953749, -23.295567, -23.2957357, -23.2958098, -23.2959302, -23.2968023, -23.2968859, -23.2968248, -23.2969057, -23.2973545, -23.297788, -23.2984433, -23.2994892, -23.2996083, -23.2998591, -23.3098358, -23.3109795, -23.3109996, -23.3118096, -23.3118294, -23.3118588, -23.3118832, -23.3119001, -23.3251797, -23.3243489, -23.3229773, -23.3226734, -23.322851, -23.3230846, -23.3240258, -23.3248141, '
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3538006,
             4,
             728.527771,
-            21.8, 21.9, 21.3, 19.4, 17.0, 15.5, 15.1, 16.4, 17.9, 19.2, 20.2, 21.0,
+            21.8, 21.9, 21.3, 19.4, 17, 15.5, 15.1, 16.4, 17.9, 19.2, 20.2, 21,
             276, 250, 196, 81, 53, 35, 24, 46, 65, 155, 168, 242,
             'list(list(c(-45.3341986, -45.3342034, -45.3342612, -45.3343479, -45.3344249, -45.3345068, -45.334632, -45.3347524, -45.3347969, -45.3348402, -45.3348402, -45.3348113, -45.3348065, -45.3348198, -45.3348198, -45.3348535, -45.3348583, -45.3348439, -45.3348101, -45.3348053, -45.3348342, -45.3348872, -45.3350557, -45.3351568, -45.3352483, -45.3353832, -45.3354939, -45.3355084, -45.3355276, -45.3355421, -45.3355613, -45.3355902, -45.335648, -45.3357395, -45.3358551, -45.3359225, -45.3359995, -45.3360862, 
 -45.3361151, -45.3361777, -45.3362547, -45.3363221, -45.3363559, -45.3364329, -45.3365099, -45.336534, -45.3364859, -45.336457, -45.3364088, -45.3363221, -45.3361632, -45.3360862, -45.3360284, -45.3359947, -45.3358647, -45.3357732, -45.3356817, -45.3356095, -45.3355469, -45.3354939, -45.3354987, -45.3355373, -45.3355469, -45.3356576, -45.3357491, -45.3358214, -45.3358984, -45.3360284, -45.3361584, -45.3362547, -45.3363077, -45.3363125, -45.3362788, -45.3362403, -45.3362162, -45.3362403, -45.3362692, 
@@ -1678,12 +1753,15 @@ INSERT INTO climate_mun
 -45.4533984, -45.4531992, -45.4530228, -45.4527867, -45.4525618, -45.4517452, -45.4507271, -45.4499044, -45.4491017, -45.4486158, -45.4484137, -45.4480011, -45.4475813, -45.4474709, -45.4474029, -45.447352, -45.4473257, -45.4473082, -45.4473616, -45.4478506, -45.4480634, -45.4480237, -45.4478459, -45.4474749, -45.4472132, -45.4469376, -45.4465517, -45.4462143, -45'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3538501,
             3,
             884.15625,
-            21.0, 21.1, 20.5, 18.6, 16.2, 14.7, 14.4, 15.6, 17.2, 18.5, 19.4, 20.2,
+            21, 21.1, 20.5, 18.6, 16.2, 14.7, 14.4, 15.6, 17.2, 18.5, 19.4, 20.2,
             283, 256, 207, 79, 47, 31, 24, 40, 62, 156, 184, 256,
             'list(list(c(-45.1019214, -45.1015557, -45.1013368, -45.1009042, -45.1005058, -45.1001962, -45.0998298, -45.0996447, -45.0994318, -45.0990854, -45.0979914, -45.0973, -45.0968712, -45.0967095, -45.0963797, -45.0950821, -45.0946186, -45.0949756, -45.0952732, -45.095044, -45.094932, -45.0953493, -45.0954422, -45.0958496, -45.0960025, -45.0965541, -45.0979298, -45.0984287, -45.098443, -45.0986568, -45.0990625, -45.0993203, -45.0996009, -45.100018, -45.1007344, -45.1011944, -45.1013499, -45.1015581, -45.1019727, 
 -45.1028931, -45.1032237, -45.1038692, -45.1042617, -45.1048033, -45.1054957, -45.1059477, -45.1067902, -45.107169, -45.1085268, -45.1098818, -45.1103635, -45.1107551, -45.1108631, -45.1109623, -45.1114273, -45.1120577, -45.1130272, -45.1136339, -45.1135951, -45.1129673, -45.1124666, -45.1122483, -45.1122844, -45.1124727, -45.1128599, -45.113179, -45.1140964, -45.1164053, -45.1173757, -45.119552, -45.1205537, -45.1217739, -45.1231182, -45.1241268, -45.1245297, -45.1249998, -45.1267273, -45.1269725, 
@@ -1722,12 +1800,15 @@ INSERT INTO climate_mun
 -22.6068449, -22.6072705, -22.6075187, -22.6078982, -22.6080823, -22.608589, -22.6093467)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3540754,
             4,
             545.725464,
-            22.8, 23.0, 22.4, 20.5, 18.1, 16.6, 16.2, 17.3, 18.8, 20.1, 21.1, 22.0,
+            22.8, 23, 22.4, 20.5, 18.1, 16.6, 16.2, 17.3, 18.8, 20.1, 21.1, 22,
             263, 241, 194, 77, 45, 26, 19, 38, 57, 145, 147, 210,
             'list(list(c(-45.2510179, -45.2515366, -45.2516438, -45.251844, -45.2520266, -45.2521322, -45.252161, -45.2521322, -45.2519977, -45.2516711, -45.2505953, -45.2495482, -45.2490391, -45.2486068, -45.2480785, -45.2479209, -45.2476942, -45.2474637, -45.2473676, -45.2473964, -45.2474727, -45.2475885, -45.2479344, -45.2483186, -45.2488277, -45.2497307, -45.2504319, -45.2512629, -45.2521082, -45.2527038, -45.2532417, -45.253943, -45.2547499, -45.256258, -45.2572018, -45.2582681, -45.2593056, -45.2601797, 
 -45.2609962, -45.2617359, -45.2625044, -45.263136, -45.2635779, -45.2641158, -45.2647018, -45.2652301, -45.265624, -45.2662003, -45.2666806, -45.2672714, -45.2687315, -45.2697498, -45.2704126, -45.2707872, -45.2714404, -45.2722882, -45.2729894, -45.2740749, -45.2753429, -45.2761498, -45.2766013, -45.2768991, -45.2773592, -45.2780627, -45.2786887, -45.2791603, -45.27973, -45.2805221, -45.2812736, -45.2821872, -45.2830762, -45.2850029, -45.2855972, -45.2862259, -45.2869578, -45.2877068, -45.2884289, 
@@ -1784,12 +1865,15 @@ INSERT INTO climate_mun
 -22.8196131, -22.8193584, -22.8195125, -22.8196665, -22.8197333, -22.8198989, -22.8205909, -22.8216987, -22.8223446, -22.8225162, -22.8225672, -22.823182, -22.8232876, -22.823348, -22.8243058, -22.8416716, -22.842032, -22.8424066, -22.8428581, -22.8435209, -22.8442702, -22.8444352)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3541901,
             4,
             829.701111,
-            21.3, 21.4, 20.8, 18.9, 16.6, 15.0, 14.7, 15.8, 17.4, 18.7, 19.6, 20.4,
+            21.3, 21.4, 20.8, 18.9, 16.6, 15, 14.7, 15.8, 17.4, 18.7, 19.6, 20.4,
             285, 254, 207, 83, 46, 26, 23, 39, 68, 147, 184, 237,
             'list(list(c(-44.8322001, -44.8320232, -44.8316879, -44.8315574, -44.8315213, -44.8314358, -44.831304, -44.8312428, -44.8310966, -44.831012, -44.8307961, -44.8307803, -44.83075, -44.8307453, -44.8306896, -44.8306865, -44.8306594, -44.8306316, -44.8305306, -44.8305211, -44.8305019, -44.8304503, -44.8304375, -44.8304727, -44.8301792, -44.8301794, -44.830274, -44.8310027, -44.8313771, -44.8314129, -44.8311599, -44.8305732, -44.8304704, -44.8302176, -44.8297024, -44.8295191, -44.8294143, -44.8292659, 
 -44.8293744, -44.8295654, -44.8302467, -44.8305439, -44.8304929, -44.8303432, -44.830057, -44.8296293, -44.8292023, -44.8282412, -44.8278928, -44.8277977, -44.82785, -44.8282517, -44.8284791, -44.8299468, -44.8314742, -44.8317661, -44.8318297, -44.8325975, -44.8325373, -44.8321266, -44.8318404, -44.8318566, -44.8325154, -44.8332928, -44.8335114, -44.8338329, -44.8343938, -44.8358048, -44.8367993, -44.8372076, -44.8374346, -44.8384133, -44.8389898, -44.8397834, -44.8402727, -44.8410766, -44.8413988, 
@@ -1858,7 +1942,10 @@ INSERT INTO climate_mun
 -22.4922923, -22.4925011, -22.4925228, -22.4927715, -22.4928351, -22.4928319, -22.4927914, -22.4927195, -22.4926488, -22.4925235, -22.4924497, -22.4924208, -22.4924465, -22.4925043, -22.4925268, -22.4924914, -22.4924143, -22.4924015, -22.4923951, -22.4924015, -22.4924272, -22.4924818, -22.4925589, -22.4927066, -22.4928993, -22.4929921, -22.4930567, -22.4931226, -22.4931884, -22.493288, -22.4933554, -22.4933494, -22.4933394, -22.4933452, -22.4933457, -22.4933458, -22.493'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3542305,
             3,
@@ -1928,12 +2015,15 @@ INSERT INTO climate_mun
 -23.2243834, -23.2239906, -23.224598, -23.2245944, -23.223791, -23.2233071, -23.2231701, -23.2230236, -23.2225036, -23.221164, -23.2206347)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3544301,
             4,
             750.760559,
-            21.7, 21.8, 21.2, 19.2, 16.8, 15.3, 14.9, 16.1, 17.7, 19.0, 20.0, 20.8,
+            21.7, 21.8, 21.2, 19.2, 16.8, 15.3, 14.9, 16.1, 17.7, 19, 20, 20.8,
             247, 227, 184, 73, 46, 26, 18, 38, 57, 140, 143, 211,
             'list(list(c(-45.3341216, -45.3340975, -45.3340301, -45.3338904, -45.333746, -45.3336894, -45.3336509, -45.3336316, -45.3336412, -45.3336605, -45.3336605, -45.3336412, -45.3336268, -45.3335497, -45.3334583, -45.3333234, -45.3332368, -45.3330682, -45.3329671, -45.33289, -45.3327263, -45.3325722, -45.3324807, -45.3324085, -45.3322833, -45.33224, -45.3321774, -45.3320474, -45.3319029, -45.3318211, -45.331797, -45.3318211, -45.3319318, -45.3321629, -45.3323267, -45.3323941, -45.3324519, -45.3325048, -45.3325096, 
 -45.3325433, -45.3326541, -45.3326734, -45.3326734, -45.3326156, -45.3326011, -45.3326433, -45.3326866, -45.3327781, -45.332884, -45.3329611, -45.3330477, -45.3331248, -45.3332404, -45.3335534, -45.3338278, -45.3339434, -45.3341119, -45.3342516, -45.3344249, -45.3345405, -45.3347379, -45.3349305, -45.3352339, -45.3354205, -45.335459, -45.3354735, -45.3354397, -45.335406, -45.3354012, -45.3354157, -45.3354735, -45.3356516, -45.335955, -45.3361717, -45.3362872, -45.3364558, -45.3366231, -45.3367435, 
@@ -2002,12 +2092,15 @@ INSERT INTO climate_mun
 -23.0223801, -23.0220623, -23.0216301, -23.0214231, -23.0212642, -23.0212016, -23.0211438, -23.0210764, -23.020956, -23.0209126, -23.0208115, -23.0207441, -23.0207008, -23.0206285, -23.020513, -23.0204215, -23.0203444, -23.0201807, -23.0200844, -23.0200074, -23.0199279, -23.0198461, -23.0198123, -23.0198123, -23.0198461, -23.0198316, -23.0197883, -23.0196727, -23.01956'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3546009,
             1,
             766.705322,
-            21.5, 21.6, 20.9, 19.0, 16.5, 15.0, 14.6, 15.9, 17.4, 18.7, 19.8, 20.6,
+            21.5, 21.6, 20.9, 19, 16.5, 15, 14.6, 15.9, 17.4, 18.7, 19.8, 20.6,
             248, 234, 190, 94, 64, 44, 29, 39, 85, 142, 119, 189,
             'list(list(c(-45.871362, -45.870206, -45.869435, -45.868601, -45.867704, -45.866839, -45.8662, -45.865561, -45.865082, -45.864157, -45.86358, -45.862619, -45.8616787, -45.86151, -45.860622, -45.860103, -45.859712, -45.858461, -45.857388, -45.856739, -45.856349, -45.856191, -45.856302, -45.85677, -45.856981, -45.856979, -45.856964, -45.856875, -45.856652, -45.856344, -45.855981, -45.8559506, -45.855595, -45.855079, -45.854618, -45.854081, -45.853606, -45.852414, -45.850461, -45.848309, -45.846458, 
 -45.845651, -45.845173, -45.844721, -45.844152, -45.8441084, -45.8439849, -45.84369, -45.842889, -45.842791, -45.843004, -45.843796, -45.844172, -45.844328, -45.844191, -45.8437078, -45.843607, -45.842444, -45.841378, -45.840474, -45.839761, -45.839439, -45.8393421, -45.839066, -45.838604, -45.838285, -45.838066, -45.837879, -45.83754, -45.837201, -45.836829, -45.836208, -45.835936, -45.8358285, -45.835721, -45.835248, -45.834898, -45.834232, -45.833119, -45.832579, -45.831212, -45.829013, -45.82764, 
@@ -2072,12 +2165,15 @@ INSERT INTO climate_mun
 -23.368229, -23.36887, -23.369464, -23.3697292, -23.371054, -23.37162, -23.371899, -23.372596, -23.373072, -23.373089, -23.373357, -23.3735367, -23.373539, -23.373594, -23.373576, -23.373632, -23.3736541, -23.373724, -23.373758)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3548203,
             3,
             1145.780151,
-            19.6, 19.6, 19.0, 17.0, 14.6, 13.1, 12.9, 14.3, 15.9, 17.2, 18.1, 18.8,
+            19.6, 19.6, 19, 17, 14.6, 13.1, 12.9, 14.3, 15.9, 17.2, 18.1, 18.8,
             302, 270, 208, 89, 57, 51, 29, 45, 73, 174, 204, 293,
             'list(list(c(-45.6569438, -45.6558868, -45.6548297, -45.6543664, -45.6538861, -45.6533137, -45.6530016, -45.6524953, -45.6518715, -45.6503431, -45.649739, -45.6486855, -45.647632, -45.647053, -45.646474, -45.6447909, -45.6441404, -45.6435091, -45.6432647, -45.6430204, -45.6426773, -45.6424632, -45.6421753, -45.640915, -45.6407007, -45.6405684, -45.6404, -45.6403531, -45.6401367, -45.6396139, -45.6387986, -45.6380137, -45.6368073, -45.6362821, -45.6334926, -45.6327672, -45.6314291, -45.6299154, -45.6293914, 
 -45.6286827, -45.6280791, -45.6267667, -45.6245704, -45.6235851, -45.6216585, -45.6201243, -45.6192348, -45.61879, -45.6183453, -45.6171759, -45.6168097, -45.6165076, -45.6152516, -45.6147515, -45.6143718, -45.6142515, -45.6148083, -45.6154636, -45.6155307, -45.615533, -45.6153405, -45.6147031, -45.6145004, -45.6140515, -45.6140788, -45.6143214, -45.6158661, -45.6188022, -45.6191405, -45.620662, -45.6215587, -45.6224936, -45.6264702, -45.6267861, -45.6269814, -45.6274242, -45.6279745, -45.6286359, 
@@ -2105,12 +2201,15 @@ INSERT INTO climate_mun
 -22.7869884, -22.786773, -22.7863771, -22.7861878, -22.7864622, -22.7865437, -22.7875849, -22.7880539, -22.7886848, -22.7894184, -22.7905388, -22.790648, -22.7906111, -22.7909301, -22.790961, -22.7912693, -22.7913771, -22.7908186, -22.79059, -22.7906311, -22.7903499, -22.7903049, -22.7906107, -22.7906251, -22.7905402, -22.7897527, -22.7896585, -22.7898983, -22.7906037, -22.7908147, -22.7909008, -22.7908905, -22.7907532, -22.7906066)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3548609,
             3,
             1268.523438,
-            18.9, 19.0, 18.3, 16.4, 14.0, 12.4, 12.3, 13.7, 15.4, 16.7, 17.6, 18.1,
+            18.9, 19, 18.3, 16.4, 14, 12.4, 12.3, 13.7, 15.4, 16.7, 17.6, 18.1,
             306, 273, 203, 88, 55, 46, 28, 40, 74, 169, 177, 255,
             'list(list(c(-45.7304415, -45.7299065, -45.7279413, -45.7281403, -45.7281767, -45.7325571, -45.7379923, -45.7395204, -45.7421395, -45.7430971, -45.7466916, -45.7479355, -45.7488013, -45.7500762, -45.7521038, -45.7564638, -45.7588906, -45.7612383, -45.7636127, -45.7702442, -45.7745742, -45.7759654, -45.782014, -45.7903001, -45.7956339, -45.8014557, -45.8050523, -45.8058373, -45.8081275, -45.8118058, -45.8151885, -45.8166487, -45.8178201, -45.8198219, -45.8199278, -45.818851, -45.817693, -45.8179915, 
 -45.8158806, -45.8128436, -45.8116437, -45.811641, -45.8033914, -45.8006433, -45.7927989, -45.7907018, -45.7878589, -45.7872486, -45.782581, -45.7802981, -45.7788831, -45.7729952, -45.7695242, -45.7642465, -45.7610778, -45.7577701, -45.7554836, -45.7542704, -45.7527587, -45.7516792, -45.7511156, -45.750789, -45.7505519, -45.7503951, -45.747827, -45.7472862, -45.7477061, -45.7478584, -45.747566, -45.7474753, -45.7473724, -45.7460253, -45.7449558, -45.7428067, -45.7374055, -45.7353107, -45.7322301, 
@@ -2141,7 +2240,10 @@ INSERT INTO climate_mun
 -22.7326862, -22.7292485, -22.727202, -22.7264803)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3549607,
             1,
@@ -2215,12 +2317,15 @@ INSERT INTO climate_mun
 -44.5549064, -44.5547967, -44.5546435, -22.6096687, -22.6091719, -22.6083772, -22.6078959, -22.6074788, -22.6070651, -22.6066632, -22.6062492, -22.6058476, -22.6056112, -22.6053984, -22.6052447, -22.6050201, -22.6048428, -22.6044705, -22.6043354, -22.6040745, -22.6038262, -22.6037612, -22.6038144, -22.6040154, -22.6042931, -22.6045946, -22.6049244, -22.6051974, -22.6054338, -22.6056052, -22.6057648, -22.6059717, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3549904,
             2,
             737.630493,
-            21.8, 21.9, 21.2, 19.3, 16.9, 15.4, 15.1, 16.3, 17.8, 19.2, 20.1, 21.0,
+            21.8, 21.9, 21.2, 19.3, 16.9, 15.4, 15.1, 16.3, 17.8, 19.2, 20.1, 21,
             249, 226, 178, 75, 52, 44, 29, 39, 69, 138, 138, 200,
             'list(list(c(-45.897271, -45.897359, -45.8973762, -45.8973768, -45.897421, -45.8974825, -45.897507, -45.8975482, -45.897562, -45.8976163, -45.897765, -45.8977953, -45.898088, -45.898508, -45.898666, -45.898886, -45.899436, -45.899797, -45.901009, -45.901577, -45.9028847, -45.9029144, -45.9029441, -45.902996, -45.903123, -45.9035713, -45.903621, -45.903664, -45.903753, -45.904007, -45.904132, -45.904391, -45.904783, -45.905129, -45.905354, -45.905479, -45.905636, -45.906022, -45.906338, -45.906409, 
 -45.9064089, -45.906408, -45.906351, -45.9063287, -45.906137, -45.906125, -45.906163, -45.9062763, -45.906324, -45.906497, -45.906711, -45.907156, -45.907492, -45.907946, -45.90815, -45.908652, -45.908829, -45.908844, -45.908906, -45.909138, -45.909229, -45.909322, -45.909431, -45.909872, -45.910139, -45.910288, -45.910391, -45.910414, -45.910411, -45.9103716, -45.910354, -45.9099471, -45.909797, -45.909732, -45.909743, -45.909871, -45.910138, -45.910515, -45.91091, -45.911146, -45.911349, -45.911433, 
@@ -2289,7 +2394,10 @@ INSERT INTO climate_mun
 -45.913165, -45.912943, -45.912667, -45.912302, -45.912056, -45.911829, -45.911434, -45.910748, -45.910322, -45.909708, -45.909067, -45.908718, -45.907762, -45.907204, -45.905606, -45.905214, -45.904844, -45.904626, -45.90459, -45.904777, -45.90485, -45.904915, -45.904927, -45.904802, -45.904673, -45.90468'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3550001,
             1,
@@ -2363,12 +2471,15 @@ INSERT INTO climate_mun
 -23.3144353, -23.3147129, -23.3161167, -23.3164061, -23.3167571, -23.3170844, -23.3176078, -23.3184897, -23.3190827, -23.319409, -23.3196288, -23.3195576, -23.3196147, -23.3199681, -23.320197, -23.3219083, -23.3234828, -23.3237129, -23.3239188, -23.3238732, -23.323179, -23.3228538, -23.3219818, -23.3217938, -23.321664, -23.3214792, -23.3210768, -23.3208494, -23.3205474, -23.3199587, -23.3192796, -23.3187735, -23.318537, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3552007,
             3,
             943.9198,
-            20.6, 20.7, 20.1, 18.1, 15.7, 14.2, 13.9, 15.1, 16.6, 18.0, 18.9, 19.7,
+            20.6, 20.7, 20.1, 18.1, 15.7, 14.2, 13.9, 15.1, 16.6, 18, 18.9, 19.7,
             260, 246, 205, 87, 44, 29, 24, 32, 63, 143, 164, 228,
             'list(list(c(-44.8089915, -44.8093394, -44.8099322, -44.8093634, -44.8088226, -44.8085097, -44.8080213, -44.8069882, -44.806741, -44.8067116, -44.8066823, -44.8071111, -44.8073035, -44.8077432, -44.8081592, -44.808062, -44.8077457, -44.8075914, -44.8071079, -44.8069169, -44.8063771, -44.8061682, -44.8062144, -44.806845, -44.8070137, -44.8070088, -44.8065943, -44.8064691, -44.8065077, -44.8067369, -44.8070303, -44.8077624, -44.8085595, -44.8093913, -44.8097498, -44.8103625, -44.8114508, -44.8125062, 
 -44.8130371, -44.8136551, -44.8148489, -44.8153961, -44.8157793, -44.8158266, -44.8156646, -44.8157421, -44.816006, -44.8163482, -44.8166051, -44.8179784, -44.8182628, -44.8183951, -44.8185725, -44.8190104, -44.8202618, -44.8206781, -44.8212552, -44.8215027, -44.82143, -44.8208776, -44.8207523, -44.8207373, -44.8208464, -44.8217814, -44.822637, -44.8229994, -44.8232322, -44.8234843, -44.8240075, -44.8242066, -44.8245243, -44.8254236, -44.8255525, -44.8255533, -44.8257124, -44.8261961, -44.8267967, 
@@ -2437,12 +2548,15 @@ INSERT INTO climate_mun
 -22.7229975, -22.722282, -22.7215043, -22.7211904, -22.7205246, -22.7202947, -22.7199785, -22.7197007, -22.7194622, -22.7192962, -22.719116, -22.7188579, -22.7184604, -22.7179947, -22.7174496, -22.7167638, -22.7162923, -22.7160579, -22.7158209, -22.7153091, -22.7135649, -22.7127649, -22.7120828, -22.7114879, -22.7108979, -22.7105772, -22.7099076, -22.7091252, -22.708614'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3554102,
             4,
             709.723022,
-            21.9, 22.0, 21.4, 19.4, 17.0, 15.5, 15.1, 16.3, 17.8, 19.2, 20.2, 21.0,
+            21.9, 22, 21.4, 19.4, 17, 15.5, 15.1, 16.3, 17.8, 19.2, 20.2, 21,
             240, 225, 182, 72, 49, 32, 22, 38, 62, 137, 148, 202,
             'list(list(c(-45.5938672, -45.5937633, -45.5941546, -45.5945084, -45.5951748, -45.5971635, -45.5977266, -45.5990381, -45.6012094, -45.6022599, -45.6030136, -45.6036082, -45.6046453, -45.6077484, -45.6094287, -45.6101153, -45.6101356, -45.6101604, -45.610619, -45.6115562, -45.6126418, -45.6151283, -45.6167545, -45.619472, -45.620372, -45.6204879, -45.6212719, -45.6223105, -45.6225443, -45.6240255, -45.6251177, -45.6255063, -45.625844, -45.6261816, -45.6264717, -45.6265192, -45.6271074, -45.6273295, 
 -45.6273469, -45.6289687, -45.6296509, -45.6297365, -45.6297632, -45.6297649, -45.6298026, -45.6296461, -45.6296304, -45.6295407, -45.6295374, -45.6294976, -45.6294968, -45.6298828, -45.6298955, -45.6299706, -45.6300672, -45.6301832, -45.6302503, -45.6302682, -45.6299288, -45.6290821, -45.6291109, -45.6291232, -45.6292703, -45.6297075, -45.6307874, -45.6315462, -45.6322513, -45.6347656, -45.6353968, -45.6359501, -45.6359642, -45.6359954, -45.6361724, -45.6358205, -45.6350816, -45.6322462, -45.6318336, 
@@ -2511,12 +2625,15 @@ INSERT INTO climate_mun
 -23.047674, -23.0472469, -23.0461006, -23.0454128, -23.0440092, -23.0435819, -23.0424297, -23.0410695, -23.0404275, -23.0399351, -23.0389196, -23.0386928, -23.0385752, -23.0386253, -23.0383395, -23.0378126, -23.0365238, -23.0353656, -23.0350048, -23.0342374, -23.0339727, -23.0337894, -23.0337369, -23.0342616, -23.0345976, -23.035021, -23.0357552, -23.0359288, -23.0361101, -23.0360694, -23.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3554805,
             2,
             611.923462,
-            22.5, 22.6, 22.0, 20.1, 17.7, 16.2, 15.8, 17.0, 18.5, 19.8, 20.8, 21.6,
+            22.5, 22.6, 22, 20.1, 17.7, 16.2, 15.8, 17, 18.5, 19.8, 20.8, 21.6,
             270, 246, 195, 80, 52, 40, 27, 42, 68, 156, 168, 235,
             'list(list(c(-45.5430565, -45.5399238, -45.5381796, -45.5375035, -45.537078, -45.5369609, -45.5366763, -45.5363103, -45.5357492, -45.5350206, -45.5344883, -45.5338195, -45.5333739, -45.5326153, -45.5297343, -45.5286938, -45.5281893, -45.527741, -45.5277458, -45.5287948, -45.5287951, -45.5283484, -45.5275892, -45.5265764, -45.5258743, -45.5250832, -45.5248739, -45.5246826, -45.5243486, -45.5228252, -45.5226927, -45.5222755, -45.5217853, -45.5217948, -45.5221119, -45.5221922, -45.5223905, -45.5229461, 
 -45.5231353, -45.5231891, -45.5234149, -45.5234796, -45.5233982, -45.5234328, -45.5241535, -45.5241685, -45.5240919, -45.5233614, -45.5232219, -45.5230569, -45.5223419, -45.5222704, -45.5221706, -45.5218334, -45.5219025, -45.5225016, -45.5225749, -45.5223638, -45.521804, -45.52162, -45.5213701, -45.5213504, -45.5218723, -45.5218033, -45.521356, -45.5209681, -45.5207801, -45.520416, -45.5202203, -45.5195064, -45.5193689, -45.5194192, -45.5197996, -45.519772, -45.5193582, -45.5191249, -45.5187877, 
@@ -2570,12 +2687,15 @@ INSERT INTO climate_mun
 -22.9086501, -22.9089586, -22.9092684, -22.9102854, -22.9110127, -22.9133764, -22.9152343, -22.9166417, -22.9178367, -22.9183505, -22.9186649, -22.919271, -22.919881, -22.9203247, -22.9205008, -22.9207588, -22.9209222, -22.9221406, -22.9226228, -22.9227541, -22.9225862, -22.9225638, -22.9225913, -22.9226189, -22.9229163)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3518305,
             2,
             691.105103,
-            22.0, 22.1, 21.4, 19.4, 16.9, 15.4, 15.1, 16.3, 17.8, 19.2, 20.2, 21.1,
+            22, 22.1, 21.4, 19.4, 16.9, 15.4, 15.1, 16.3, 17.8, 19.2, 20.2, 21.1,
             253, 239, 195, 96, 66, 47, 33, 43, 90, 162, 132, 202,
             'list(list(c(-46.059124, -46.0715491, -46.073958, -46.074134, -46.074316, -46.074433, -46.074698, -46.076001, -46.076225, -46.07641, -46.076613, -46.07683, -46.077078, -46.077352, -46.077606, -46.077744, -46.077948, -46.078152, -46.078337, -46.078582, -46.078794, -46.079111, -46.079382, -46.079752, -46.080234, -46.080779, -46.080978, -46.081125, -46.081228, -46.081508, -46.081817, -46.082431, -46.082691, -46.082905, -46.083335, -46.0836615, -46.0836945, -46.083867, -46.084097, -46.084359, -46.084546, 
 -46.084789, -46.08493, -46.085408, -46.085717, -46.085946, -46.086267, -46.086444, -46.087027, -46.087206, -46.087333, -46.087744, -46.088212, -46.088542, -46.088713, -46.088804, -46.089015, -46.089253, -46.089387, -46.089544, -46.089698, -46.089867, -46.090105, -46.090396, -46.090655, -46.090929, -46.091297, -46.09178, -46.092061, -46.092482, -46.09277, -46.093544, -46.094184, -46.094478, -46.094571, -46.094682, -46.094873, -46.095156, -46.095835, -46.096742, -46.097959, -46.098666, -46.099263, 
@@ -2644,12 +2764,15 @@ INSERT INTO climate_mun
 -23.3409325, -23.3406327, -23.3403208, -23.3401367, -23.3399706, -23.3398314, -23.3397641, -23.3397821, -23.3397192, -23.3397013, -23.3396845, -23.3396698, -23.3396833, -23.3396519, -23.3395576, -23.339378, -23.339167, -23.3389965, -23.3388932, -23.3387855, -23.3387496, -23'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3525508,
             1,
             1091.141479,
-            19.9, 20.0, 19.3, 17.4, 14.9, 13.4, 13.2, 14.7, 16.3, 17.6, 18.5, 19.1,
+            19.9, 20, 19.3, 17.4, 14.9, 13.4, 13.2, 14.7, 16.3, 17.6, 18.5, 19.1,
             259, 228, 181, 73, 54, 46, 28, 41, 72, 148, 138, 209,
             'list(list(c(-46.2710106, -46.282315, -46.282422, -46.282602, -46.282807, -46.282974, -46.2831516, -46.2831916, -46.28339, -46.283661, -46.283879, -46.284062, -46.284281, -46.284411, -46.284595, -46.284834, -46.285003, -46.285608, -46.285796, -46.285953, -46.286149, -46.286215, -46.286373, -46.286954, -46.287154, -46.287355, -46.287722, -46.288412, -46.288779, -46.288935, -46.289105, -46.289557, -46.289991, -46.290273, -46.29047, -46.291067, -46.291307, -46.291619, -46.291796, -46.292661, -46.292945, 
 -46.293511, -46.293664, -46.293892, -46.294138, -46.29429, -46.29449, -46.294877, -46.295253, -46.295566, -46.295857, -46.296419, -46.296879, -46.297146, -46.2974568, -46.2975162, -46.297893, -46.298315, -46.298871, -46.299392, -46.299934, -46.300182, -46.300337, -46.300538, -46.300614, -46.300691, -46.30071, -46.300663, -46.300604, -46.300537, -46.300456, -46.300311, -46.300082, -46.299963, -46.299922, -46.299937, -46.300058, -46.300078, -46.300251, -46.300512, -46.300813, -46.301369, -46.301782, 
@@ -2718,12 +2841,15 @@ INSERT INTO climate_mun
 -23.004196, -23.004147, -23.004117, -23.004139, -23.004186, -23.004265, -23.004221, -23.004139, -23.003817, -23.003567, -23.003347, -23.003231, -23.003195, -23.003121, -23.003081, -23.003001, -23.002875, -23.00272, -23.002035, -23.001706, -23.001543, -23.001352, -23.001151, -23.001057'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3532405,
             1,
             908.806152,
-            20.9, 21.0, 20.3, 18.3, 15.8, 14.4, 14.1, 15.5, 17.0, 18.4, 19.3, 20.1,
+            20.9, 21, 20.3, 18.3, 15.8, 14.4, 14.1, 15.5, 17, 18.4, 19.3, 20.1,
             245, 220, 170, 68, 54, 41, 28, 39, 73, 147, 134, 217,
             'list(list(c(-46.4254531, -46.425478, -46.42557, -46.425831, -46.4259143, -46.42602, -46.4262006, -46.426267, -46.427034, -46.427224, -46.427401, -46.42751, -46.427635, -46.427703, -46.427661, -46.427562, -46.427416, -46.4274017, -46.4272959, -46.4272457, -46.4272388, -46.427236, -46.427253, -46.427461, -46.427895, -46.428346, -46.428662, -46.42903, -46.429569, -46.429914, -46.430515, -46.430996, -46.431881, -46.432588, -46.432865, -46.433266, -46.433801, -46.434295, -46.43459, -46.435236, -46.4353151, 
 -46.435922, -46.436373, -46.43668, -46.437079, -46.437409, -46.43748, -46.437564, -46.437611, -46.437573, -46.437512, -46.437377, -46.436421, -46.435986, -46.43565, -46.434915, -46.434325, -46.434297, -46.434303, -46.43434, -46.4344233, -46.43483, -46.435255, -46.435531, -46.435812, -46.436398, -46.436613, -46.436912, -46.437188, -46.437497, -46.437762, -46.438117, -46.438454, -46.438695, -46.438905, -46.439119, -46.439268, -46.439433, -46.439744, -46.440066, -46.440363, -46.441158, -46.441408, -46.441859, 
@@ -2792,12 +2918,15 @@ INSERT INTO climate_mun
 -46.2556798, -46.2556842, -46.2559592, -46.2560852, -46.2562043, -46.2564915, -46.256893, -46.2587412, -46.2597845, -46.259982, -46.260089, -46.2602182, -46.26079, -46.260963, -46.261116, -46.261313, -46.261363, -46.261423, -46.261502, -46.261513, -46.261533, -46.261511, -46.261422, -46.261392, -46.26131, -46.2611'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3538600,
             1,
             914.361694,
-            20.9, 21.0, 20.3, 18.3, 15.9, 14.4, 14.2, 15.6, 17.1, 18.4, 19.4, 20.1,
+            20.9, 21, 20.3, 18.3, 15.9, 14.4, 14.2, 15.6, 17.1, 18.4, 19.4, 20.1,
             249, 221, 173, 69, 55, 45, 28, 44, 71, 148, 138, 220,
             'list(list(c(-46.201932, -46.201661, -46.201277, -46.201037, -46.200863, -46.200703, -46.200304, -46.199913, -46.199025, -46.19807, -46.196934, -46.196486, -46.196132, -46.195695, -46.195261, -46.194752, -46.194522, -46.1941, -46.193881, -46.193664, -46.193605, -46.193554, -46.193534, -46.193531, -46.19362, -46.193689, -46.193699, -46.193649, -46.193551, -46.19341, -46.193219, -46.1930587, -46.19284, -46.19248, -46.192207, -46.192091, -46.191979, -46.191348, -46.190551, -46.189858, -46.188935, -46.188504, 
 -46.188212, -46.188026, -46.187486, -46.187019, -46.186644, -46.186383, -46.186032, -46.185168, -46.184893, -46.184594, -46.184534, -46.184432, -46.184318, -46.18424, -46.183614, -46.182774, -46.181024, -46.179315, -46.178013, -46.177322, -46.176849, -46.176332, -46.17619, -46.176098, -46.175892, -46.17556, -46.175499, -46.175459, -46.175395, -46.175338, -46.17519, -46.175078, -46.174896, -46.174735, -46.174607, -46.174153, -46.172309, -46.171485, -46.1708, -46.170417, -46.169835, -46.169132, -46.168613, 
@@ -2866,12 +2995,15 @@ INSERT INTO climate_mun
 -46.38666, -46.38584, -46.385546, -46.385131, -46.384309, -46.383754, -46.383023, -46.382666, -46.381601, -46.381123, -46.380602, -46.380027, -46.37954, -46.378498, -46.378097, -46.377708, -46.376978, -46.3765, -46.375611, -46.37494, -46.37425, -46.3'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3545001,
             1,
             918.252136,
-            20.6, 20.7, 20.0, 18.0, 15.5, 13.9, 13.7, 14.9, 16.5, 17.8, 18.9, 19.7,
+            20.6, 20.7, 20, 18, 15.5, 13.9, 13.7, 14.9, 16.5, 17.8, 18.9, 19.7,
             280, 264, 231, 133, 102, 82, 66, 86, 123, 192, 173, 252,
             'list(list(c(-45.9393872, -45.9395423, -45.9402396, -45.941334, -45.9423954, -45.9427655, -45.9435692, -45.9442227, -45.9444665, -45.9455118, -45.9473547, -45.9476796, -45.9478903, -45.947911, -45.9477252, -45.9479664, -45.9484209, -45.9491492, -45.9504147, -45.9522582, -45.9532651, -45.9536682, -45.9545159, -45.9549786, -45.9565539, -45.9596466, -45.9601352, -45.960205, -45.9598925, -45.9596278, -45.9589823, -45.9586443, -45.9569046, -45.9554874, -45.9541671, -45.953596, -45.9530361, -45.9519772, 
 -45.951363, -45.9502401, -45.9499885, -45.9496438, -45.9484158, -45.9470394, -45.9456816, -45.9389977, -45.9383022, -45.9363584, -45.9340077, -45.9316787, -45.9308097, -45.9302682, -45.9294548, -45.9289333, -45.9288588, -45.9292514, -45.9303988, -45.9308226, -45.9315905, -45.933826, -45.9357387, -45.937219, -45.9388452, -45.9404092, -45.9412347, -45.9450078, -45.9475406, -45.9483281, -45.9498241, -45.9536134, -45.9567094, -45.9600251, -45.9623365, -45.9636928, -45.9641061, -45.9652483, -45.9652315, 
@@ -2940,12 +3072,15 @@ INSERT INTO climate_mun
 -23.609663, -23.6098078, -23.6100054, -23.6102868, -23.6105263, -23.6111743, -23.6128318, -23.6135264, -23.614184, -23.6148619, -23.6155266, -23.616059, -23.6174834, -23.6179847, -23.6186651, -23.6195634, -23.6199967, -23.6200694, -23.6201945, -23.6222041, -23.6227571, -23.6233273, -23.6239677, -23.6250323, -23.6271'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3546801,
             1,
             728.627502,
-            21.8, 21.9, 21.2, 19.3, 16.8, 15.3, 15.0, 16.3, 17.8, 19.2, 20.2, 21.0,
+            21.8, 21.9, 21.2, 19.3, 16.8, 15.3, 15, 16.3, 17.8, 19.2, 20.2, 21,
             239, 222, 172, 73, 52, 40, 29, 33, 73, 147, 130, 209,
             'list(list(c(-46.1234774, -46.123537, -46.123713, -46.124169, -46.124299, -46.12458, -46.124665, -46.124717, -46.12471, -46.124594, -46.124611, -46.12468, -46.124831, -46.125195, -46.125398, -46.125705, -46.125893, -46.126098, -46.126234, -46.126511, -46.126824, -46.127035, -46.127163, -46.127604, -46.127667, -46.127792, -46.127879, -46.127981, -46.128209, -46.128723, -46.128899, -46.129153, -46.129639, -46.130152, -46.130254, -46.130322, -46.13052, -46.130629, -46.130715, -46.130798, -46.130811, 
 -46.130817, -46.130856, -46.130904, -46.130968, -46.131028, -46.131132, -46.131247, -46.131362, -46.131431, -46.131513, -46.131646, -46.131711, -46.131858, -46.132007, -46.132171, -46.132448, -46.133138, -46.133218, -46.133299, -46.133398, -46.133491, -46.133607, -46.1336768, -46.133707, -46.133731, -46.133754, -46.133763, -46.133771, -46.133842, -46.133899, -46.133921, -46.133982, -46.134054, -46.13413, -46.134252, -46.134303, -46.134384, -46.134496, -46.134774, -46.135071, -46.135252, -46.13545, 
@@ -3014,12 +3149,15 @@ INSERT INTO climate_mun
 -46.157348, -46.15734, -46.157339, -46.157351, -46.157397, -46.157608, -46.157874, -46.158097, -46.158169, -46.15818, -46.158154, -46.158016, -46.157775, -46.156991, -46.156646, -46.156306, -46.156112, -46.155984, -46.155963, -46.155973, -46.155956, -46.156007, -46.156224, -46.156638, -46.156852, -46.156941, -46.156997, -46.157009, -46.15698'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3502705,
             1,
             867.291809,
-            21.1, 21.2, 20.2, 18.1, 15.5, 14.1, 13.9, 15.5, 17.0, 18.4, 19.5, 20.4,
+            21.1, 21.2, 20.2, 18.1, 15.5, 14.1, 13.9, 15.5, 17, 18.4, 19.5, 20.4,
             191, 182, 132, 87, 73, 84, 55, 55, 103, 150, 126, 172,
             'list(list(c(-48.7251323, -48.7251498, -48.7269974, -48.727393, -48.7276044, -48.7281557, -48.7281395, -48.7274949, -48.727486, -48.7278857, -48.7290849, -48.7296635, -48.7311763, -48.7321516, -48.7333994, -48.7338378, -48.7357183, -48.7367447, -48.7373428, -48.7376392, -48.7378868, -48.7393923, -48.7396881, -48.7404278, -48.7406596, -48.7420864, -48.743421, -48.7456577, -48.7464779, -48.7475887, -48.7480494, -48.7484926, -48.7488183, -48.7493936, -48.7496912, -48.7501627, -48.7504801, -48.7511747, 
 -48.7525919, -48.7533123, -48.7535566, -48.7536082, -48.7540605, -48.7556862, -48.7564282, -48.7580037, -48.7582223, -48.7589483, -48.7606602, -48.7616975, -48.7632767, -48.7647275, -48.765076, -48.7656832, -48.766185, -48.7664665, -48.7686785, -48.7691658, -48.7694783, -48.7697027, -48.7700835, -48.7713817, -48.7722033, -48.7727225, -48.7731715, -48.773316, -48.7740251, -48.7755641, -48.776364, -48.776868, -48.777631, -48.7776731, -48.7774361, -48.777617, -48.7779061, -48.7783283, -48.779634, -48.7810345, 
@@ -3088,7 +3226,10 @@ INSERT INTO climate_mun
 -24.5530808, -24.5542351, -24.556485, -24.5560792, -24.5560322, -24.556427, -24.5564217, -24.556063, -24.5559644, -24.5559293, -24.5558336, -24.5542432, -24.5539448, -24.553837, -24.5540895, -24.5541946, -24.5537977, -24.5533473, -24.552091, -24.5517492, -24.5505602, -24.5496968, -24.5487374, -24.5482647, -24.5481274, -24.548125, -24.546335, -24.5455572, -'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3505351,
             1,
@@ -3157,12 +3298,15 @@ INSERT INTO climate_mun
 -24.4061447, -24.4067526, -24.4067873, -24.4066105, -24.406707, -24.4065273, -24.4065748, -24.4071338, -24.4082665, -24.408628, -24.4086362, -24.408717, -24.4090293, -24.4095011, -24.4101619, -24.4103179, -24.4107258, -24.4115822, -24.413089, -24.4137966, -24.4142469, -24.4147514, -24.415501, -24.4158873, -24.4160595, -24.4168549, -24.4169573)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3505401,
             1,
-            630.0,
-            22.3, 22.3, 21.4, 19.1, 16.4, 15.0, 14.8, 16.1, 17.5, 19.0, 20.3, 21.4,
+            630,
+            22.3, 22.3, 21.4, 19.1, 16.4, 15, 14.8, 16.1, 17.5, 19, 20.3, 21.4,
             235, 227, 192, 129, 93, 102, 91, 68, 118, 162, 133, 164,
             'list(list(c(-48.5177061, -48.5166859, -48.5154756, -48.5137961, -48.5104818, -48.5098695, -48.5095054, -48.5086963, -48.5078291, -48.5071381, -48.5068107, -48.506717, -48.5070178, -48.5074315, -48.5075284, -48.5073414, -48.5069591, -48.5058792, -48.5053202, -48.5044022, -48.5032552, -48.500808, -48.5001675, -48.4975819, -48.4952646, -48.4946802, -48.4940849, -48.4896714, -48.4889277, -48.4884256, -48.4872248, -48.4868478, -48.4862998, -48.4856799, -48.4847188, -48.4831851, -48.4820908, -48.48161, 
 -48.4815124, -48.481601, -48.4820475, -48.4818027, -48.481324, -48.4758403, -48.4749472, -48.4718274, -48.470439, -48.4694293, -48.4673018, -48.4645964, -48.4645233, -48.464146, -48.4638864, -48.4620088, -48.4612144, -48.4610337, -48.4608211, -48.4600043, -48.4593562, -48.458478, -48.4568864, -48.4565374, -48.4556184, -48.4538038, -48.4517972, -48.4510914, -48.4508263, -48.4507332, -48.4508765, -48.4516239, -48.451387, -48.4501785, -48.4498646, -48.4497517, -48.4497732, -48.4495793, -48.4493117, 
@@ -3231,12 +3375,15 @@ INSERT INTO climate_mun
 -24.720746, -24.7192428, -24.7188693, -24.7183941, -24.7166703, -24.7163316, -24.7153545, -24.7147873, -24.7137839, -24.7127585, -24.7117775, -24.7105585, -24.7079637, -24.7065744, -24.7062129, -24.7055783, -24.7048132, -24.7037136, -24.7028452, -24.7022433, -24.7019279, -24.7014399, -24.7006657, -24.7002998, -24.699579, -24.6989298, -24.6984071, -24.698138, -24.6978471, -24.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3509254,
             2,
             368.70401,
-            23.7, 23.7, 22.9, 20.7, 18.0, 16.5, 16.2, 17.4, 18.8, 20.2, 21.6, 22.8,
+            23.7, 23.7, 22.9, 20.7, 18, 16.5, 16.2, 17.4, 18.8, 20.2, 21.6, 22.8,
             236, 244, 217, 139, 74, 98, 66, 53, 108, 157, 147, 183,
             'list(list(c(-48.066556, -48.0665409, -48.0663891, -48.0661421, -48.0660323, -48.0659394, -48.0658141, -48.0657789, -48.0657219, -48.0656628, -48.0655953, -48.0654665, -48.0652469, -48.0651012, -48.0648226, -48.0647086, -48.0646072, -48.0643454, -48.0642335, -48.0641449, -48.0639971, -48.0639668, -48.0638556, -48.0637627, -48.0636213, -48.0635664, -48.0635326, -48.0635284, -48.0635537, -48.0635731, -48.0636867, -48.0637585, -48.0637691, -48.0637944, -48.0638451, -48.0639316, -48.0640921, -48.0642736, 
 -48.0644275, -48.06447, -48.0645755, -48.0647487, -48.0648753, -48.0649429, -48.0650273, -48.0650632, -48.0650653, -48.0650358, -48.0649091, -48.0647656, -48.0646304, -48.0645038, -48.0644031, -48.0642546, -48.0641512, -48.0640773, -48.0640435, -48.0640478, -48.0640393, -48.0640182, -48.0639316, -48.0638409, -48.0637733, -48.0636403, -48.063501, -48.0634017, -48.0632413, -48.0629246, -48.0626825, -48.0625736, -48.0623234, -48.0622316, -48.0621429, -48.0619941, -48.0618294, -48.0614241, -48.0610967, 
@@ -3305,12 +3452,15 @@ INSERT INTO climate_mun
 -24.8420038, -24.8449485, -24.8453259, -24.845426, -24.8452677, -24.8454389, -24.8461327, -24.8471611, -24.8474047, -24.8476189, -24.8477892, -24.8478728, -24.8483507, -24.8484873, -24.8492091, -24.8502893, -24.8511995, -24.8512111, -24.8523682, -24.8555057, -24.8559329, -24.8575179, -24.8583301, -24.8590336, -24.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3514809,
             2,
             303.574158,
-            24.2, 24.2, 23.4, 21.2, 18.5, 17.1, 16.7, 18.0, 19.4, 20.8, 22.1, 23.3,
+            24.2, 24.2, 23.4, 21.2, 18.5, 17.1, 16.7, 18, 19.4, 20.8, 22.1, 23.3,
             221, 217, 182, 108, 73, 84, 71, 50, 104, 157, 125, 181,
             'list(list(c(-48.0635938, -48.0637152, -48.0650635, -48.0659438, -48.0679693, -48.0690239, -48.0699313, -48.0703004, -48.0712394, -48.0716593, -48.0717882, -48.0720985, -48.0727914, -48.0737338, -48.0744927, -48.0749693, -48.0752991, -48.0770419, -48.0772463, -48.0775486, -48.078252, -48.0793533, -48.0796656, -48.0798041, -48.0799358, -48.0801562, -48.0808971, -48.0812993, -48.0815182, -48.0814712, -48.0805591, -48.0803025, -48.0804147, -48.0806027, -48.0808379, -48.0810302, -48.0821251, -48.0824204, 
 -48.0824567, -48.0823781, -48.0819823, -48.081656, -48.0821241, -48.0821219, -48.0814923, -48.0814408, -48.0816021, -48.0814999, -48.0817737, -48.0819872, -48.0833623, -48.0837584, -48.0842416, -48.0849418, -48.0850044, -48.0848574, -48.0854432, -48.0864027, -48.086803, -48.0871891, -48.0885535, -48.0901129, -48.0906983, -48.0917033, -48.0921272, -48.0926007, -48.0928938, -48.0936974, -48.0968919, -48.0982881, -48.0998546, -48.1007032, -48.1010162, -48.1011236, -48.1011561, -48.1007668, -48.1008205, 
@@ -3379,7 +3529,10 @@ INSERT INTO climate_mun
 -48.1075246, -48.1072175, -48.1065432, -48.1048088, -48.1028243, -48.1016513, -48.100541, -48.0995469, -48.0989739, -48.0984937, -48.0982253, -48.0980718, -48.0983975, -48.0983142, -48.097032, -48.0965591, -48.0954369, -48.09476, -48.0942225, -48.0929048, -48.0923451, -48.0921117, -48.0919934, -48.0919937, -48.0921865, -48.092164, -48.0918547, -48.0910795, -48.0901945, -48.0897284, -48.0897708, -48.089459, -4'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3521200,
             2,
@@ -3453,12 +3606,15 @@ INSERT INTO climate_mun
 -24.6865609, -24.6890979, -24.6907227, -24.6925376, -24.6938522, -24.694036, -24.693354, -24.6909885, -24.6895139, -24.6884736, -24.685315, -24.6816904, -24.6803755, -24.6803821, -24.6829592, -24.6835942, -24.6826874, -24.6826903, -24.6832888, -24.6830148, -24.6842822, -24.6848167, -24.6855125, -24.6864411, -24.6870117, -24.6865119, -24.6844817, -24.6850678, -24.6861112, -24.686493, -24.686925, -24.687'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3522158,
             2,
             379.492523,
-            23.8, 23.8, 23.0, 20.7, 18.0, 16.6, 16.3, 17.6, 19.0, 20.5, 21.8, 22.9,
+            23.8, 23.8, 23, 20.7, 18, 16.6, 16.3, 17.6, 19, 20.5, 21.8, 22.9,
             190, 183, 133, 93, 70, 102, 73, 58, 103, 149, 113, 164,
             'list(list(c(-48.7766446, -48.7752689, -48.7743476, -48.771071, -48.7659774, -48.7655256, -48.7647458, -48.7640725, -48.7636685, -48.7633032, -48.7623068, -48.7619051, -48.7612789, -48.7610421, -48.7609331, -48.7607896, -48.7602238, -48.7594785, -48.7577766, -48.7548068, -48.7540037, -48.7535248, -48.7530349, -48.7525256, -48.7522651, -48.751725, -48.7515528, -48.7513848, -48.7497997, -48.749363, -48.7491822, -48.7492022, -48.7494012, -48.7499533, -48.7500979, -48.7498657, -48.7496827, -48.7493372, 
 -48.748437, -48.7467222, -48.7457096, -48.7452185, -48.7445192, -48.7437783, -48.7429115, -48.7402394, -48.7395443, -48.7390713, -48.738717, -48.7384807, -48.7382706, -48.737449, -48.7375407, -48.7377306, -48.7377129, -48.7375472, -48.7371972, -48.735843, -48.735196, -48.7346368, -48.7346037, -48.7349858, -48.7355544, -48.7359999, -48.7370683, -48.738156, -48.7384838, -48.7386712, -48.7387321, -48.7386591, -48.7362065, -48.735613, -48.735049, -48.7339051, -48.733424, -48.7330477, -48.7326811, -48.7323893, 
@@ -3493,7 +3649,10 @@ INSERT INTO climate_mun
 -24.5789356, -24.5791908, -24.5794234, -24.5802122, -24.5815776, -24.5835144, -24.5845843, -24.584851, -24.5853111, -24.5860498, -24.5862895, -24.5865739, -24.5866785, -24.5867074, -24.5865574, -24.5865523, -24.5866344, -24.5869109, -24.5878522, -24.589493, -24.5897458, -24.5906687, -24.5907262, -24.5899505, -24.5895684, -24.5894004)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3522653,
             2,
@@ -3555,12 +3714,15 @@ INSERT INTO climate_mun
 -24.4639547, -24.4655676, -24.4659921, -24.4663721, -24.4670507, -24.4672627, -24.4696111, -24.4719767, -24.4723774, -24.473127)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3523305,
             2,
             343.036316,
-            23.8, 23.9, 23.2, 21.0, 18.4, 17.0, 16.6, 17.7, 19.1, 20.5, 21.8, 22.9,
+            23.8, 23.9, 23.2, 21, 18.4, 17, 16.6, 17.7, 19.1, 20.5, 21.8, 22.9,
             286, 267, 251, 163, 121, 69, 52, 61, 117, 186, 140, 234,
             'list(list(c(-47.0512695, -47.051087, -47.050933, -47.05073, -47.050524, -47.050253, -47.049813, -47.049423, -47.04912, -47.049021, -47.048909, -47.048799, -47.0487, -47.048299, -47.047648, -47.0474545, -47.047261, -47.047058, -47.046346, -47.045766, -47.045161, -47.044209, -47.043804, -47.043643, -47.042966, -47.042543, -47.04217, -47.041634, -47.040904, -47.040842, -47.04078, -47.040623, -47.040455, -47.040291, -47.040164, -47.040067, -47.039872, -47.039436, -47.038933, -47.038319, -47.038039, -47.037696, 
 -47.037318, -47.037146, -47.036741, -47.036411, -47.036223, -47.035962, -47.035734, -47.035267, -47.034543, -47.034228, -47.034029, -47.033852, -47.03359, -47.033435, -47.033321, -47.033162, -47.032951, -47.032644, -47.032351, -47.03193, -47.031661, -47.031276, -47.031007, -47.030539, -47.030386, -47.030223, -47.029724, -47.029446, -47.029235, -47.029033, -47.028941, -47.028696, -47.028402, -47.02812, -47.027992, -47.027895, -47.02784, -47.027796, -47.027691, -47.027633, -47.027531, -47.027385, -47.027181, 
@@ -3629,12 +3791,15 @@ INSERT INTO climate_mun
 -24.210488, -24.210803, -24.211039, -24.211136, -24.21117, -24.211166, -24.211111, -24.211054, -24.211101, -24.211139, -24.211345, -24.21145, -24.211679, -24.21188, -24.211981, -24.212099, -24.212454, -24.212641, -24.212769, -24.213178, -24.213611, -24.213954, -24.21407, -24.214098, -24.214094, -24.21'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3524600,
             2,
             174.16539,
-            24.8, 24.8, 24.0, 21.8, 19.1, 17.6, 17.2, 18.3, 19.7, 21.1, 22.6, 23.8,
+            24.8, 24.8, 24, 21.8, 19.1, 17.6, 17.2, 18.3, 19.7, 21.1, 22.6, 23.8,
             248, 260, 236, 152, 82, 97, 70, 56, 113, 162, 149, 175,
             'list(list(c(-47.9543516, -47.9551809, -47.9557083, -47.9564213, -47.9566779, -47.9566762, -47.9562981, -47.9558926, -47.9557943, -47.9558073, -47.9560262, -47.9569307, -47.9572346, -47.9574529, -47.9573538, -47.9574572, -47.9577605, -47.9592388, -47.9603634, -47.962122, -47.9627255, -47.9631551, -47.9641587, -47.9643369, -47.9643868, -47.9642719, -47.9639898, -47.9633323, -47.9609997, -47.9604961, -47.9600107, -47.9599193, -47.9593416, -47.9587855, -47.9584021, -47.9584128, -47.9587497, -47.959488, 
 -47.9598443, -47.9598746, -47.9597682, -47.9593265, -47.959014, -47.9585018, -47.9581326, -47.9582593, -47.9617461, -47.9632137, -47.9636885, -47.9635081, -47.9629376, -47.9624793, -47.961141, -47.9603651, -47.9595551, -47.9573281, -47.9567474, -47.9560357, -47.9554906, -47.9550951, -47.954792, -47.9542083, -47.9528667, -47.9525098, -47.9517637, -47.9510418, -47.9507689, -47.9499827, -47.9484752, -47.9480276, -47.9473324, -47.9464049, -47.9459744, -47.9454884, -47.9439954, -47.9430929, -47.9438557, 
@@ -3703,12 +3868,15 @@ INSERT INTO climate_mun
 -24.9631495, -24.963794, -24.9647911, -24.9663145, -24.9662064, -24.9658646, -24.9637515, -24.9623818, -24.9612989, -24.9597415, -24.9592359, -24.9590577, -24.9584028, -24.9580032, -24.9584539, -24.9580137, -24.9566595, -24.9560099, -24.9575589, -24.9584865, -24.9577934, -24.9557325, -24.9552204, -24.9545033, -24.9542266, -24.9538734, -24.9531372, -24.9534664, -24.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3526100,
             2,
             171.477295,
-            24.9, 24.9, 24.2, 22.1, 19.5, 18.0, 17.6, 18.7, 20.1, 21.5, 22.8, 24.0,
+            24.9, 24.9, 24.2, 22.1, 19.5, 18, 17.6, 18.7, 20.1, 21.5, 22.8, 24,
             255, 231, 201, 116, 91, 77, 65, 63, 110, 183, 130, 208,
             'list(list(c(-47.487594, -47.487616, -47.4867065, -47.4859628, -47.486147, -47.4861298, -47.4862633, -47.4861165, -47.4858671, -47.4858651, -47.4856979, -47.4852064, -47.4848602, -47.4846725, -47.4836764, -47.4832422, -47.4831146, -47.4831279, -47.4833339, -47.4825731, -47.4825727, -47.4828799, -47.4828873, -47.4827397, -47.4823829, -47.4821347, -47.4820895, -47.4822041, -47.4826426, -47.4835643, -47.4842946, -47.4855808, -47.4861484, -47.4868841, -47.4874983, -47.4879788, -47.4894128, -47.4901055, 
 -47.4913918, -47.4948788, -47.4954132, -47.495635, -47.4962552, -47.4975323, -47.5003558, -47.5008022, -47.5013714, -47.5026398, -47.5031551, -47.5043659, -47.5053685, -47.5091442, -47.5102734, -47.5115182, -47.5118351, -47.5123762, -47.5137463, -47.5141113, -47.5147207, -47.5151608, -47.5154843, -47.5157101, -47.5161995, -47.5171114, -47.5178896, -47.5191632, -47.5196062, -47.5198736, -47.5200244, -47.52011, -47.5199077, -47.5179679, -47.5169428, -47.5162909, -47.5166681, -47.5174593, -47.5183897, 
@@ -3777,12 +3945,15 @@ INSERT INTO climate_mun
 -24.3260431, -24.3261491, -24.3261915, -24.3262071, -24.3262424, -24.3262255, -24.3262467, -24.3263018, -24.3263697, -24.3263909, -24.3264758, -24.3265479, -24.3266037, -24.3265971, -24.3267777, -24.3268099, -24.3272567, -24.3278249, -24.3281141, -24.3282485, -24.3284736, -24.3289817, -24.329512, -24.33097, -24.3321577, -24.3324155, -24.332'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3526209,
             1,
             739.694946,
-            21.7, 21.8, 21.0, 18.9, 16.4, 14.9, 14.6, 16.0, 17.4, 18.8, 19.9, 20.9,
+            21.7, 21.8, 21, 18.9, 16.4, 14.9, 14.6, 16, 17.4, 18.8, 19.9, 20.9,
             287, 256, 228, 136, 106, 77, 65, 69, 122, 191, 154, 214,
             'list(list(c(-46.9977762, -46.998142, -46.9986594, -46.9994017, -47.0006063, -47.0022079, -47.0028501, -47.0034863, -47.004014, -47.0045765, -47.0051833, -47.0063602, -47.0066926, -47.0073485, -47.0088312, -47.0092653, -47.0104455, -47.0116162, -47.0126178, -47.0135144, -47.0143872, -47.0149064, -47.0151953, -47.0158302, -47.0165433, -47.01707, -47.0180665, -47.0186072, -47.0189088, -47.0193392, -47.0197131, -47.0201947, -47.0208785, -47.0212327, -47.0230122, -47.0236519, -47.0239357, -47.0243841, 
 -47.0252695, -47.0261985, -47.0268247, -47.0271991, -47.0273849, -47.0273877, -47.0270793, -47.0261068, -47.0260027, -47.0261274, -47.0264665, -47.0266736, -47.0266985, -47.0269949, -47.0273858, -47.028264, -47.0288681, -47.0294828, -47.0299194, -47.0310149, -47.0319989, -47.0343344, -47.0346829, -47.0366129, -47.0377745, -47.0378914, -47.0380557, -47.0382711, -47.0393134, -47.0395616, -47.039827, -47.0401895, -47.0402083, -47.040377, -47.0406705, -47.0410193, -47.0414503, -47.0418611, -47.0423227, 
@@ -3851,12 +4022,15 @@ INSERT INTO climate_mun
 -23.892498, -23.8914976, -23.8911978, -23.8910662, -23.8910177, -23.8911462, -23.8910964, -23.890981, -23.8908235, -23.890536, -23.8900896, -23.8898013, -23.889627, -23.8895614, -23.8897443, -23.8901368, -23.8901549, -23.8902772, -23.8907103, -23.8908347, -23.890647, -23.8899273, -23.8898021, -23.8898054, -23.8894811, -23.8894574, -23.8892915, -23.8889289, -23.8886'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3529906,
             2,
             326.510864,
-            24.0, 24.1, 23.3, 21.2, 18.6, 17.2, 16.7, 17.9, 19.3, 20.7, 22.0, 23.1,
+            24, 24.1, 23.3, 21.2, 18.6, 17.2, 16.7, 17.9, 19.3, 20.7, 22, 23.1,
             266, 242, 221, 130, 99, 81, 62, 60, 113, 187, 143, 221,
             'list(list(c(-47.2878227, -47.2878388, -47.2875073, -47.286709, -47.2863251, -47.2863341, -47.2867193, -47.2869115, -47.2879774, -47.2898879, -47.2907961, -47.2913259, -47.2928408, -47.2934789, -47.2940402, -47.2956694, -47.2964187, -47.2975491, -47.2997745, -47.3009586, -47.3034159, -47.3060147, -47.3065575, -47.3070337, -47.3079098, -47.3086194, -47.3099455, -47.3107952, -47.3120685, -47.3123109, -47.3130743, -47.3147332, -47.3154879, -47.315765, -47.3158804, -47.3163685, -47.3182609, -47.3191001, 
 -47.3194506, -47.3197192, -47.3200382, -47.3210914, -47.322328, -47.3225692, -47.3242387, -47.3263916, -47.3278875, -47.3299226, -47.3303118, -47.3315875, -47.3318157, -47.3321469, -47.3324019, -47.3325381, -47.3328126, -47.3328477, -47.3333191, -47.3336779, -47.3345891, -47.3350722, -47.3374101, -47.3377182, -47.3378647, -47.3378018, -47.337739, -47.3359475, -47.3350329, -47.3341206, -47.333313, -47.3325647, -47.3318276, -47.3305371, -47.3304105, -47.3304142, -47.3309241, -47.3312211, -47.331156, 
@@ -3925,12 +4099,15 @@ INSERT INTO climate_mun
 -24.3887335, -24.3888069, -24.388405, -24.3882392, -24.388041, -24.3864108, -24.3852038, -24.3844675, -24.3839146, -24.3839157, -24.3843596, -24.3843276, -24.3841334, -24.3841322, -24.382781, -24.3826148, -24.3826755, -24.3825407, -24.3823201, -24.3814415, -24.3807871, -24.3797578, -24.379413, -24.3791633, -24.3782926, -24.3773862, -24.37705, -24.3768881, -24.3762083, -24'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3536208,
             2,
             52.714287,
-            25.5, 25.5, 24.7, 22.5, 19.8, 18.4, 17.9, 19.0, 20.3, 21.8, 23.2, 24.5,
+            25.5, 25.5, 24.7, 22.5, 19.8, 18.4, 17.9, 19, 20.3, 21.8, 23.2, 24.5,
             252, 261, 238, 153, 94, 91, 68, 53, 111, 156, 121, 160,
             'list(list(c(-47.8887826, -47.8891614, -47.8899928, -47.8901706, -47.8903422, -47.8909455, -47.8906704, -47.8906657, -47.8917894, -47.8922329, -47.8927913, -47.8937253, -47.8945069, -47.8949893, -47.8957478, -47.8961825, -47.8977247, -47.9005395, -47.9009332, -47.9016965, -47.9040073, -47.9047785, -47.9052851, -47.9063731, -47.908624, -47.9100169, -47.9107725, -47.9127468, -47.9142094, -47.9155653, -47.9165978, -47.9171584, -47.9178039, -47.9190445, -47.9205046, -47.9209102, -47.9215285, -47.9224147, 
 -47.924205, -47.9266349, -47.9279396, -47.9285913, -47.9294488, -47.9315103, -47.9353814, -47.9369392, -47.9406164, -47.9411264, -47.9422747, -47.9430929, -47.9439954, -47.9454884, -47.9459744, -47.9464049, -47.9473324, -47.9480276, -47.9484752, -47.9499827, -47.9507689, -47.9510418, -47.9517637, -47.9525098, -47.9528667, -47.9542083, -47.954792, -47.9550951, -47.9554906, -47.9560357, -47.9567474, -47.9573281, -47.9595551, -47.9603651, -47.961141, -47.9624793, -47.9629376, -47.9635081, -47.9636885, 
@@ -3995,12 +4172,15 @@ INSERT INTO climate_mun
 -24.7869609, -24.7873349, -24.7873771, -24.7875183, -24.7876066)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3537206,
             2,
             364.226715,
-            23.8, 23.8, 23.1, 21.0, 18.4, 17.0, 16.5, 17.7, 19.1, 20.5, 21.8, 22.8,
+            23.8, 23.8, 23.1, 21, 18.4, 17, 16.5, 17.7, 19.1, 20.5, 21.8, 22.8,
             283, 261, 241, 151, 109, 73, 56, 61, 118, 188, 141, 222,
             'list(list(c(-47.1983432, -47.1982941, -47.197603, -47.1971178, -47.1969107, -47.1967904, -47.1968655, -47.1966088, -47.1966359, -47.1966377, -47.1966935, -47.1970762, -47.197476, -47.1977448, -47.1980837, -47.1990723, -47.1995045, -47.2000338, -47.2001864, -47.2004202, -47.2025847, -47.2027797, -47.2036037, -47.2040641, -47.204895, -47.2051727, -47.2055412, -47.2055744, -47.2064401, -47.2065168, -47.2064623, -47.206071, -47.206331, -47.2068927, -47.2080253, -47.2082951, -47.2083708, -47.2087916, 
 -47.2098866, -47.2104306, -47.2106111, -47.2102185, -47.2094043, -47.2086073, -47.2074082, -47.207117, -47.2069733, -47.2070143, -47.2073329, -47.2076601, -47.207864, -47.2079283, -47.2079477, -47.2080627, -47.2088122, -47.210259, -47.2121076, -47.2134682, -47.2144377, -47.2149034, -47.2156283, -47.2165131, -47.2191311, -47.2199708, -47.2210932, -47.222055, -47.22334, -47.2259779, -47.2267348, -47.2272466, -47.2288846, -47.2308669, -47.231633, -47.2325069, -47.2334113, -47.2341649, -47.2351573, -47.2353588, 
@@ -4069,12 +4249,15 @@ INSERT INTO climate_mun
 -24.1591259, -24.1580312, -24.1568942, -24.1560024, -24.1552363, -24.154221, -24.1535565, -24.1520282, -24.1516108, -24.1500287, -24.1485907, -24.1483532, -24.1481364, -24.1479712, -24.1478201, -24.147058, -24.1472328, -24.1471613, -24.1469409, -24.1469454, -24.1474972, -24.147191, -24.1472337, -24.1473885, -24.1475769, -24.1485007, -24.1491694, -24.1493466, -24.1493191, '
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3542602,
             5,
             36.424469,
-            25.6, 25.6, 24.9, 22.7, 20.0, 18.6, 18.1, 19.2, 20.5, 22.0, 23.4, 24.6,
+            25.6, 25.6, 24.9, 22.7, 20, 18.6, 18.1, 19.2, 20.5, 22, 23.4, 24.6,
             249, 243, 215, 132, 91, 82, 68, 62, 108, 157, 121, 174,
             'list(list(c(-47.6836854, -47.6845778, -47.6853855, -47.6849903, -47.6851339, -47.6881621, -47.6885543, -47.6886569, -47.688149, -47.6867725, -47.6860906, -47.6853226, -47.6853293, -47.6853305, -47.6858108, -47.6863522, -47.6879673, -47.689957, -47.6916902, -47.6922692, -47.69251, -47.6926653, -47.6932828, -47.6937919, -47.6945066, -47.6958078, -47.6987186, -47.7005895, -47.7036112, -47.7046706, -47.7055629, -47.7072319, -47.7088696, -47.7101433, -47.7119742, -47.7128217, -47.7129865, -47.7125689, 
 -47.7122851, -47.7125376, -47.7134238, -47.7149075, -47.7170679, -47.7191748, -47.7220952, -47.7237361, -47.7263333, -47.7277452, -47.7288132, -47.7295481, -47.7314088, -47.7320538, -47.7327542, -47.7335281, -47.7342853, -47.7362362, -47.7373935, -47.7381363, -47.7387368, -47.7391988, -47.7392764, -47.7390989, -47.7391128, -47.7393695, -47.7399205, -47.7405386, -47.741028, -47.74127, -47.7413286, -47.7412659, -47.7409329, -47.7407942, -47.7417159, -47.7420631, -47.7423171, -47.7421654, -47.7419525, 
@@ -4143,12 +4326,15 @@ INSERT INTO climate_mun
 -24.6359732, -24.6368174, -24.6370786, -24.6372261, -24.6371113, -24.6372559, -24.6383192, -24.6384385, -24.6382298, -24.6377192, -24.6362949, -24.6362923, -24.6358719, -24.6354069, -24.6350928, -24.634922, -24.6344556, -24.6337183, -24.6329313, -24.63274, -24.6320349, -24.6314952, -24.6310614, -24.6298775, -24.6294959, -24.6287213, -24.6280024, -24.6277'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3542800,
             2,
             499.930115,
-            23.2, 23.2, 22.3, 20.1, 17.4, 16.0, 15.7, 17.1, 18.5, 20.0, 21.3, 22.3,
+            23.2, 23.2, 22.3, 20.1, 17.4, 16, 15.7, 17.1, 18.5, 20, 21.3, 22.3,
             181, 174, 125, 90, 65, 87, 61, 53, 105, 145, 105, 151,
             'list(list(c(-48.9289549, -48.9285922, -48.9254581, -48.9182449, -48.9182353, -48.917682, -48.9163957, -48.915149, -48.9146094, -48.9140852, -48.9139677, -48.9138389, -48.9136557, -48.9132752, -48.9102313, -48.9077337, -48.9074597, -48.9071236, -48.9057119, -48.9053455, -48.903823, -48.9035671, -48.9031772, -48.902935, -48.9020947, -48.901831, -48.9013414, -48.900871, -48.9007209, -48.9000905, -48.8998341, -48.8998074, -48.9004724, -48.9002044, -48.9005098, -48.90075, -48.9016566, -48.9018575, -48.9025478, 
 -48.9028376, -48.9031294, -48.9034335, -48.9043394, -48.9067338, -48.9077536, -48.9084028, -48.9090595, -48.9092349, -48.9093814, -48.9094084, -48.90949, -48.9096012, -48.910642, -48.9120009, -48.9125776, -48.9137538, -48.9150402, -48.9156701, -48.9164865, -48.9170905, -48.9190868, -48.9202308, -48.9202327, -48.9200445, -48.9197479, -48.9184623, -48.9178725, -48.9176348, -48.9172808, -48.9170127, -48.9180127, -48.9183221, -48.9192901, -48.9207533, -48.9214687, -48.922228, -48.9228366, -48.9232178, 
@@ -4200,7 +4386,10 @@ INSERT INTO climate_mun
 )))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3549953,
             1,
@@ -4272,12 +4461,15 @@ INSERT INTO climate_mun
 -23.9129855, -23.9122327, -23.9117, -23.9111673, -23.9107701, -23.9105851, -23.910038, -23.9097331, -23.9090101, -23.9086341, -23.9083872, -23.9073967, -23.9069205, -23.9060074, -23.905404, -23.9048005, -23.9045718, -23.9039035, -23.9030144, -23.9021252, -23.9015341)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3551801,
             2,
             174.84166,
-            24.9, 24.9, 24.2, 22.1, 19.4, 18.0, 17.5, 18.7, 20.1, 21.5, 22.9, 24.0,
+            24.9, 24.9, 24.2, 22.1, 19.4, 18, 17.5, 18.7, 20.1, 21.5, 22.9, 24,
             237, 224, 185, 104, 79, 79, 67, 59, 110, 176, 125, 201,
             'list(list(c(-47.8255242, -47.8265179, -47.8273704, -47.8292488, -47.8301193, -47.8314247, -47.831842, -47.8320767, -47.8322378, -47.8328228, -47.8337124, -47.8341909, -47.8346432, -47.8379912, -47.8387171, -47.8394476, -47.8397287, -47.83983, -47.8396679, -47.8396943, -47.8398117, -47.8401504, -47.8410613, -47.8415171, -47.8418483, -47.8429558, -47.8437233, -47.8440129, -47.8446329, -47.84524, -47.8490459, -47.8508657, -47.8521676, -47.8544675, -47.8551846, -47.8566384, -47.8575208, -47.8579739, 
 -47.8585223, -47.8591799, -47.8615063, -47.8621738, -47.8624776, -47.8630276, -47.863912, -47.8643958, -47.8647925, -47.8656683, -47.8661148, -47.8664893, -47.8669194, -47.868119, -47.8686224, -47.8691893, -47.8708837, -47.8720819, -47.8721019, -47.8722594, -47.8738107, -47.8750258, -47.8754684, -47.8769541, -47.8777752, -47.8780009, -47.8780295, -47.8781661, -47.87842, -47.8787187, -47.8791428, -47.8797217, -47.8817574, -47.8824498, -47.8829639, -47.8835253, -47.8838605, -47.8840511, -47.88425, 
@@ -4346,12 +4538,15 @@ INSERT INTO climate_mun
 -24.4742016, -24.4743048, -24.4742993, -24.4742914, -24.474142, -24.4735197, -24.473129, -24.4730674, -24.4731174, -24.4734607, -24.4735872, -24.4742372, -24.4746748, -24.4754523, -24.4761459, -24.4783755, -24.4792469, -24.4808035, -24.4812082, -24.4815823, -24.4819255, -24.4822496, -24.4825254, -24.4824619, -24.4821838, -24.4811635, -24.4802407, -24.4799846, -24.4798793, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3553500,
             2,
             657.273254,
-            22.3, 22.3, 21.5, 19.4, 16.9, 15.4, 15.1, 16.5, 18.0, 19.3, 20.5, 21.4,
+            22.3, 22.3, 21.5, 19.4, 16.9, 15.4, 15.1, 16.5, 18, 19.3, 20.5, 21.4,
             249, 216, 184, 98, 87, 76, 67, 69, 110, 186, 151, 224,
             'list(list(c(-47.5140311, -47.5138371, -47.5135161, -47.5132395, -47.5132517, -47.5136259, -47.5135896, -47.5132957, -47.5126836, -47.5122587, -47.5120233, -47.5121737, -47.5121222, -47.5119647, -47.5118071, -47.5116847, -47.5115622, -47.5111935, -47.5109353, -47.5104145, -47.5103247, -47.510411, -47.5102585, -47.5099323, -47.5095631, -47.5094293, -47.5093778, -47.5094575, -47.5093433, -47.5091671, -47.5089373, -47.5088966, -47.5088647, -47.5088075, -47.5083617, -47.5081956, -47.5080861, -47.5076585, 
 -47.5066676, -47.5062134, -47.5057925, -47.5052085, -47.505053, -47.5050855, -47.5049274, -47.5047692, -47.5040935, -47.5039522, -47.5038108, -47.5034263, -47.5031504, -47.5030612, -47.5025196, -47.5024174, -47.5022794, -47.5021474, -47.5019812, -47.5014905, -47.5013308, -47.5013059, -47.5011614, -47.5008773, -47.500467, -47.4999832, -47.4997787, -47.4996118, -47.4993189, -47.4986395, -47.4981617, -47.4978233, -47.4972031, -47.4967983, -47.4964079, -47.49615, -47.4957285, -47.4954474, -47.4950351, 
@@ -4420,7 +4615,10 @@ INSERT INTO climate_mun
 -23.9131102, -23.9139934, -23.9145061, -23.9150729, -23.9176223, -23.9181323, -23.9194361, -23.9200161, -23.9212163, -23.9225832, -23.9232478, -23.9238552, -23.9254188, -23.925846, -23.9271701, -23.9275593, -23.9297851, -23.9308974, -23.931733, -23.9339835, -23.9343503, -23.9360856, -23.9369089, -23.9382021, -23.9387515, -23.9392252, -23.9395986, -23'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3517604,
             1,
@@ -4494,12 +4692,15 @@ INSERT INTO climate_mun
 -24.1027762, -24.1031565, -24.1032245, -24.1031569, -24.1032694, -24.1035854, -24.1041143, -24.1044297, -24.1052168, -24.1057167, -24.1058789, -24.1060446, -24.1060506, -24.1054496, -24.1054048, -24.105531, -24.1066393, -24.1071797, -24.1080019, -24.1082992, -24.1082799, -24.1083506, -24.1085059, -24.1090813, -24.110568, -24.111549, -24.112104, -24.1137413, -24.114269, -24.114791, -'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3543006,
             1,
             899.955872,
-            21.0, 21.0, 20.1, 18.0, 15.4, 14.0, 13.9, 15.5, 17.0, 18.3, 19.5, 20.3,
+            21, 21, 20.1, 18, 15.4, 14, 13.9, 15.5, 17, 18.3, 19.5, 20.3,
             194, 183, 131, 80, 72, 80, 53, 53, 100, 148, 122, 168,
             'list(list(c(-48.8431755, -48.8439158, -48.8443183, -48.8446583, -48.8451373, -48.8454866, -48.8460788, -48.8469321, -48.8473741, -48.8481704, -48.8482716, -48.8486027, -48.8489178, -48.8498835, -48.8503316, -48.8503419, -48.8507854, -48.8515819, -48.8524959, -48.8526785, -48.8530029, -48.8531457, -48.853386, -48.8535193, -48.8539253, -48.854465, -48.8549229, -48.8557257, -48.8570009, -48.8575419, -48.8578965, -48.8593729, -48.8597121, -48.8601099, -48.8603514, -48.8604908, -48.860969, -48.8612423, 
 -48.8614697, -48.8617895, -48.8624625, -48.8627084, -48.8629848, -48.8632158, -48.8635575, -48.8640877, -48.8647686, -48.865324, -48.8655237, -48.8653534, -48.8655054, -48.8657703, -48.8656171, -48.8657323, -48.8666939, -48.8674448, -48.8676749, -48.8680129, -48.8683495, -48.8687645, -48.8693327, -48.869772, -48.8701586, -48.8702982, -48.8703372, -48.8706922, -48.870766, -48.8708587, -48.871052, -48.8713258, -48.8718302, -48.8722576, -48.8726413, -48.8735316, -48.8743442, -48.8752493, -48.8757526, 
@@ -4562,7 +4763,10 @@ INSERT INTO climate_mun
 -24.3453268, -24.3450166, -24.3457379, -24.3458867, -24.3467735, -24.3479369, -24.3486297, -24.349163, -24.3495839, -24.349643, -24.3491511, -24.3489564, -24.3486281, -24.348001, -24.3474265, -24.3471606, -24.3466997, -24.3462805, -24.3457451, -24.3449374, -24.3440582, -24.3433917, -24.3420109, -24.3415159, -24.3408512, -24.3402409, -24.3403062, -24.3404834, -24.3408705, -24.3413033, -24.3417379, -24.3422081, -24.342702, -24.3432897, -24.3443966, -24.3447635, -24.344851)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3543253,
             1,
@@ -4636,12 +4840,15 @@ INSERT INTO climate_mun
 -24.3118842, -24.3111787, -24.3097474, -24.309365, -24.3083618, -24.3078851, -24.3066525, -24.3057168, -24.3049573, -24.3036702, -24.3032938, -24.3005848, -24.2993995, -24.2987687, -24.2974034, -24.2966559, -24.296151, -24.2959603, -24.2955405, -24.2949792, -24.2939826, -24.2934061, -24.2927733, -24.2919495, -24.2913156, -24.2910249, -24.290937, -24.2905743, -24.2905892, -24.2911163, -24.2922851, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3509908,
             2,
             104.362244,
-            25.1, 25.1, 24.3, 22.0, 19.3, 17.9, 17.4, 18.5, 19.8, 21.2, 22.8, 24.1,
+            25.1, 25.1, 24.3, 22, 19.3, 17.9, 17.4, 18.5, 19.8, 21.2, 22.8, 24.1,
             281, 299, 277, 185, 124, 125, 94, 79, 137, 190, 179, 209,
             'list(list(c(-48.0381093, -48.0381943, -48.0382198, -48.0381263, -48.0378118, -48.0377268, -48.0374718, -48.0371488, -48.0368088, -48.0363837, -48.0360862, -48.0358737, -48.0357037, -48.0354912, -48.0354147, -48.0354997, -48.0357547, -48.0360692, -48.0363242, -48.0365198, -48.0368598, -48.0371573, -48.0374973, -48.0377098, -48.0378798, -48.0381093, -25.3573198, -25.3571498, -25.3570308, -25.3568097, -25.3564272, -25.3562402, -25.3559852, -25.3559172, -25.3558577, -25.3559257, -25.3560532, -25.3561807, 
 -25.3564782, -25.3566482, -25.3568182, -25.3570308, -25.3571158, -25.3572178, -25.3574983, -25.3577278, -25.3578553, -25.3579403, -25.3579998, -25.3578553, -25.3576428, -25.3573198)), list(c(-47.9525219, -47.9524881, -47.9528381, -47.9528611, -47.9527465, -47.9529891, -47.9530085, -47.9533435, -47.9540163, -47.9545186, -47.9549415, -47.9552352, -47.9556335, -47.9559136, -47.9561409, -47.9562308, -47.9565168, -47.9569426, -47.9570896, -47.9572581, -47.9575193, -47.9576289, -47.9576122, -47.9574836, 
@@ -4710,12 +4917,15 @@ INSERT INTO climate_mun
 -48.2151662, -48.2127612, -48.212099, -48.2125814, -48.21294, -48.2134029, -48.2151225, -48.2157193, -48.2155624, -48.2152549, -48.2117988, -48.2102781, -48.2086452, -48.2088425, -48.2089422, -48.2094673, -48.2109121, -48.2133882, -48.214943, -48.2161922, -48.2184718, -48.220006, -48.2215239, -48.2253064, -48.2283865, -48.2303583, -48.2315543, -48.2311142, -48.23181'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3520301,
             5,
             60.359596,
-            25.4, 25.4, 24.7, 22.5, 19.9, 18.4, 17.9, 19.0, 20.3, 21.7, 23.2, 24.4,
+            25.4, 25.4, 24.7, 22.5, 19.9, 18.4, 17.9, 19, 20.3, 21.7, 23.2, 24.4,
             265, 258, 245, 157, 123, 97, 76, 78, 118, 165, 132, 199,
             'list(list(c(-47.5731908, -47.5727977, -47.570544, -47.5688018, -47.5678608, -47.5654843, -47.5645704, -47.563766, -47.562222, -47.5610967, -47.560717, -47.5604686, -47.5604439, -47.5609635, -47.5608925, -47.5605814, -47.5600541, -47.5594087, -47.557721, -47.5567068, -47.5561292, -47.5556849, -47.5540906, -47.5516795, -47.5514034, -47.5511694, -47.5510765, -47.5509101, -47.5506588, -47.5496229, -47.5492452, -47.5486378, -47.5483489, -47.5475861, -47.5469754, -47.5459395, -47.545366, -47.5449632, -47.5438109, 
 -47.5431835, -47.5419537, -47.5416042, -47.5409237, -47.538955, -47.5378273, -47.5373743, -47.5355037, -47.5347616, -47.5338284, -47.5307697, -47.5296844, -47.526939, -47.5263702, -47.5237637, -47.522952, -47.5215749, -47.5199099, -47.5187481, -47.5162634, -47.5142536, -47.5135075, -47.5104886, -47.5083951, -47.5075961, -47.5052567, -47.5047318, -47.5044191, -47.5042897, -47.5044286, -47.5061995, -47.5076928, -47.5079484, -47.5079186, -47.5074878, -47.5067973, -47.5057286, -47.5047539, -47.5019045, 
@@ -4784,12 +4994,15 @@ INSERT INTO climate_mun
 -24.3582105, -24.3575427, -24.3573294, -24.357392, -24.3590738, -24.3595413, -24.3599458, -24.3622874, -24.3629254, -24.3639586, -24.3640082, -24.363829, -24.363959, -24.3643787, -24.3642908, -24.3643394, -24.3648657, -24.3658679, -24.3661031, -24.3664051, -24.3664975, -24.3666855, -24.3668195, -24.367012, -24.3672612, -24.3676107, -24.3682298, -24.3712558, -24.3734231, -24.3741721, -24.3749466, -24.3754767, -24.3761071, -24.3764'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
+        (municipalityID, koppenID, elevation,
+         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
+         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
+         geometry)
         VALUES (
             3520426,
             2,
             8.057416,
-            25.6, 25.7, 24.9, 22.7, 20.0, 18.5, 18.0, 19.0, 20.3, 21.8, 23.3, 24.6,
+            25.6, 25.7, 24.9, 22.7, 20, 18.5, 18, 19, 20.3, 21.8, 23.3, 24.6,
             275, 287, 273, 182, 136, 125, 98, 91, 133, 175, 157, 201,
             'list(list(c(-47.5368902, -47.5391552, -47.5414119, -47.5435416, -47.545043, -47.5470661, -47.5480926, -47.5495467, -47.5503585, -47.5521077, -47.5542732, -47.5568003, -47.5595466, -47.5610293, -47.5625953, -47.5660259, -47.5689172, -47.571245, -47.5756032, -47.5768582, -47.5827491, -47.591915, -47.6044187, -47.6230426, -47.6321511, -47.6414793, -47.6532584, -47.6596533, -47.6754464, -47.6852141, -47.6914562, -47.694256, -47.6979527, -47.7158621, -47.731516, -47.7450478, -47.7592863, -47.7685472, 
 -47.7778197, -47.7790657, -47.7897535, -47.790061, -47.7973888, -47.800267, -47.8066067, -47.8094341, -47.8099759, -47.8120906, -47.8218748, -47.83652, -47.8429223, -47.8503679, -47.8544121, -47.8625718, -47.8671447, -47.8717418, -47.8732523, -47.8751377, -47.875858, -47.878368, -47.8804208, -47.8818057, -47.8820621, -47.8830422, -47.8838971, -47.8844411, -47.8847152, -47.8851226, -47.8854236, -47.8857079, -47.8858688, -47.8859655, -47.8860256, -47.8860207, -47.8859934, -47.8859948, -47.8861277, 

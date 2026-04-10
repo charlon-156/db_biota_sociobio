@@ -1,45 +1,11 @@
-###############################################################
-# Dev.: Charlon F. Monteiro
-# project: Banco de Dados Sociobiodiversidade
-# file: insert_species.py
-# description: Generates SQL INSERT statements for the
-#              species table based on dados_biologicos.xlsx
-# Last update: 2026-02-09
-###############################################################
-
-"""
-Descrição detalhada:
-
-1. Origem dos dados:
-   - Planilha: docs/dados_biologicos.xlsx
-   - Aba: Informações sobre as espécies
-
-2. Transformações realizadas:
-   - Escape de campos textuais
-   - Conversão de valores nulos para NULL SQL
-
-3. Estrutura SQL gerada:
-   INSERT INTO species (...)
-
-4. Tratamento de erros:
-   - vernacularName ausente
-"""
-
 import pandas as pd
 from utils.base import SQLGenerator
 
-# ============================================================
 # 1. CARREGAMENTO DOS DADOS
-# ============================================================
-
 file_path = "docs/dados_biologicos.xlsx"
 df = pd.read_excel(file_path, sheet_name="Informações sobre as espécies ")
 
 db = SQLGenerator(df)
-
-# ============================================================
-# 2. FUNÇÕES AUXILIARES
-# ============================================================
 
 def escape_text(value):
     # Escapa aspas simples e retorna None se valor for vazio ou NaN
@@ -50,14 +16,9 @@ def escape_text(value):
         return None
     return value.replace("'", "''")
 
-
-# ============================================================
 # 3. LOOP PRINCIPAL
-# ============================================================
-
 for i, row in df.iterrows():
 
-    # ---------- Campo obrigatório ----------
     vernacular_raw = escape_text(row.get("vernacularName"))
 
     if not vernacular_raw:
@@ -70,7 +31,7 @@ for i, row in df.iterrows():
 
     vernacular = f"'{vernacular_raw}'"
 
-    # ---------- Campos textuais opcionais ----------
+    #Campos textuais 
     family_raw = escape_text(row.get("family"))
     scientific_raw = escape_text(row.get("scientificName"))
     authorship_raw = escape_text(row.get("authorship"))
@@ -108,9 +69,6 @@ for i, row in df.iterrows():
     fruitFenology = f"'{fruit_raw}'" if fruit_raw else "NULL"
     quantitySeed = f"'{quantity_raw}'" if quantity_raw else "NULL"
 
-    # ========================================================
-    # 4. GERAÇÃO DO INSERT
-    # ========================================================
 
     sql = f"""INSERT INTO species (vernacularName, family, scientificName, authorship, threatenedStatusIUCN, threatenedStatusCNCFLORA, origin, endemism, height, successionalStage, functionalGroup, dispersalSyndrome, lifeCycle, foliage, pollinationSyndrome, flowerFenology, fruitFenology, quantitySeed)
         VALUES ({vernacular}, {family}, {scientific}, {authorship}, {threatenedIUCN}, {threatenedCNCFLORA}, {origin}, {endemism}, {height}, {successionalStage}, {functionalGroup}, {dispersalSyndrome}, {lifeCycle}, {foliage}, {pollinationSyndrome}, {flowerFenology}, {fruitFenology}, {quantitySeed});"""

@@ -1,8 +1,5 @@
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3510500,
             2,
@@ -76,10 +73,7 @@ INSERT INTO climate_mun
 -45.3192631, -45.3188208, -45.3185365, -45.3185093, -45.3196194, -45.3199744, -45.3200318, -45.319879, -45.3189421, -45.3185366, -45.3176797, -45.3174884, -45.3172125, -45.3166772, -45.3161106, -45.3155495, -45.3145629, -45.314034, -45.3113167, -45.3098495, -45.3092303, -45.3088276, -45.3086108, -45.30858, -45.3088347, -45.3101178, -45.3104301,'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3520400,
             2,
@@ -153,10 +147,7 @@ INSERT INTO climate_mun
 -45.3975875, -45.3975497, -45.397512, -45.3974481, -45.3973975, -45.3973431, -45.3973217, -45.3973187, -45.3973075, -45.3972757, -45.3972097, -45.3971539, -45.3971267, -45.3970319, -45.396921, -45.3968219, -45.3967677, -45.3967377, -45.3967467, -45.3966474, -45.3965999, -45.3965605, -45.3965351, -45.3964598, -45.3963594, -45.3962589, -45.3961832, -45.3961079, -45.3960453, -45.3959702, '
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3550704,
             2,
@@ -230,10 +221,7 @@ INSERT INTO climate_mun
     -23.7936894, -23.7937119, -23.7936814, -23.7935449, -23.7933888, -23.7932662, -23.7930965, -23.7929381, -23.792863, -23.7927796, -23.7926823, -23.7926185, -23.792499, -23.7924406, -23.7923991, -23.7923298, -23.7922835, -23.7922029, -23.7921252, -23.7919978, -23.7918788, -23.791815, -23.7917538, -23.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3555406,
             2,
@@ -307,10 +295,7 @@ INSERT INTO climate_mun
 -23.5361529, -23.535954, -23.5358966, -23.5357301, -23.5355626, -23.5354369, -23.5353096, -23.5352756, -23.5353483, -23.5352384, -23.5351104, -23.5349857, -23.5348402, -23.5346031, -23.5344084, -23.5341927, -23.5340012, -23.5337043, -23.533531, -23.533357, -23.5332052, -23.5329874, -23.5326444, -23.5323745, -23.5320472, -23.5318047, -23.5315358, -23.5312833, -23.5309808'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3502507,
             4,
@@ -351,10 +336,7 @@ INSERT INTO climate_mun
 -22.8195666, -22.8218576, -22.8220156, -22.8230306, -22.8231495, -22.823785, -22.8249374, -22.8264054, -22.8285792, -22.8287951, -22.8288218, -22.8288906, -22.8290338, -22.8291604, -22.8292635, -22.8292911, -22.8294453, -22.8295036, -22.8299097, -22.8301064, -22.8302506, -22.8304392, -22.8310505, -22.8312972)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3503158,
             4,
@@ -428,10 +410,7 @@ INSERT INTO climate_mun
 -22.590042, -22.590164, -22.5902861, -22.5903696, -22.5904403, -22.5903824, -22.5904338, -22.5905109, -22.5906137, -22.5907358, -22.5908514, -22.5909606, -22.5910495, -22.5911019, -22.5911019, -22.5911359, -22.5912111, -22.5913266, -22.5914231, -22.5915259, -22.5916415, -22.5917618, -22.591892, -22.5919884, -22.5920141, -22.591982, -22.5918471, -22.5917058, -22.5916801, -22.5917168, -22.5918342, -22.5920398, -22.5922113, -22.5'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3503505,
             4,
@@ -505,10 +484,7 @@ INSERT INTO climate_mun
 -22.8298014, -22.8293229, -22.8291386, -22.8288875, -22.8284884, -22.8280408, -22.8275173, -22.8269716, -22.8264224, -22.8261369, -22.8255454, -22.8252383, -22.8249933, -22.8246144, -22.823517, -22.8214439, -22.820958, -22.8203215, -22.8200829, -22.819747, -22.8193047, -22.8190566, -22.8186711, -22.8184017, -22.8170376, -22.8167722, -22.8166462, -22.8164482, -22.8159906, -22.8153451, -22.8142523, -22.8138254, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3504909,
             1,
@@ -582,10 +558,7 @@ INSERT INTO climate_mun
 -22.8838233, -22.883442, -22.8830206, -22.8816697, -22.8809967, -22.8805031, -22.8797628, -22.879232, -22.8792071, -22.8791835, -22.8791262, -22.8789552, -22.8781925, -22.8770483, -22.8765997, -22.876151, -22.8758594, -22.8750069, -22.8745806, -22.874286, -22.873616, -22.8725435, -22.8711034, -22.8700691, -22.8693311, -22.8687796, -22.8683889, -22.8678008, -22.8671999, -22.8668859, -22.8667961, -22.8667732, -22.8668101, -22.8668269, -'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3508504,
             2,
@@ -650,10 +623,7 @@ INSERT INTO climate_mun
 -23.237949, -23.237708, -23.237237, -23.237194, -23.236839, -23.236462, -23.236115, -23.234869, -23.234571, -23.234268, -23.23314, -23.232914, -23.232719, -23.232341, -23.23214, -23.23188, -23.231417, -23.231301, -23.231034, -23.23088, -23.230705, -23.23051, -23.230456, -23.23039, -23.230151, -23.229944, -23.229529, -23.229166, -23.228964, -23.228357, -23.228132, -23.227662, -23.227299, -23.227057, -23.226819, -23.226248, -23.225995, -23.225154, -23.224693, -23.224346, -23.223668, -23.2233462)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3508603,
             4,
@@ -727,10 +697,7 @@ INSERT INTO climate_mun
 -22.8249648, -22.8250995, -22.8254953, -22.8258396, -22.8265629, -22.8274658, -22.8277026, -22.8279243, -22.8283601, -22.8285632, -22.8293355, -22.8296527, -22.8299071, -22.8300247, -22.8307264, -22.831029, -22.8314831, -22.8321089, -22.8327788, -22.8338045, -22.8347014, -22.8350468, -22.836887, -22.8380894, -22.8389301, -22.8394332, -22.8396908, -22.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3509700,
             1,
@@ -792,10 +759,7 @@ INSERT INTO climate_mun
 -22.7441683, -22.7443564, -22.7444124, -22.7444996, -22.7446147, -22.7452349, -22.7455479, -22.7456063, -22.7459427, -22.7462929, -22.7468189, -22.7477504, -22.7479815, -22.7485057, -22.7487242, -22.7487672, -22.748839, -22.7486339, -22.7485433, -22.748718)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3509957,
             4,
@@ -830,10 +794,7 @@ INSERT INTO climate_mun
 -22.7411035, -22.7386002, -22.7383695, -22.7381965, -22.7379747, -22.7375406, -22.7360182, -22.7349411, -22.7346384, -22.7344819, -22.7342281, -22.7340311, -22.7333938, -22.7330634, -22.731679, -22.7300184, -22.7289021, -22.7287708)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3513405,
             4,
@@ -884,10 +845,7 @@ INSERT INTO climate_mun
 -22.6431801, -22.6428649, -22.6427883, -22.6428911, -22.6432958, -22.6432592, -22.6433353, -22.6436071, -22.6436141, -22.6434043, -22.6428552, -22.642638, -22.642691, -22.6424475, -22.6418768, -22.6409643, -22.6406707, -22.6406002, -22.6406454, -22.6400139, -22.639837, -22.6398002, -22.6396779)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3513603,
             1,
@@ -961,10 +919,7 @@ INSERT INTO climate_mun
 -44.7838454, -44.7818771, -44.7812421, -44.7806563, -44.7795021, -44.7787507, -44.778225, -44.7767798, -44.7745263, -44.7737262, -44.7723177, -44.771312, -44.7708124, -44.7704261, -44.770427, -44.7711793, -44.7729259, -44.7737034, -44.7764596, -44.777956, -44.7788212, -44.7796444, -44.7800718, -44.7801734, -44.7804896, -44.7805384, -44.7801736, -44.7800247, -44.7800675, -44.7796469, -44.7796184, -44.7792687, -44.778623, -44.7776'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3518404,
             4,
@@ -1038,10 +993,7 @@ INSERT INTO climate_mun
 -22.6315535, -22.6315672, -22.6319216, -22.6326733, -22.6329942, -22.6331547, -22.6332494, -22.634173, -22.6350682, -22.6353886, -22.6357655, -22.6358537, -22.6360266, -22.6365569, -22.6370131, -22.6370085, -22.6373519, -22.6388085, -22.6389723, -22.6390951, -22.6391669, -22.639126, -22.6385562, -22.6385971, -22.6393625, -22.639476, -22.6395185, -22.6396102, -22.6398869, -22.640873, -22.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3520202,
             1,
@@ -1115,10 +1067,7 @@ INSERT INTO climate_mun
 -23.187763, -23.187617, -23.187496, -23.187289, -23.187143, -23.187057, -23.186957, -23.186856, -23.186769, -23.186718, -23.186645, -23.186472, -23.186386, -23.186263, -23.186069, -23.185874, -23.185775, -23.18575, -23.185699, -23.185697, -23.185745, -23.185827, -23'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3524402,
             2,
@@ -1192,10 +1141,7 @@ INSERT INTO climate_mun
 -45.991354, -45.991064, -45.990168, -45.989706, -45.989259, -45.98842, -45.987412, -45.986731, -45.985831, -45.984951, -45.984482, -45.984076, -45.983096, -45.982878, -45.982644, -45.98183, -45.98166, -45.981476, -45.981224, -45.9812092, -45.981214, -45.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3524907,
             1,
@@ -1255,10 +1201,7 @@ INSERT INTO climate_mun
 -23.244854, -23.244468, -23.244132, -23.243627, -23.243094, -23.242277, -23.241426, -23.240339, -23.239725, -23.239022, -23.23865, -23.238543, -23.238677, -23.2388557)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3526308,
             3,
@@ -1319,10 +1262,7 @@ INSERT INTO climate_mun
 -23.1469734, -23.1463908, -23.1455541, -23.145176, -23.1445787, -23.1441166, -23.1429596, -23.1417326, -23.1409754, -23.1405983, -23.1401689, -23.13953, -23.1385308, -23.1378793, -23.1376791, -23.1368915, -23.1362068, -23.1350634, -23.1350137, -23.1346501, -23.1340099, -23.1312071, -23.1304393, -23.128364, -23.1274306, -23.1260231)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3526605,
             4,
@@ -1368,10 +1308,7 @@ INSERT INTO climate_mun
 -22.5764695, -22.5762241, -22.5751373, -22.5743218, -22.573596, -22.5727543, -22.572305, -22.5708443, -22.5708068, -22.5704708, -22.5702083, -22.5700013, -22.5690154, -22.5689558, -22.5686997, -22.5685986, -22.5686691, -22.5691301, -22.5691084, -22.5689674, -22.5688249, -22.5688022)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3527207,
             4,
@@ -1445,10 +1382,7 @@ INSERT INTO climate_mun
 -22.8874499, -22.8881194, -22.8885858, -22.8886617, -22.8888437, -22.8891934, -22.8893444, -22.8896376, -22.890232, -22.8903949, -22.8903725, -22.8900912, -22.8902413, -22.8902395, -22.890477, -22.8908263, -22.8912381, -22.8913393, -22.8912598, -22.8909552, -22.8909279, -22.8910626, -22.8913397, -22.8911918, -22.8907574, -22.8907067, -22.8909351, -22.8911992, -22.8918275, -22.89186'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3531704,
             1,
@@ -1522,10 +1456,7 @@ INSERT INTO climate_mun
 -22.9637071, -22.9640404, -22.9642253, -22.9649297, -22.9655193, -22.9663344, -22.9673692, -22.9679556, -22.9686337, -22.9688154, -22.9694458, -22.9696793, -22.9695977, -22.9696542, -22.9702957, -22.971807, -22.9722973, -22.9725109, -22.9725746, -22.9729287)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3532306,
             1,
@@ -1599,10 +1530,7 @@ INSERT INTO climate_mun
 -23.3608918, -23.3600519, -23.3589832, -23.3584706, -23.3573052, -23.3568071, -23.3560434, -23.3552255, -23.3538334, -23.3536058, -23.3517591, -23.3513684, -23.3510396, -23.3493365, -23.3487218, -23.3481686, -23.3476718, -23.3471235, -23.3464779, -23.3453659, -23.3449903, -23.3444661, -23.3433662, -23.3428164, -23.3425339, -23.342348, -23.3421139, -23.3420034, -23.3422186, -23.342538, -23.3432686, -23.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3535606,
             1,
@@ -1676,10 +1604,7 @@ INSERT INTO climate_mun
 -23.2926584, -23.2939519, -23.2950245, -23.2953749, -23.295567, -23.2957357, -23.2958098, -23.2959302, -23.2968023, -23.2968859, -23.2968248, -23.2969057, -23.2973545, -23.297788, -23.2984433, -23.2994892, -23.2996083, -23.2998591, -23.3098358, -23.3109795, -23.3109996, -23.3118096, -23.3118294, -23.3118588, -23.3118832, -23.3119001, -23.3251797, -23.3243489, -23.3229773, -23.3226734, -23.322851, -23.3230846, -23.3240258, -23.3248141, '
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3538006,
             4,
@@ -1753,10 +1678,7 @@ INSERT INTO climate_mun
 -45.4533984, -45.4531992, -45.4530228, -45.4527867, -45.4525618, -45.4517452, -45.4507271, -45.4499044, -45.4491017, -45.4486158, -45.4484137, -45.4480011, -45.4475813, -45.4474709, -45.4474029, -45.447352, -45.4473257, -45.4473082, -45.4473616, -45.4478506, -45.4480634, -45.4480237, -45.4478459, -45.4474749, -45.4472132, -45.4469376, -45.4465517, -45.4462143, -45'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3538501,
             3,
@@ -1800,10 +1722,7 @@ INSERT INTO climate_mun
 -22.6068449, -22.6072705, -22.6075187, -22.6078982, -22.6080823, -22.608589, -22.6093467)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3540754,
             4,
@@ -1865,10 +1784,7 @@ INSERT INTO climate_mun
 -22.8196131, -22.8193584, -22.8195125, -22.8196665, -22.8197333, -22.8198989, -22.8205909, -22.8216987, -22.8223446, -22.8225162, -22.8225672, -22.823182, -22.8232876, -22.823348, -22.8243058, -22.8416716, -22.842032, -22.8424066, -22.8428581, -22.8435209, -22.8442702, -22.8444352)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3541901,
             4,
@@ -1942,10 +1858,7 @@ INSERT INTO climate_mun
 -22.4922923, -22.4925011, -22.4925228, -22.4927715, -22.4928351, -22.4928319, -22.4927914, -22.4927195, -22.4926488, -22.4925235, -22.4924497, -22.4924208, -22.4924465, -22.4925043, -22.4925268, -22.4924914, -22.4924143, -22.4924015, -22.4923951, -22.4924015, -22.4924272, -22.4924818, -22.4925589, -22.4927066, -22.4928993, -22.4929921, -22.4930567, -22.4931226, -22.4931884, -22.493288, -22.4933554, -22.4933494, -22.4933394, -22.4933452, -22.4933457, -22.4933458, -22.493'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3542305,
             3,
@@ -2015,10 +1928,7 @@ INSERT INTO climate_mun
 -23.2243834, -23.2239906, -23.224598, -23.2245944, -23.223791, -23.2233071, -23.2231701, -23.2230236, -23.2225036, -23.221164, -23.2206347)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3544301,
             4,
@@ -2092,10 +2002,7 @@ INSERT INTO climate_mun
 -23.0223801, -23.0220623, -23.0216301, -23.0214231, -23.0212642, -23.0212016, -23.0211438, -23.0210764, -23.020956, -23.0209126, -23.0208115, -23.0207441, -23.0207008, -23.0206285, -23.020513, -23.0204215, -23.0203444, -23.0201807, -23.0200844, -23.0200074, -23.0199279, -23.0198461, -23.0198123, -23.0198123, -23.0198461, -23.0198316, -23.0197883, -23.0196727, -23.01956'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3546009,
             1,
@@ -2165,10 +2072,7 @@ INSERT INTO climate_mun
 -23.368229, -23.36887, -23.369464, -23.3697292, -23.371054, -23.37162, -23.371899, -23.372596, -23.373072, -23.373089, -23.373357, -23.3735367, -23.373539, -23.373594, -23.373576, -23.373632, -23.3736541, -23.373724, -23.373758)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3548203,
             3,
@@ -2201,10 +2105,7 @@ INSERT INTO climate_mun
 -22.7869884, -22.786773, -22.7863771, -22.7861878, -22.7864622, -22.7865437, -22.7875849, -22.7880539, -22.7886848, -22.7894184, -22.7905388, -22.790648, -22.7906111, -22.7909301, -22.790961, -22.7912693, -22.7913771, -22.7908186, -22.79059, -22.7906311, -22.7903499, -22.7903049, -22.7906107, -22.7906251, -22.7905402, -22.7897527, -22.7896585, -22.7898983, -22.7906037, -22.7908147, -22.7909008, -22.7908905, -22.7907532, -22.7906066)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3548609,
             3,
@@ -2240,10 +2141,7 @@ INSERT INTO climate_mun
 -22.7326862, -22.7292485, -22.727202, -22.7264803)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3549607,
             1,
@@ -2317,10 +2215,7 @@ INSERT INTO climate_mun
 -44.5549064, -44.5547967, -44.5546435, -22.6096687, -22.6091719, -22.6083772, -22.6078959, -22.6074788, -22.6070651, -22.6066632, -22.6062492, -22.6058476, -22.6056112, -22.6053984, -22.6052447, -22.6050201, -22.6048428, -22.6044705, -22.6043354, -22.6040745, -22.6038262, -22.6037612, -22.6038144, -22.6040154, -22.6042931, -22.6045946, -22.6049244, -22.6051974, -22.6054338, -22.6056052, -22.6057648, -22.6059717, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3549904,
             2,
@@ -2394,10 +2289,7 @@ INSERT INTO climate_mun
 -45.913165, -45.912943, -45.912667, -45.912302, -45.912056, -45.911829, -45.911434, -45.910748, -45.910322, -45.909708, -45.909067, -45.908718, -45.907762, -45.907204, -45.905606, -45.905214, -45.904844, -45.904626, -45.90459, -45.904777, -45.90485, -45.904915, -45.904927, -45.904802, -45.904673, -45.90468'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3550001,
             1,
@@ -2471,10 +2363,7 @@ INSERT INTO climate_mun
 -23.3144353, -23.3147129, -23.3161167, -23.3164061, -23.3167571, -23.3170844, -23.3176078, -23.3184897, -23.3190827, -23.319409, -23.3196288, -23.3195576, -23.3196147, -23.3199681, -23.320197, -23.3219083, -23.3234828, -23.3237129, -23.3239188, -23.3238732, -23.323179, -23.3228538, -23.3219818, -23.3217938, -23.321664, -23.3214792, -23.3210768, -23.3208494, -23.3205474, -23.3199587, -23.3192796, -23.3187735, -23.318537, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3552007,
             3,
@@ -2548,10 +2437,7 @@ INSERT INTO climate_mun
 -22.7229975, -22.722282, -22.7215043, -22.7211904, -22.7205246, -22.7202947, -22.7199785, -22.7197007, -22.7194622, -22.7192962, -22.719116, -22.7188579, -22.7184604, -22.7179947, -22.7174496, -22.7167638, -22.7162923, -22.7160579, -22.7158209, -22.7153091, -22.7135649, -22.7127649, -22.7120828, -22.7114879, -22.7108979, -22.7105772, -22.7099076, -22.7091252, -22.708614'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3554102,
             4,
@@ -2625,10 +2511,7 @@ INSERT INTO climate_mun
 -23.047674, -23.0472469, -23.0461006, -23.0454128, -23.0440092, -23.0435819, -23.0424297, -23.0410695, -23.0404275, -23.0399351, -23.0389196, -23.0386928, -23.0385752, -23.0386253, -23.0383395, -23.0378126, -23.0365238, -23.0353656, -23.0350048, -23.0342374, -23.0339727, -23.0337894, -23.0337369, -23.0342616, -23.0345976, -23.035021, -23.0357552, -23.0359288, -23.0361101, -23.0360694, -23.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3554805,
             2,
@@ -2687,10 +2570,7 @@ INSERT INTO climate_mun
 -22.9086501, -22.9089586, -22.9092684, -22.9102854, -22.9110127, -22.9133764, -22.9152343, -22.9166417, -22.9178367, -22.9183505, -22.9186649, -22.919271, -22.919881, -22.9203247, -22.9205008, -22.9207588, -22.9209222, -22.9221406, -22.9226228, -22.9227541, -22.9225862, -22.9225638, -22.9225913, -22.9226189, -22.9229163)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3518305,
             2,
@@ -2764,10 +2644,7 @@ INSERT INTO climate_mun
 -23.3409325, -23.3406327, -23.3403208, -23.3401367, -23.3399706, -23.3398314, -23.3397641, -23.3397821, -23.3397192, -23.3397013, -23.3396845, -23.3396698, -23.3396833, -23.3396519, -23.3395576, -23.339378, -23.339167, -23.3389965, -23.3388932, -23.3387855, -23.3387496, -23'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3525508,
             1,
@@ -2841,10 +2718,7 @@ INSERT INTO climate_mun
 -23.004196, -23.004147, -23.004117, -23.004139, -23.004186, -23.004265, -23.004221, -23.004139, -23.003817, -23.003567, -23.003347, -23.003231, -23.003195, -23.003121, -23.003081, -23.003001, -23.002875, -23.00272, -23.002035, -23.001706, -23.001543, -23.001352, -23.001151, -23.001057'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3532405,
             1,
@@ -2918,10 +2792,7 @@ INSERT INTO climate_mun
 -46.2556798, -46.2556842, -46.2559592, -46.2560852, -46.2562043, -46.2564915, -46.256893, -46.2587412, -46.2597845, -46.259982, -46.260089, -46.2602182, -46.26079, -46.260963, -46.261116, -46.261313, -46.261363, -46.261423, -46.261502, -46.261513, -46.261533, -46.261511, -46.261422, -46.261392, -46.26131, -46.2611'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3538600,
             1,
@@ -2995,10 +2866,7 @@ INSERT INTO climate_mun
 -46.38666, -46.38584, -46.385546, -46.385131, -46.384309, -46.383754, -46.383023, -46.382666, -46.381601, -46.381123, -46.380602, -46.380027, -46.37954, -46.378498, -46.378097, -46.377708, -46.376978, -46.3765, -46.375611, -46.37494, -46.37425, -46.3'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3545001,
             1,
@@ -3072,10 +2940,7 @@ INSERT INTO climate_mun
 -23.609663, -23.6098078, -23.6100054, -23.6102868, -23.6105263, -23.6111743, -23.6128318, -23.6135264, -23.614184, -23.6148619, -23.6155266, -23.616059, -23.6174834, -23.6179847, -23.6186651, -23.6195634, -23.6199967, -23.6200694, -23.6201945, -23.6222041, -23.6227571, -23.6233273, -23.6239677, -23.6250323, -23.6271'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3546801,
             1,
@@ -3149,10 +3014,7 @@ INSERT INTO climate_mun
 -46.157348, -46.15734, -46.157339, -46.157351, -46.157397, -46.157608, -46.157874, -46.158097, -46.158169, -46.15818, -46.158154, -46.158016, -46.157775, -46.156991, -46.156646, -46.156306, -46.156112, -46.155984, -46.155963, -46.155973, -46.155956, -46.156007, -46.156224, -46.156638, -46.156852, -46.156941, -46.156997, -46.157009, -46.15698'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3502705,
             1,
@@ -3226,10 +3088,7 @@ INSERT INTO climate_mun
 -24.5530808, -24.5542351, -24.556485, -24.5560792, -24.5560322, -24.556427, -24.5564217, -24.556063, -24.5559644, -24.5559293, -24.5558336, -24.5542432, -24.5539448, -24.553837, -24.5540895, -24.5541946, -24.5537977, -24.5533473, -24.552091, -24.5517492, -24.5505602, -24.5496968, -24.5487374, -24.5482647, -24.5481274, -24.548125, -24.546335, -24.5455572, -'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3505351,
             1,
@@ -3298,10 +3157,7 @@ INSERT INTO climate_mun
 -24.4061447, -24.4067526, -24.4067873, -24.4066105, -24.406707, -24.4065273, -24.4065748, -24.4071338, -24.4082665, -24.408628, -24.4086362, -24.408717, -24.4090293, -24.4095011, -24.4101619, -24.4103179, -24.4107258, -24.4115822, -24.413089, -24.4137966, -24.4142469, -24.4147514, -24.415501, -24.4158873, -24.4160595, -24.4168549, -24.4169573)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3505401,
             1,
@@ -3375,10 +3231,7 @@ INSERT INTO climate_mun
 -24.720746, -24.7192428, -24.7188693, -24.7183941, -24.7166703, -24.7163316, -24.7153545, -24.7147873, -24.7137839, -24.7127585, -24.7117775, -24.7105585, -24.7079637, -24.7065744, -24.7062129, -24.7055783, -24.7048132, -24.7037136, -24.7028452, -24.7022433, -24.7019279, -24.7014399, -24.7006657, -24.7002998, -24.699579, -24.6989298, -24.6984071, -24.698138, -24.6978471, -24.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3509254,
             2,
@@ -3452,10 +3305,7 @@ INSERT INTO climate_mun
 -24.8420038, -24.8449485, -24.8453259, -24.845426, -24.8452677, -24.8454389, -24.8461327, -24.8471611, -24.8474047, -24.8476189, -24.8477892, -24.8478728, -24.8483507, -24.8484873, -24.8492091, -24.8502893, -24.8511995, -24.8512111, -24.8523682, -24.8555057, -24.8559329, -24.8575179, -24.8583301, -24.8590336, -24.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3514809,
             2,
@@ -3529,10 +3379,7 @@ INSERT INTO climate_mun
 -48.1075246, -48.1072175, -48.1065432, -48.1048088, -48.1028243, -48.1016513, -48.100541, -48.0995469, -48.0989739, -48.0984937, -48.0982253, -48.0980718, -48.0983975, -48.0983142, -48.097032, -48.0965591, -48.0954369, -48.09476, -48.0942225, -48.0929048, -48.0923451, -48.0921117, -48.0919934, -48.0919937, -48.0921865, -48.092164, -48.0918547, -48.0910795, -48.0901945, -48.0897284, -48.0897708, -48.089459, -4'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3521200,
             2,
@@ -3606,10 +3453,7 @@ INSERT INTO climate_mun
 -24.6865609, -24.6890979, -24.6907227, -24.6925376, -24.6938522, -24.694036, -24.693354, -24.6909885, -24.6895139, -24.6884736, -24.685315, -24.6816904, -24.6803755, -24.6803821, -24.6829592, -24.6835942, -24.6826874, -24.6826903, -24.6832888, -24.6830148, -24.6842822, -24.6848167, -24.6855125, -24.6864411, -24.6870117, -24.6865119, -24.6844817, -24.6850678, -24.6861112, -24.686493, -24.686925, -24.687'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3522158,
             2,
@@ -3649,10 +3493,7 @@ INSERT INTO climate_mun
 -24.5789356, -24.5791908, -24.5794234, -24.5802122, -24.5815776, -24.5835144, -24.5845843, -24.584851, -24.5853111, -24.5860498, -24.5862895, -24.5865739, -24.5866785, -24.5867074, -24.5865574, -24.5865523, -24.5866344, -24.5869109, -24.5878522, -24.589493, -24.5897458, -24.5906687, -24.5907262, -24.5899505, -24.5895684, -24.5894004)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3522653,
             2,
@@ -3714,10 +3555,7 @@ INSERT INTO climate_mun
 -24.4639547, -24.4655676, -24.4659921, -24.4663721, -24.4670507, -24.4672627, -24.4696111, -24.4719767, -24.4723774, -24.473127)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3523305,
             2,
@@ -3791,10 +3629,7 @@ INSERT INTO climate_mun
 -24.210488, -24.210803, -24.211039, -24.211136, -24.21117, -24.211166, -24.211111, -24.211054, -24.211101, -24.211139, -24.211345, -24.21145, -24.211679, -24.21188, -24.211981, -24.212099, -24.212454, -24.212641, -24.212769, -24.213178, -24.213611, -24.213954, -24.21407, -24.214098, -24.214094, -24.21'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3524600,
             2,
@@ -3868,10 +3703,7 @@ INSERT INTO climate_mun
 -24.9631495, -24.963794, -24.9647911, -24.9663145, -24.9662064, -24.9658646, -24.9637515, -24.9623818, -24.9612989, -24.9597415, -24.9592359, -24.9590577, -24.9584028, -24.9580032, -24.9584539, -24.9580137, -24.9566595, -24.9560099, -24.9575589, -24.9584865, -24.9577934, -24.9557325, -24.9552204, -24.9545033, -24.9542266, -24.9538734, -24.9531372, -24.9534664, -24.'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3526100,
             2,
@@ -3945,10 +3777,7 @@ INSERT INTO climate_mun
 -24.3260431, -24.3261491, -24.3261915, -24.3262071, -24.3262424, -24.3262255, -24.3262467, -24.3263018, -24.3263697, -24.3263909, -24.3264758, -24.3265479, -24.3266037, -24.3265971, -24.3267777, -24.3268099, -24.3272567, -24.3278249, -24.3281141, -24.3282485, -24.3284736, -24.3289817, -24.329512, -24.33097, -24.3321577, -24.3324155, -24.332'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3526209,
             1,
@@ -4022,10 +3851,7 @@ INSERT INTO climate_mun
 -23.892498, -23.8914976, -23.8911978, -23.8910662, -23.8910177, -23.8911462, -23.8910964, -23.890981, -23.8908235, -23.890536, -23.8900896, -23.8898013, -23.889627, -23.8895614, -23.8897443, -23.8901368, -23.8901549, -23.8902772, -23.8907103, -23.8908347, -23.890647, -23.8899273, -23.8898021, -23.8898054, -23.8894811, -23.8894574, -23.8892915, -23.8889289, -23.8886'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3529906,
             2,
@@ -4099,10 +3925,7 @@ INSERT INTO climate_mun
 -24.3887335, -24.3888069, -24.388405, -24.3882392, -24.388041, -24.3864108, -24.3852038, -24.3844675, -24.3839146, -24.3839157, -24.3843596, -24.3843276, -24.3841334, -24.3841322, -24.382781, -24.3826148, -24.3826755, -24.3825407, -24.3823201, -24.3814415, -24.3807871, -24.3797578, -24.379413, -24.3791633, -24.3782926, -24.3773862, -24.37705, -24.3768881, -24.3762083, -24'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3536208,
             2,
@@ -4172,10 +3995,7 @@ INSERT INTO climate_mun
 -24.7869609, -24.7873349, -24.7873771, -24.7875183, -24.7876066)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3537206,
             2,
@@ -4249,10 +4069,7 @@ INSERT INTO climate_mun
 -24.1591259, -24.1580312, -24.1568942, -24.1560024, -24.1552363, -24.154221, -24.1535565, -24.1520282, -24.1516108, -24.1500287, -24.1485907, -24.1483532, -24.1481364, -24.1479712, -24.1478201, -24.147058, -24.1472328, -24.1471613, -24.1469409, -24.1469454, -24.1474972, -24.147191, -24.1472337, -24.1473885, -24.1475769, -24.1485007, -24.1491694, -24.1493466, -24.1493191, '
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3542602,
             5,
@@ -4326,10 +4143,7 @@ INSERT INTO climate_mun
 -24.6359732, -24.6368174, -24.6370786, -24.6372261, -24.6371113, -24.6372559, -24.6383192, -24.6384385, -24.6382298, -24.6377192, -24.6362949, -24.6362923, -24.6358719, -24.6354069, -24.6350928, -24.634922, -24.6344556, -24.6337183, -24.6329313, -24.63274, -24.6320349, -24.6314952, -24.6310614, -24.6298775, -24.6294959, -24.6287213, -24.6280024, -24.6277'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3542800,
             2,
@@ -4386,10 +4200,7 @@ INSERT INTO climate_mun
 )))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3549953,
             1,
@@ -4461,10 +4272,7 @@ INSERT INTO climate_mun
 -23.9129855, -23.9122327, -23.9117, -23.9111673, -23.9107701, -23.9105851, -23.910038, -23.9097331, -23.9090101, -23.9086341, -23.9083872, -23.9073967, -23.9069205, -23.9060074, -23.905404, -23.9048005, -23.9045718, -23.9039035, -23.9030144, -23.9021252, -23.9015341)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3551801,
             2,
@@ -4538,10 +4346,7 @@ INSERT INTO climate_mun
 -24.4742016, -24.4743048, -24.4742993, -24.4742914, -24.474142, -24.4735197, -24.473129, -24.4730674, -24.4731174, -24.4734607, -24.4735872, -24.4742372, -24.4746748, -24.4754523, -24.4761459, -24.4783755, -24.4792469, -24.4808035, -24.4812082, -24.4815823, -24.4819255, -24.4822496, -24.4825254, -24.4824619, -24.4821838, -24.4811635, -24.4802407, -24.4799846, -24.4798793, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3553500,
             2,
@@ -4615,10 +4420,7 @@ INSERT INTO climate_mun
 -23.9131102, -23.9139934, -23.9145061, -23.9150729, -23.9176223, -23.9181323, -23.9194361, -23.9200161, -23.9212163, -23.9225832, -23.9232478, -23.9238552, -23.9254188, -23.925846, -23.9271701, -23.9275593, -23.9297851, -23.9308974, -23.931733, -23.9339835, -23.9343503, -23.9360856, -23.9369089, -23.9382021, -23.9387515, -23.9392252, -23.9395986, -23'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3517604,
             1,
@@ -4692,10 +4494,7 @@ INSERT INTO climate_mun
 -24.1027762, -24.1031565, -24.1032245, -24.1031569, -24.1032694, -24.1035854, -24.1041143, -24.1044297, -24.1052168, -24.1057167, -24.1058789, -24.1060446, -24.1060506, -24.1054496, -24.1054048, -24.105531, -24.1066393, -24.1071797, -24.1080019, -24.1082992, -24.1082799, -24.1083506, -24.1085059, -24.1090813, -24.110568, -24.111549, -24.112104, -24.1137413, -24.114269, -24.114791, -'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3543006,
             1,
@@ -4763,10 +4562,7 @@ INSERT INTO climate_mun
 -24.3453268, -24.3450166, -24.3457379, -24.3458867, -24.3467735, -24.3479369, -24.3486297, -24.349163, -24.3495839, -24.349643, -24.3491511, -24.3489564, -24.3486281, -24.348001, -24.3474265, -24.3471606, -24.3466997, -24.3462805, -24.3457451, -24.3449374, -24.3440582, -24.3433917, -24.3420109, -24.3415159, -24.3408512, -24.3402409, -24.3403062, -24.3404834, -24.3408705, -24.3413033, -24.3417379, -24.3422081, -24.342702, -24.3432897, -24.3443966, -24.3447635, -24.344851)))'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3543253,
             1,
@@ -4840,10 +4636,7 @@ INSERT INTO climate_mun
 -24.3118842, -24.3111787, -24.3097474, -24.309365, -24.3083618, -24.3078851, -24.3066525, -24.3057168, -24.3049573, -24.3036702, -24.3032938, -24.3005848, -24.2993995, -24.2987687, -24.2974034, -24.2966559, -24.296151, -24.2959603, -24.2955405, -24.2949792, -24.2939826, -24.2934061, -24.2927733, -24.2919495, -24.2913156, -24.2910249, -24.290937, -24.2905743, -24.2905892, -24.2911163, -24.2922851, -2'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3509908,
             2,
@@ -4917,10 +4710,7 @@ INSERT INTO climate_mun
 -48.2151662, -48.2127612, -48.212099, -48.2125814, -48.21294, -48.2134029, -48.2151225, -48.2157193, -48.2155624, -48.2152549, -48.2117988, -48.2102781, -48.2086452, -48.2088425, -48.2089422, -48.2094673, -48.2109121, -48.2133882, -48.214943, -48.2161922, -48.2184718, -48.220006, -48.2215239, -48.2253064, -48.2283865, -48.2303583, -48.2315543, -48.2311142, -48.23181'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3520301,
             5,
@@ -4994,10 +4784,7 @@ INSERT INTO climate_mun
 -24.3582105, -24.3575427, -24.3573294, -24.357392, -24.3590738, -24.3595413, -24.3599458, -24.3622874, -24.3629254, -24.3639586, -24.3640082, -24.363829, -24.363959, -24.3643787, -24.3642908, -24.3643394, -24.3648657, -24.3658679, -24.3661031, -24.3664051, -24.3664975, -24.3666855, -24.3668195, -24.367012, -24.3672612, -24.3676107, -24.3682298, -24.3712558, -24.3734231, -24.3741721, -24.3749466, -24.3754767, -24.3761071, -24.3764'
         );
 INSERT INTO climate_mun
-        (municipalityID, koppenID, elevation,
-         measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec,
-         measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec,
-         geometry)
+        (municipalityID, koppenID, elevation, measurementOrFact_T_jan, measurementOrFact_T_feb, measurementOrFact_T_mar, measurementOrFact_T_apr, measurementOrFact_T_may, measurementOrFact_T_jun, measurementOrFact_T_jul, measurementOrFact_T_aug, measurementOrFact_T_sep, measurementOrFact_T_oct, measurementOrFact_T_nov, measurementOrFact_T_dec, measurementOrFact_R_jan, measurementOrFact_R_feb, measurementOrFact_R_mar, measurementOrFact_R_apr, measurementOrFact_R_may, measurementOrFact_R_jun, measurementOrFact_R_jul, measurementOrFact_R_aug, measurementOrFact_R_sep, measurementOrFact_R_oct, measurementOrFact_R_nov, measurementOrFact_R_dec, geometry)
         VALUES (
             3520426,
             2,

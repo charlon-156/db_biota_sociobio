@@ -18,8 +18,6 @@ n_map_status = normalize_map(map_statusLaw)
 # LOOP
 for i, row in df.iterrows():
 
-   
-
     title = db.text(row.get("title"))
     description = db.text(row.get("description"))
     fonte = db.text(row.get("bibliographicCitation"))

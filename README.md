@@ -55,6 +55,7 @@ a geração dos `INSERT INTO` a partir de planilhas Excel localizadas em `docs/`
 - **base.py** → Classe `SQLGenerator` para auxiliar na criação de comandos SQL,
   garantindo consistência de valores nulos, textos e números.
 - **maps.py** → Dicionários de mapeamento para conversão de nomes em códigos (ex.: municípios, tipos de políticas, classificações climáticas).
+- **helpers.py** → 
 
 Esses módulos são usados pelos scripts de geração (ex.: `insert_municipality.py`).
 

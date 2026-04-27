@@ -35,7 +35,7 @@ CREATE TABLE legislativeStatus (
 
 CREATE TABLE typologies (
     typologyID TINYINT AUTO_INCREMENT PRIMARY KEY,
-    typology VARCHAR(40)
+    typology VARCHAR(50)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- -------------------------------------------------------------------
@@ -248,7 +248,7 @@ CREATE TABLE species (
     lifeCycle VARCHAR(40),
     foliage VARCHAR(40),
     pollinationSyndrome VARCHAR(40),
-    flowerFenology VARCHAR(20),
+    flowerFenology VARCHAR(50),
     fruitFenology VARCHAR(20),
     quantitySeed VARCHAR(20)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

@@ -54,6 +54,44 @@ for i, row in df_conn.iterrows():
 
         continue
 
+    if str(species_col).strip() == "threatenedStatusIUCN":
+
+        IUCN_TARGET = {"ew", "cr", "en", "vu"}
+
+        matches = []
+
+        for _, sp_row in df_sp.iterrows():
+
+            cell = sp_row["threatenedStatusIUCN"]
+
+            if pd.isna(cell):
+                continue
+
+            values = [normalize_key(v) for v in str(cell).split("//")]
+
+            # se QUALQUER categoria bater
+            if any(v in IUCN_TARGET for v in values):
+                matches.append(int(sp_row["speciesID"]))
+
+        if not matches:
+            db.add_error({
+                "linha_excel": i + 2,
+                "erro": "Nenhuma espécie ameaçada encontrada",
+                "column": "threatenedStatusIUCN"
+            })
+            continue
+
+        for sid in matches:
+            key = (resource_id, sid)
+
+            if key not in seen:
+                db.add_insert(
+                    f"INSERT INTO public_policies_species (resourceID, speciesID) VALUES ({resource_id}, {sid});"
+                )
+                seen.add(key)
+
+        continue
+
     # valida coluna
     if species_col not in df_sp.columns:
         db.add_error({

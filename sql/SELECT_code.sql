@@ -8,12 +8,16 @@
 -- Last update: 2025-10-10
 -- --------------------------------------------------------------
 
+USE biota_sociobiodiversidade;
+
 -- dados de políticas públicas (visual)
-SELECT pp.resourceID as "ID da politica", pp.title AS "Título", pp.description AS "Descrição", l.legislativeStatus AS 'Status da legislação', t.TYPE AS "Tpo da Política Pública", i.institution AS "instituicao", pp.bibliographicCitation AS "Referências bibliográficas", pp.references_url  AS "URL" FROM public_policies pp
+SELECT pp.resourceID as "ID da politica", pp.title AS "Título", pp.description AS "Descrição", pp.justification AS "Justificativa", l.legislativeStatus AS 'Status da legislação', t.TYPE AS "Tpo da Política Pública", i.institution AS "instituicao", pp.bibliographicCitation AS "Referências bibliográficas", pp.references_url  AS "URL" FROM public_policies pp
 JOIN type_pp t ON pp.typeID = t.typeID
 JOIN institutions i ON pp.institutionID = i.institutionID
 LEFT JOIN legislativestatus l ON pp.legislativeStatusID = l.legislativeStatusID  
 ORDER BY pp.resourceID;
+
+select * from public_policies;
 
 SELECT
     pp.resourceID,

@@ -1,0 +1,15420 @@
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (1, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (2, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (3, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (4, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (5, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (6, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (7, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (8, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (9, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (10, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (11, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (12, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (13, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (14, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (15, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (16, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (17, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (18, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (19, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (20, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (21, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (22, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (23, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (24, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (25, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (26, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (27, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (28, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (29, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (30, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (31, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (32, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (33, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (34, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (35, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (36, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (37, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (38, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (39, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (40, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (41, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (42, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (43, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (44, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (45, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (46, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (47, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (48, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (49, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (50, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (51, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (52, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (53, 3555406);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (54, 3555406);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (54, 3510500);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (54, 3520400);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (54, 3550704);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (55, 3524600);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (55, 3514809);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (55, 3509254);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (55, 3521200);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (55, 3505401);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (55, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (57, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (58, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (60, 3555406);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (61, 3520301);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (61, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (62, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (64, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (65, 3555406);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3549904);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3554102);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3524402);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3518404);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3527207);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3508603);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3513405);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3538006);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3502507);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3509700);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3535606);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (67, 3503505);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (68, 3520301);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (68, 3529906);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (68, 3523305);
+INSERT INTO public_policies_municipalities
+                (resourceID, municipalityID)
+                VALUES (69, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (71, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (72, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (73, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (74, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (75, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (76, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (77, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (78, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (79, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (80, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (81, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (82, 3555406);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3502705);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3505351);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3505401);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3509254);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3514809);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3517604);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3521200);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3522158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3522653);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3523305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3524600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3526100);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3526209);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3529906);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3536208);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3537206);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3542602);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3542800);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3543006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3543253);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3549953);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3551801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3553500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3502507);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3503158);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3503505);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3504909);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3508504);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3508603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3509700);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3509957);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3513405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3513603);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3518305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3518404);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3520202);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3524402);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3524907);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3525508);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3526308);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3526605);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3527207);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3531704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3532306);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3532405);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3535606);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3538006);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3538501);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3538600);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3540754);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3541901);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3542305);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3544301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3545001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3546009);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3546801);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3548203);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3548609);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3549607);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3549904);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3550001);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3552007);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3554102);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3554805);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3509908);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3520301);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3520426);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3510500);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3520400);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3550704);
+INSERT INTO public_policies_municipalities
+                    (resourceID, municipalityID)
+                    VALUES (83, 3555406);

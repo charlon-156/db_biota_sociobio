@@ -1,6 +1,12 @@
+###############################################################
+# Dev.: Charlon F. Monteiro
+# project: Banco de Dados Sociobiodiversidade
+# file: helpers.py
+# Last update: 2026-05-28
+###############################################################
+
 import pandas as pd
 import unicodedata
-
 
 # =========================
 # NORMALIZAÇÃO DE TEXTO

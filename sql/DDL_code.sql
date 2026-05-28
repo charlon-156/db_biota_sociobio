@@ -316,3 +316,11 @@ CREATE TABLE public_policies_species (
     FOREIGN KEY (resourceID) REFERENCES public_policies(resourceID),
     FOREIGN KEY (speciesID) REFERENCES species(speciesID)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE public_policies_municipalities (
+    resourceID SMALLINT,
+    municipalityID MEDIUMINT, 
+    PRIMARY KEY (resourceID, municipalityID),
+    FOREIGN KEY (resourceID) REFERENCES public_policies(resourceID),
+    FOREIGN KEY (municipalityID) REFERENCES municipalities(municipalityID)
+)  ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

@@ -14,10 +14,11 @@
 -- Projeto BIOTA/FAPESP - Sociobiodiversidade
  -- Políticas públicas com maior alcance sobre espécies ameaçadas
 
-SELECT pp.resourceID,
-       pp.title,
+SELECT pp.title AS título,
+	   pt.type AS tipo,
        COUNT(DISTINCT s.speciesID) AS especies_ameacadas
 FROM public_policies pp
+JOIN type_pp pt ON pp.typeID = pt.typeID
 JOIN public_policies_species pps ON pp.resourceID = pps.resourceID
 JOIN species s ON pps.speciesID = s.speciesID
 WHERE s.threatenedStatusIUCN IN ('CR','EN', 'VU','EW')
@@ -40,9 +41,9 @@ SELECT s.speciesID,
        s.scientificNameAuthorship,
        s.threatenedStatusIUCN
 FROM species s
-LEFT JOIN public_policies_species pps ON s.speciesID = pps.speciesID
+JOIN public_policies_species pps ON s.speciesID = pps.speciesID
 WHERE s.threatenedStatusIUCN IN ('CR','EN', 'VU','EW')
-  AND pps.resourceID IS NULL;
+;
 
 -- Municípios com maior quantidade de políticas públicas
 
@@ -117,7 +118,7 @@ ORDER BY total_especies DESC;
 
 -- Políticas públicas por tipo de instrumento
 
-SELECT tp.type,
+SELECT tp.type AS tipo,
        COUNT(*) AS total
 FROM public_policies pp
 JOIN type_pp tp ON pp.typeID = tp.typeID

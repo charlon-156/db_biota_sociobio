@@ -68,12 +68,6 @@ INSERT INTO public_policies
         VALUES ('Nº 40, DE 07 DE FEVEREIRO DE 2006', 'Convenção sobre Diversidade Biológica', 'BRASIL. Ministério do Meio Ambiente. Quarto Relatório Nacional para a Convenção sobre Diversidade Biológica. Brasília: MMA, 2010.', 'https://www.planalto.gov.br/ccivil_03/decreto/d2519.htm ; https://www.gov.br/mma/pt-br/assuntos/biodiversidade-e-biomas/biodiversidade1/convencao-sobre-diversidade-biologica ', 'Aprova execução da Convenção no âmbito nacional.', 2, 23, 3);
 INSERT INTO public_policies 
         (title, description, bibliographicCitation, references_url, justification, typeID, institutionID, LegislativeStatusID)
-        VALUES ('Nº 9.985, DE 18 DE JULHO DE 2000.', 'Sistema Nacional de Unidades de Conservação da Natureza — SNUC.', '
-BRASIL. Presidência da República. Decreto nº 2.519, de 16 de março de 1998. Promulga a Convenção sobre Diversidade Biológica, assinada no Rio de Janeiro, em 05 de junho de 1992. Diário Oficial da União, Brasília, DF, 17 mar 1998. Seção 1, p. 1.
-
-____. Ministério do Meio Ambiente. Quarto Relatório Nacional para a Convenção sobre Diversidade Biológica. Brasília: MMA, 2010.', 'https://www.gov.br/mma/pt-br/assuntos/biodiversidade-e-biomas/areas-protegidas/sistema-nacional-de-unidades-de-conservacao-da-natureza-snuc ; https://www.planalto.gov.br/ccivil_03/leis/l9985.htm ', 'Detalha categorias de UC e instrumentos legais. ', 3, 12, 3);
-INSERT INTO public_policies 
-        (title, description, bibliographicCitation, references_url, justification, typeID, institutionID, LegislativeStatusID)
         VALUES ('Nº 12.485, 3 DE JUNHO DE 2025', 'Id. Ministério do Meio Ambiente. Diretrizes e prioridades do plano de ação para implementação da Política Nacional da Biodiversidade. Brasília: MMA, 2006. (Série Biodiversidade, 22).', 'BRASIL. Presidência da República. Decreto nº 12.485, de 3 de junho de 2025. Dispõe sobre a Estratégia e o Plano de Ação Nacionais para a Biodiversidade. Diário Oficial da União, Brasília, DF, 4 jun. 2025. Seção 1, p. 6.
 
 ____. Ministério do Meio Ambiente. Diretrizes e prioridades do plano de ação para implementação da Política Nacional da Biodiversidade. Brasília: MMA, 2006. (Série Biodiversidade, 22).
